@@ -1,0 +1,144 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,I47,Paroxysmal tachycardia
+ICD10CM,R00.0,"Tachycardia, unspecified"
+ICD10CM,R00.2,Palpitations
+ICD10CM,I47.0,Re-entry ventricular arrhythmia
+ICD10CM,I47.1,Supraventricular tachycardia
+ICD10CM,I47.2,Ventricular tachycardia
+ICD10CM,I47.9,"Paroxysmal tachycardia, unspecified"
+SNOMED CT,80313002,Palpitations
+SNOMED CT,3424008,Tachycardia
+SNOMED CT,278086000,Baseline tachycardia
+SNOMED CT,278482008,Atrioventricular tachycardia
+SNOMED CT,282825002,Paroxysmal atrial fibrillation
+SNOMED CT,300996004,Controlled atrial fibrillation
+SNOMED CT,314208002,Rapid atrial fibrillation
+SNOMED CT,405806007,Pulseless ventricular tachycardia
+SNOMED CT,413342000,Neonatal tachycardia
+SNOMED CT,418493005,Right atrial incisional tachycardia
+SNOMED CT,418872003,Fascicular ventricular tachycardia
+SNOMED CT,419400008,Incisional tachycardia
+SNOMED CT,419671004,Catecholaminergic polymorphic ventricular tachycardia
+SNOMED CT,419752005,Sinoatrial nodal reentrant tachycardia
+SNOMED CT,420002000,Left atrial incisional tachycardia
+SNOMED CT,421348006,Tachycardia - baseline fetal heart rate
+SNOMED CT,425582007,Inappropriate sinus tachycardia
+SNOMED CT,426525004,Sustained ventricular tachycardia
+SNOMED CT,426749004,Chronic atrial fibrillation
+SNOMED CT,428919002,Palpitations with regular rhythm
+SNOMED CT,440028005,Permanent atrial fibrillation
+SNOMED CT,440059007,Persistent atrial fibrillation
+SNOMED CT,442515000,Reflex tachycardia
+SNOMED CT,444658006,Nonsustained ventricular tachycardia
+SNOMED CT,462169004,Fetal supraventricular tachycardia with short ventriculoatrial interval
+SNOMED CT,462170003,Fetal supraventricular tachycardia with long ventriculoatrial interval
+SNOMED CT,706923002,Longstanding persistent atrial fibrillation
+SNOMED CT,708124001,Recurrent ventricular tachycardia
+SNOMED CT,709065005,Postoperative fluttering heart
+SNOMED CT,710878005,Mahaim fiber tachycardia
+SNOMED CT,715395008,Familial atrial fibrillation
+SNOMED CT,718104007,Torsade de pointes with short coupling interval syndrome
+SNOMED CT,74615001,Tachycardia-bradycardia
+SNOMED CT,82838007,Irregular tachycardia
+SNOMED CT,102590007,Intermittent palpitations
+SNOMED CT,111288001,Ventricular flutter
+SNOMED CT,161968007,Bumping heart
+SNOMED CT,161969004,Fluttering heart
+SNOMED CT,162992001,O/E - pulse rate tachycardia
+SNOMED CT,195069001,Atrial paroxysmal tachycardia
+SNOMED CT,195070000,Paroxysmal atrioventricular tachycardia
+SNOMED CT,195071001,Paroxysmal junctional tachycardia
+SNOMED CT,195072008,Paroxysmal nodal tachycardia
+SNOMED CT,195080001,Atrial fibrillation and flutter
+SNOMED CT,195083004,Ventricular fibrillation and flutter
+SNOMED CT,195105007,Re-entry ventricular arrhythmia
+SNOMED CT,233893007,Re-entrant atrial tachycardia
+SNOMED CT,233895000,Ectopic atrioventricular node tachycardia
+SNOMED CT,233896004,Re-entrant atrioventricular node tachycardia
+SNOMED CT,233897008,Re-entrant atrioventricular tachycardia
+SNOMED CT,233898003,Orthodromic atrioventricular re-entrant tachycardia
+SNOMED CT,233899006,Antidromic atrioventricular re-entrant tachycardia
+SNOMED CT,233900001,Supraventricular tachycardia with functional bundle branch block
+SNOMED CT,233901002,His bundle tachycardia
+SNOMED CT,233902009,Congenital His bundle tachycardia
+SNOMED CT,233903004,Postoperative His bundle tachycardia
+SNOMED CT,233905006,Ventricular tachycardia with normal heart
+SNOMED CT,233906007,Familial ventricular tachycardia
+SNOMED CT,233907003,Induced ventricular tachycardia
+SNOMED CT,233908008,Incessant infant ventricular tachycardia
+SNOMED CT,233909000,Right ventricular outflow tract ventricular tachycardia
+SNOMED CT,233910005,Lone atrial fibrillation
+SNOMED CT,233911009,Non-rheumatic atrial fibrillation
+SNOMED CT,234225006,Cardiac pacemaker re-entrant tachycardia
+SNOMED CT,240298005,Fetal tachycardia
+SNOMED CT,248648003,Palpitations - rapid
+SNOMED CT,248657009,Pounding heart
+SNOMED CT,251155001,Junctional ectopic tachycardia
+SNOMED CT,251156000,Wide QRS ventricular tachycardia
+SNOMED CT,251157009,Narrow QRS ventricular tachycardia
+SNOMED CT,251158004,"Ventricular tachycardia, monomorphic"
+SNOMED CT,251159007,"Ventricular tachycardia, polymorphic"
+SNOMED CT,251160002,"Ventricular tachycardia, polymorphic without Q-T prolongation"
+SNOMED CT,251165007,AV junctional (nodal) tachycardia
+SNOMED CT,251166008,AV nodal re-entry tachycardia
+SNOMED CT,4006006,Fetal tachycardia affecting management of mother
+SNOMED CT,6285003,Tachyarrhythmia
+SNOMED CT,6456007,Supraventricular tachycardia
+SNOMED CT,6624005,Ventricular tachyarrhythmia
+SNOMED CT,11092001,Sinus tachycardia
+SNOMED CT,12026006,Paroxysmal tachycardia
+SNOMED CT,25569003,Ventricular tachycardia
+SNOMED CT,31722008,Torsades de pointes
+SNOMED CT,39357005,Paroxysmal atrial tachycardia with block
+SNOMED CT,49436004,Atrial fibrillation
+SNOMED CT,66657009,Paroxysmal ventricular tachycardia
+SNOMED CT,67198005,Paroxysmal supraventricular tachycardia
+SNOMED CT,725060001,Torsades de pointe caused by drug
+SNOMED CT,735682000,Macro re-entrant atrial tachycardia
+SNOMED CT,735683005,Cavotricuspid isthmus dependent macroreentry tachycardia
+SNOMED CT,735685003,Atrioventricular reciprocating tachycardia
+SNOMED CT,762247006,Preexcited atrial fibrillation
+SNOMED CT,789039008,Scar mediated macro re-entrant atrial tachycardia
+SNOMED CT,870695003,Fetal heart baseline rate range 180 to 200
+SNOMED CT,870696002,Fetal heart baseline rate range above 200
+SNOMED CT,870700005,Fetal heart baseline rate range 160 to 180
+SNOMED CT,5761000119100,Nonsustained paroxysmal supraventricular tachycardia
+SNOMED CT,21421000119109,Nonsustained paroxysmal ventricular tachycardia
+SNOMED CT,120041000119109,Atrial fibrillation with rapid ventricular response
+SNOMED CT,39260000,Nonparoxysmal atrioventricular nodal tachycardia
+SNOMED CT,1010405004,Paroxysmal atrial fibrillation with rapid ventricular response
+SNOMED CT,1142040009,Right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142041008,Non-scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142057008,Anticlockwise cavotricuspid isthmus dependent macroreentry tachycardia
+SNOMED CT,1142064005,Antidromic atrioventricular reciprocating tachycardia utilizing atrio-ventricular accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142118003,Atypical atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142066007,Antidromic atrioventricular reciprocating tachycardia utilizing atrio-fascicular accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142067003,Non scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142068008,Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142069000,Scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142082008,Idiopathic junctional ectopic tachycardia
+SNOMED CT,1142086006,Congenital junctional ectopic tachycardia
+SNOMED CT,1142090008,Clockwise cavotricuspid isthmus dependent macroreentry tachycardia
+SNOMED CT,1142093005,Left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142098001,Postoperative junctional ectopic tachycardia
+SNOMED CT,1142103004,Antidromic atrioventricular reciprocating tachycardia utilizing nodo-fascicular accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142105006,Typical atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142114001,Scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142117008,Atypical slow slow atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142119006,Atypical fast slow atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142120000,Orthodromic atrioventricular reciprocating tachycardia utilizing manifest accessory pathway
+SNOMED CT,1142121001,Atrioventricular nodal reentry tachycardia with twin atrioventricular nodes
+SNOMED CT,1142122008,Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with bidirectional conduction
+SNOMED CT,1142204001,Orthodromic atrioventricular reciprocating tachycardia utilizing concealed accessory pathway
+SNOMED CT,16415081000119104,Supraventricular tachycardia following acute myocardial infarction
+Truveta,1215968,Post-COVID-19 chronic palpitations
+SNOMED CT,1220643007,Regular wide QRS complex tachycardia
+SNOMED CT,1204167003,Catecholaminergic polymorphic ventricular tachycardia due to calsequestrin mutation
+SNOMED CT,1204129001,Catecholaminergic polymorphic ventricular tachycardia due to RYR2 mutation
+SNOMED CT,1197418004,"Familial atrial tachyarrhythmia, infra-Hisian cardiac conduction disease"
+SNOMED CT,1204205002,Left outflow tract ventricular tachycardia
+SNOMED CT,1208899000,Mitral annular ventricular tachycardia
+SNOMED CT,1208832006,Pacemaker mediated tachycardia
+SNOMED CT,1204171000,Bidirectional ventricular tachycardia
+SNOMED CT,1163438008,Idiopathic fascicular ventricular tachycardia
+SNOMED CT,1163437003,Idiopathic ventricular tachycardia

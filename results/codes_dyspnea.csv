@@ -1,0 +1,59 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,R06.0,Dyspnea
+ICD10CM,R06.00,"Dyspnea, unspecified"
+ICD10CM,R06.01,Orthopnea
+ICD10CM,R06.02,Shortness of breath
+ICD10CM,R06.03,Acute respiratory distress
+ICD10CM,R06.09,Other forms of dyspnea
+SNOMED CT,267036007,Dyspnea
+SNOMED CT,297216006,Increasing breathlessness
+SNOMED CT,390870001,Short of breath dressing/undressing
+SNOMED CT,390871002,Breathless - strenuous exertion
+SNOMED CT,391120009,Medical Research Council Dyspnoea scale grade 1
+SNOMED CT,391123006,Medical Research Council Dyspnoea scale grade 2
+SNOMED CT,391124000,Medical Research Council Dyspnoea scale grade 3
+SNOMED CT,391125004,Medical Research Council Dyspnoea scale grade 4
+SNOMED CT,391126003,Medical Research Council Dyspnoea scale grade 5
+SNOMED CT,397702004,Borg Breathlessness Score finding
+SNOMED CT,401275008,Borg Breathlessness Score: 0 none at all
+SNOMED CT,401279002,Borg Breathlessness Score: 1 very slight
+SNOMED CT,401280004,Borg Breathlessness Score: 2 slight
+SNOMED CT,401281000,Borg Breathlessness Score: 3 moderate
+SNOMED CT,401282007,Borg Breathlessness Score: 4 somewhat severe
+SNOMED CT,401284008,Borg Breathlessness Score: 5 severe
+SNOMED CT,401286005,Borg Breathlessness Score: 6 severe (+)
+SNOMED CT,401290007,Borg Breathlessness Score: 7 very severe
+SNOMED CT,401291006,Borg Breathlessness Score: 8 very severe (+)
+SNOMED CT,401292004,"Borg Breathlessness Score: 9 very, very severe (almost maximal)"
+SNOMED CT,401293009,Borg Breathlessness Score: 10 maximal
+SNOMED CT,401323002,"Borg Breathlessness Score: 0.5 very, very slight (just noticeable)"
+SNOMED CT,407588003,Unable to complete a sentence in one breath
+SNOMED CT,102577000,Trepopnea
+SNOMED CT,161939006,Breathless - moderate exertion
+SNOMED CT,161940008,Breathless - mild exertion
+SNOMED CT,161941007,Dyspnea at rest
+SNOMED CT,162890008,O/E - dyspnea
+SNOMED CT,162891007,O/E - orthopnea
+SNOMED CT,248548009,Nocturnal dyspnea
+SNOMED CT,17216000,"Dyspnea, class I"
+SNOMED CT,20112008,Dyspnea leaning over
+SNOMED CT,23141003,Gasping for breath
+SNOMED CT,24921003,Dyspnea raising arms
+SNOMED CT,25209001,Inspiratory dyspnea
+SNOMED CT,30744009,Platypnea
+SNOMED CT,34560001,Expiratory dyspnea
+SNOMED CT,55442000,Paroxysmal nocturnal dyspnea
+SNOMED CT,57769004,Dyspnea after eating
+SNOMED CT,59265000,Paroxysmal dyspnea
+SNOMED CT,60845006,Dyspnea on exertion
+SNOMED CT,62744007,Orthopnea
+SNOMED CT,870535009,Chronic dyspnea
+SNOMED CT,119981000146107,Dyspnea caused by severe acute respiratory syndrome coronavirus 2
+SNOMED CT,39950000,"Dyspnea, class 3"
+SNOMED CT,72365000,"Dyspnea, class 2"
+SNOMED CT,73322006,"Dyspnea, class 4"
+SNOMED CT,422177004,Dyspnea with AIDS (acquired immunodeficiency syndrome)
+Truveta,1215952,Persistent dyspnea after COVID-19
+Truveta,1215959,Post-COVID-19 chronic dyspnea
+Truveta,1215975,Shortness of breath with exposure to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+SNOMED CT,1217110005,Bendopnea

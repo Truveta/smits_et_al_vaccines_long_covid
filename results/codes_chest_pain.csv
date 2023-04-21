@@ -1,0 +1,132 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,R07,Pain in throat and chest
+ICD10CM,R07.0,Pain in throat
+ICD10CM,R07.1,Chest pain on breathing
+ICD10CM,R07.2,Precordial pain
+ICD10CM,R07.8,Other chest pain
+ICD10CM,R07.81,Pleurodynia
+ICD10CM,R07.82,Intercostal pain
+ICD10CM,R07.89,Other chest pain
+ICD10CM,R07.9,"Chest pain, unspecified"
+SNOMED CT,29857009,Chest pain
+SNOMED CT,267981009,Pain in thoracic spine
+SNOMED CT,274664007,Chest pain on breathing
+SNOMED CT,274668005,Non-cardiac chest pain
+SNOMED CT,279019008,Central crushing chest pain
+SNOMED CT,279035001,Acute thoracic back pain
+SNOMED CT,279036000,Myofascial pain syndrome of thorax
+SNOMED CT,279037009,Thoracic segmental dysfunction
+SNOMED CT,279038004,Thoracic back pain
+SNOMED CT,279048002,Internal mammary artery syndrome
+SNOMED CT,279054001,Pain when milk coming in
+SNOMED CT,281245003,Musculoskeletal chest pain
+SNOMED CT,285385002,Left sided chest pain
+SNOMED CT,285386001,Right sided chest pain
+SNOMED CT,285389008,Upper chest pain
+SNOMED CT,297217002,Rib pain
+SNOMED CT,298254008,Thoracic facet joint pain
+SNOMED CT,298579007,Pain on movement of thoracic spine
+SNOMED CT,298731003,Pain of sternum
+SNOMED CT,300995000,Exercise-induced angina
+SNOMED CT,314116003,Post infarct angina
+SNOMED CT,315025001,Refractory angina
+SNOMED CT,315248002,Intractable breast pain
+SNOMED CT,315250005,Persistent mastalgia
+SNOMED CT,371030007,Squeezing chest pain
+SNOMED CT,371806006,Progressive angina
+SNOMED CT,371807002,Atypical angina
+SNOMED CT,371808007,Recurrent angina after percutaneous transluminal coronary angioplasty
+SNOMED CT,371809004,Recurrent angina following placement of coronary artery stent
+SNOMED CT,371810009,Recurrent angina after coronary artery bypass graft
+SNOMED CT,371811008,Recurrent angina post rotational atherectomy
+SNOMED CT,371812001,Recurrent angina after directional coronary atherectomy
+SNOMED CT,425991004,Cervicothoracic segmental dysfunction
+SNOMED CT,426396005,Cardiac chest pain
+SNOMED CT,429559004,Typical angina
+SNOMED CT,444227004,Acute postthoracotomy pain syndrome
+SNOMED CT,713829001,Postinfective intercostal neuralgia
+SNOMED CT,713839007,Intercostal neuralgia as late effect of trauma
+SNOMED CT,71884009,Precordial pain
+SNOMED CT,81953000,Chest pain on exertion
+SNOMED CT,83264000,Epidemic pleurodynia
+SNOMED CT,85284003,"Angina, class III"
+SNOMED CT,87343002,Prinzmetal angina
+SNOMED CT,89323001,"Angina, class IV"
+SNOMED CT,89638008,Xiphodynia
+SNOMED CT,89874002,Xiphoidalgia syndrome
+SNOMED CT,95421005,Intercostal myalgia
+SNOMED CT,102587001,Acute chest pain
+SNOMED CT,102588006,Chest wall pain
+SNOMED CT,102589003,Atypical chest pain
+SNOMED CT,103015000,Thoracic nerve root pain
+SNOMED CT,135876005,Mastalgia of puberty
+SNOMED CT,161972006,Central chest pain
+SNOMED CT,161973001,Anterior chest wall pain
+SNOMED CT,161974007,Parasternal pain
+SNOMED CT,161977000,Costal margin chest pain
+SNOMED CT,194823009,Acute coronary insufficiency
+SNOMED CT,194828000,Angina pectoris
+SNOMED CT,200430001,Breastfeeding painful
+SNOMED CT,202478007,Sternoclavicular joint pain
+SNOMED CT,225566008,Ischemic chest pain
+SNOMED CT,230597003,Intercostal post-herpetic neuralgia
+SNOMED CT,230648001,Abdominal cutaneous nerve entrapment syndrome
+SNOMED CT,233819005,Stable angina
+SNOMED CT,233821000,New onset angina
+SNOMED CT,233845001,Cardiac syndrome X
+SNOMED CT,237453001,Cyclical mastalgia
+SNOMED CT,237454007,Non-cyclical mastalgia
+SNOMED CT,237455008,Trigger point mastalgia
+SNOMED CT,237477007,Pain caused by breast implant
+SNOMED CT,239175003,Post-thoracotomy pain syndrome
+SNOMED CT,247350000,Sore nipple
+SNOMED CT,247389006,Intercostal neuralgia
+SNOMED CT,247415009,Painful lactation
+SNOMED CT,2237002,Pleuritic pain
+SNOMED CT,3368006,Dull chest pain
+SNOMED CT,4557003,Preinfarction syndrome
+SNOMED CT,4568003,Retrosternal pain
+SNOMED CT,9267009,Chest pain at rest
+SNOMED CT,10000006,Radiating chest pain
+SNOMED CT,13057000,Pleuropericardial chest pain
+SNOMED CT,19057007,Status anginosus
+SNOMED CT,20793008,Scapulalgia
+SNOMED CT,21470009,Syncope anginosa
+SNOMED CT,35928006,Nocturnal angina
+SNOMED CT,36859004,Esophageal chest pain
+SNOMED CT,41334000,"Angina, class II"
+SNOMED CT,53430007,Pain of breast
+SNOMED CT,59021001,Angina decubitus
+SNOMED CT,59139008,Crushing chest pain
+SNOMED CT,61490001,"Angina, class I"
+SNOMED CT,735940001,Pain of intercostal space
+SNOMED CT,866043000,Neuralgia of twelfth thoracic nerve
+SNOMED CT,7921000119104,Anterior pleuritic pain
+SNOMED CT,34791000119103,Chest pain due to pericarditis
+SNOMED CT,41321000119101,Myofascial pain syndrome of thoracic spine
+SNOMED CT,97001000119106,Localized chest pain
+SNOMED CT,98611000119104,Chronic post-thoracotomy pain syndrome
+SNOMED CT,136791000119103,Chronic thoracic back pain
+SNOMED CT,434011000124101,Chronic chest pain
+SNOMED CT,1075631000119107,Pain of right sternoclavicular joint
+SNOMED CT,1075651000119101,Pain of left sternoclavicular joint
+SNOMED CT,12242431000119109,Mastodynia of bilateral breasts
+SNOMED CT,12242471000119107,Mastodynia of left breast
+SNOMED CT,12242511000119103,Mastodynia of right breast
+SNOMED CT,15743641000119101,Pain of bilateral sternoclavicular joints
+SNOMED CT,15743681000119106,Bilateral pain of shoulder blades
+SNOMED CT,15960061000119102,Unstable angina co-occurrent and due to coronary arteriosclerosis
+SNOMED CT,15960141000119102,Angina co-occurrent and due to coronary arteriosclerosis
+SNOMED CT,15960381000119109,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+SNOMED CT,15960541000119107,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft
+SNOMED CT,15960581000119102,Arteriosclerosis of autologous vein coronary artery bypass graft with angina
+SNOMED CT,15960661000119107,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+SNOMED CT,15960781000119108,Arteriosclerosis of autologous arterial coronary artery bypass graft with angina
+SNOMED CT,16754391000119100,Stable angina due to coronary arteriosclerosis
+SNOMED CT,774134007,Right scapulalgia
+SNOMED CT,774135008,Left scapulalgia
+SNOMED CT,791000119109,Angina due to type 2 diabetes mellitus
+SNOMED CT,1010235008,Mastodynia of left breast
+SNOMED CT,1010237000,Mastodynia of right breast
+SNOMED CT,15960341000119104,Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart
+SNOMED CT,15960461000119105,Unstable angina due to arteriosclerosis of autologous arterial coronary artery bypass graft

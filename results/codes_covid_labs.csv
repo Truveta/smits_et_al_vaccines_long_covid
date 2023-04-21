@@ -1,0 +1,42 @@
+CodeSystem,ConceptCode,ConceptName
+LOINC,94307-6,SARS-CoV-2 (COVID-19) N gene [Presence] in Specimen by Nucleic acid amplification using CDC primer-probe set N1
+LOINC,94308-4,SARS-CoV-2 (COVID-19) N gene [Presence] in Specimen by Nucleic acid amplification using CDC primer-probe set N2
+LOINC,94309-2,SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen by NAA with probe detection
+LOINC,94314-2,SARS-CoV-2 (COVID-19) RdRp gene [Presence] in Specimen by NAA with probe detection
+LOINC,94316-7,SARS-CoV-2 (COVID-19) N gene [Presence] in Specimen by NAA with probe detection
+LOINC,94500-6,SARS-CoV-2 (COVID-19) RNA [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,94533-7,SARS-CoV-2 (COVID-19) N gene [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,94534-5,SARS-CoV-2 (COVID-19) RdRp gene [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,94559-2,SARS-CoV-2 (COVID-19) ORF1ab region [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,94565-9,SARS-CoV-2 (COVID-19) RNA [Presence] in Nasopharynx by NAA with non-probe detection
+LOINC,94639-2,SARS-CoV-2 (COVID-19) ORF1ab region [Presence] in Specimen by NAA with probe detection
+LOINC,94640-0,SARS-CoV-2 (COVID-19) S gene [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,94641-8,SARS-CoV-2 (COVID-19) S gene [Presence] in Specimen by NAA with probe detection
+LOINC,94660-8,SARS-CoV-2 (COVID-19) RNA [Presence] in Serum or Plasma by NAA with probe detection
+LOINC,94756-4,SARS-CoV-2 (COVID-19) N gene [Presence] in Respiratory specimen by Nucleic acid amplification using CDC primer-probe set N1
+LOINC,94757-2,SARS-CoV-2 (COVID-19) N gene [Presence] in Respiratory specimen by Nucleic acid amplification using CDC primer-probe set N2
+LOINC,94759-8,SARS-CoV-2 (COVID-19) RNA [Presence] in Nasopharynx by NAA with probe detection
+LOINC,94766-3,SARS-CoV-2 (COVID-19) N gene [Presence] in Serum or Plasma by NAA with probe detection
+LOINC,94767-1,SARS-CoV-2 (COVID-19) S gene [Presence] in Serum or Plasma by NAA with probe detection
+LOINC,94845-5,SARS-CoV-2 (COVID-19) RNA [Presence] in Saliva (oral fluid) by NAA with probe detection
+LOINC,95406-5,SARS-CoV-2 (COVID-19) RNA [Presence] in Nose by NAA with probe detection
+LOINC,95409-9,SARS-CoV-2 (COVID-19) N gene [Presence] in Nose by NAA with probe detection
+LOINC,95425-5,SARS-CoV-2 (COVID-19) N gene [Presence] in Saliva (oral fluid) by NAA with probe detection
+LOINC,95608-6,SARS-CoV-2 (COVID-19) RNA [Presence] in Respiratory specimen by NAA with non-probe detection
+LOINC,95824-9,SARS-CoV-2 (COVID-19) ORF1ab region [Presence] in Saliva (oral fluid) by NAA with probe detection
+LOINC,96091-4,SARS-CoV-2 (COVID-19) RdRp gene [Presence] in Saliva (oral fluid) by NAA with probe detection
+LOINC,96120-1,SARS-CoV-2 (COVID-19) RdRp gene [Presence] in Lower respiratory specimen by NAA with probe detection
+LOINC,96123-5,SARS-CoV-2 (COVID-19) RdRp gene [Presence] in Upper respiratory specimen by NAA with probe detection
+LOINC,96448-6,SARS-CoV-2 (COVID-19) N gene [Presence] in Saliva (oral fluid) by Nucleic acid amplification using CDC primer-probe set N1
+LOINC,98131-6,SARS-CoV-2 (COVID-19) ORF1b region [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,98132-4,SARS-CoV-2 (COVID-19) ORF1a region [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,98493-0,SARS-CoV-2 (COVID-19) ORF1b region [Presence] in Saliva (oral fluid) by NAA with probe detection
+LOINC,98494-8,SARS-CoV-2 (COVID-19) ORF1a region [Presence] in Saliva (oral fluid) by NAA with probe detection
+LOINC,96763-8,SARS-CoV-2 (COVID-19) E gene [Presence] in Respiratory specimen by NAA with probe detection
+LOINC,96765-3,SARS-CoV-2 (COVID-19) S gene [Presence] in Saliva (oral fluid) by NAA with probe detection
+LOINC,96797-6,SARS-CoV-2 (COVID-19) RNA [Presence] in Oropharyngeal wash by NAA with probe detection
+LOINC,96829-7,SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen from Donor by NAA with probe detection
+LOINC,96957-6,SARS-CoV-2 (COVID-19) M gene [Presence] in Upper respiratory specimen by NAA with probe detection
+LOINC,96958-4,SARS-CoV-2 (COVID-19) N gene [Presence] in Saliva (oral fluid) by Nucleic acid amplification using CDC primer-probe set N2
+LOINC,96986-5,SARS-CoV-2 (COVID-19) N gene [Presence] in Nose by NAA with non-probe detection
+LOINC,97098-8,SARS-CoV-2 (COVID-19) Nsp2 gene [Presence] in Upper respiratory specimen by NAA with probe detection

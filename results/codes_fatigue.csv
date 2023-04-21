@@ -1,0 +1,13 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,G93.3,Postviral fatigue syndrome
+ICD10CM,R53.8,Other malaise and fatigue
+ICD10CM,R53.81,Other malaise
+ICD10CM,R53.82,"Chronic fatigue, unspecified"
+ICD10CM,R53.83,Other fatigue
+SNOMED CT,271795006,Malaise and fatigue
+SNOMED CT,224960004,Tired
+SNOMED CT,52702003,Chronic fatigue syndrome
+SNOMED CT,267032009,Tired all the time
+SNOMED CT,444042007,Postexertional fatigue
+SNOMED CT,713568000,Occasionally tired
+SNOMED CT,248269005,Tired on least exertion

@@ -1,0 +1,65 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,M79.1,Myalgia
+ICD10CM,M79.10,"Myalgia, unspecified site"
+ICD10CM,M79.11,Myalgia of mastication muscle
+ICD10CM,M79.12,"Myalgia of auxiliary muscles, head and neck"
+ICD10CM,M79.18,"Myalgia, other site"
+SNOMED CT,68962001,Muscle pain
+SNOMED CT,279030006,Myofascial pain syndrome of neck
+SNOMED CT,279036000,Myofascial pain syndrome of thorax
+SNOMED CT,279041008,Myofascial pain syndrome of lower back
+SNOMED CT,279070004,Muscle tension pain
+SNOMED CT,288225004,Myalgia/myositis - multiple
+SNOMED CT,288226003,Myalgia/myositis - shoulder
+SNOMED CT,288227007,Myalgia/myositis - upper arm
+SNOMED CT,288228002,Myalgia/myositis - forearm
+SNOMED CT,288229005,Myalgia/myositis - hand
+SNOMED CT,288230000,Myalgia/myositis -pelvis/thigh
+SNOMED CT,288231001,Myalgia/myositis - lower leg
+SNOMED CT,288232008,Myalgia/myositis - ankle/foot
+SNOMED CT,298292009,Pain on movement of skeletal muscle
+SNOMED CT,403735006,Eosinophilia-myalgia syndrome from tryptophan
+SNOMED CT,699682009,Localized masticatory muscle soreness
+SNOMED CT,702549002,Centrally mediated myalgia
+SNOMED CT,712752004,Myalgia of pelvic floor
+SNOMED CT,76821002,Epidemic cervical myalgia
+SNOMED CT,83264000,Epidemic pleurodynia
+SNOMED CT,85879003,Secondary fibrositis
+SNOMED CT,95415006,Polymyalgia
+SNOMED CT,95416007,Eosinophilia myalgia syndrome
+SNOMED CT,95417003,Primary fibromyalgia syndrome
+SNOMED CT,95421005,Intercostal myalgia
+SNOMED CT,95443002,Venous intermittent claudication
+SNOMED CT,102557007,Arm claudication
+SNOMED CT,240044003,Fibrositis and nodular fasciitis
+SNOMED CT,240107001,Viral myalgia
+SNOMED CT,30173002,Primary fibrositis
+SNOMED CT,43922008,Jaw claudication
+SNOMED CT,49605003,Ophthalmoplegic migraine
+SNOMED CT,54981004,Charleyhorse
+SNOMED CT,56557000,Fibrositis
+SNOMED CT,792845002,Intermittent claudication due to atherosclerosis of artery of limb
+SNOMED CT,28221000119103,Abdominal muscle pain
+SNOMED CT,41321000119101,Myofascial pain syndrome of thoracic spine
+SNOMED CT,113611000119100,Myofascial pain syndrome of lumbar spine
+SNOMED CT,301161000119100,Repetitive strain injury of left ankle
+SNOMED CT,301171000119106,Repetitive strain injury of left foot
+SNOMED CT,301221000119101,Repetitive strain injury of left thigh
+SNOMED CT,301241000119107,Repetitive strain injury of right ankle
+SNOMED CT,301251000119109,Repetitive strain injury of right foot
+SNOMED CT,301301000119103,Repetitive strain injury of right thigh
+SNOMED CT,431061000124100,"Ophthalmoplegic migraine, refractory"
+SNOMED CT,12236951000119108,Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis
+SNOMED CT,12237071000119100,Intermittent claudication of left lower limb co-occurrent and due to atherosclerosis
+SNOMED CT,12237191000119103,Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis
+SNOMED CT,15704721000119106,Repetitive strain injury of bilateral hands
+SNOMED CT,15704761000119101,Repetitive strain injury of bilateral forearms
+SNOMED CT,16013711000119104,Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis of bypass graft
+SNOMED CT,16014031000119109,Atherosclerosis of bypass graft of left lower limb with intermittent claudication
+SNOMED CT,16014071000119107,Atherosclerosis of bypass graft of bilateral lower limbs with intermittent claudication
+SNOMED CT,16462851000119106,Myalgia caused by statin
+SNOMED CT,63491006,Claudication
+SNOMED CT,726531007,MPS - myofascial pain syndrome
+SNOMED CT,16013431000119104,Bilateral intermittent claudication of lower limbs due to atherosclerosis of nonbiological bypass graft
+Truveta,1215966,Post-COVID-19 chronic muscle pain
+SNOMED CT,610921000124106,Pain of erector spinae muscle

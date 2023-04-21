@@ -1,0 +1,181 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,R10.1,Pain localized to upper abdomen
+ICD10CM,R10.3,Pain localized to other parts of lower abdomen
+ICD10CM,R10.8,Other abdominal pain
+ICD10CM,R10.9,Unspecified abdominal pain
+ICD10CM,R10.10,"Upper abdominal pain, unspecified"
+ICD10CM,R10.11,Right upper quadrant pain
+ICD10CM,R10.12,Left upper quadrant pain
+ICD10CM,R10.13,Epigastric pain
+ICD10CM,R10.30,"Lower abdominal pain, unspecified"
+ICD10CM,R10.31,Right lower quadrant pain
+ICD10CM,R10.32,Left lower quadrant pain
+ICD10CM,R10.33,Periumbilical pain
+ICD10CM,R10.81,Abdominal tenderness
+ICD10CM,R10.811,Right upper quadrant abdominal tenderness
+ICD10CM,R10.812,Left upper quadrant abdominal tenderness
+ICD10CM,R10.813,Right lower quadrant abdominal tenderness
+ICD10CM,R10.814,Left lower quadrant abdominal tenderness
+ICD10CM,R10.815,Periumbilic abdominal tenderness
+ICD10CM,R10.816,Epigastric abdominal tenderness
+ICD10CM,R10.817,Generalized abdominal tenderness
+ICD10CM,R10.819,"Abdominal tenderness, unspecified site"
+ICD10CM,R10.82,Rebound abdominal tenderness
+ICD10CM,R10.821,Right upper quadrant rebound abdominal tenderness
+ICD10CM,R10.822,Left upper quadrant rebound abdominal tenderness
+ICD10CM,R10.823,Right lower quadrant rebound abdominal tenderness
+ICD10CM,R10.824,Left lower quadrant rebound abdominal tenderness
+ICD10CM,R10.825,Periumbilic rebound abdominal tenderness
+ICD10CM,R10.826,Epigastric rebound abdominal tenderness
+ICD10CM,R10.827,Generalized rebound abdominal tenderness
+ICD10CM,R10.829,"Rebound abdominal tenderness, unspecified site"
+ICD10CM,R10.83,Colic
+ICD10CM,R10.84,Generalized abdominal pain
+SNOMED CT,21522001,Abdominal pain
+SNOMED CT,266599000,Dysmenorrhea
+SNOMED CT,271681002,Stomach ache
+SNOMED CT,271832001,"Flatulence, eructation and gas pain"
+SNOMED CT,271853005,Hypochondrial pain
+SNOMED CT,271857006,Loin pain
+SNOMED CT,271858001,Recurrent acute abdominal pain
+SNOMED CT,272021002,C/O - ureteric colic
+SNOMED CT,272047006,C/O - loin pain
+SNOMED CT,272049009,C/O - renal pain
+SNOMED CT,274277005,C/O right iliac fossa pain
+SNOMED CT,274278000,C/O left iliac fossa pain
+SNOMED CT,274279008,Renal pain
+SNOMED CT,274280006,Ureteric pain
+SNOMED CT,274287009,O/E - abdominal pain
+SNOMED CT,274288004,O/E - epigastric pain
+SNOMED CT,274289007,On examination - iliac pain - abdominal
+SNOMED CT,274290003,On examination - lumbar pain abdominal
+SNOMED CT,275314000,Anal stump pain
+SNOMED CT,275406005,Appendicular pain
+SNOMED CT,276498006,C/O - ureteric pain
+SNOMED CT,279028009,Ovarian pain
+SNOMED CT,285387005,Left sided abdominal pain
+SNOMED CT,285388000,Right sided abdominal pain
+SNOMED CT,286993001,Dysmenorrhea - non-psychogenic
+SNOMED CT,289669005,Pain of uterus
+SNOMED CT,289670006,Pain on movement of uterus
+SNOMED CT,289732000,Painful uterine contractions
+SNOMED CT,289817003,Pain of cervix
+SNOMED CT,289818008,Pain on movement of cervix
+SNOMED CT,289845009,Pain on movement of ovary
+SNOMED CT,301367001,Right hypochondrial pain
+SNOMED CT,301368006,Left hypochondrial pain
+SNOMED CT,301715003,Left upper quadrant pain
+SNOMED CT,301716002,Left lower quadrant pain
+SNOMED CT,301717006,Right upper quadrant pain
+SNOMED CT,301754002,Right lower quadrant pain
+SNOMED CT,302770003,Tenesmus - anal
+SNOMED CT,304542004,Nonspecific abdominal pain
+SNOMED CT,308903002,On examination - epigastric pain on palpation
+SNOMED CT,309737007,Abdominal pain in pregnancy
+SNOMED CT,314041007,Abdominal pain in early pregnancy
+SNOMED CT,314212008,Abdominal pain - cause unknown
+SNOMED CT,371094000,Colicky hypogastric pain
+SNOMED CT,371102005,Generalized colicky abdominal pain
+SNOMED CT,414991007,Painful haemorrhage of rectum
+SNOMED CT,426135001,Chronic prostatitis - chronic pelvic pain syndrome
+SNOMED CT,426628005,Chronic vaginal pain
+SNOMED CT,438506002,Visceral abdominal pain
+SNOMED CT,439469002,Recurrent abdominal pain
+SNOMED CT,443503005,Periumbilical pain
+SNOMED CT,444746004,Acute exacerbation of chronic abdominal pain
+SNOMED CT,449890002,Functional abdominal pain syndrome
+SNOMED CT,707597009,Continuous abdominal pain of left lower quadrant
+SNOMED CT,69186005,Broad ligament laceration syndrome
+SNOMED CT,71850005,Abdominal pain worse on motion
+SNOMED CT,74704000,Abdominal pain through to back
+SNOMED CT,75879005,Abdominal migraine
+SNOMED CT,77880009,Rectal pain
+SNOMED CT,79922009,Epigastric pain
+SNOMED CT,83132003,Upper abdominal pain
+SNOMED CT,86208007,Loin pain-hematuria syndrome
+SNOMED CT,88522004,Umbilical pain
+SNOMED CT,102613000,Localized abdominal pain
+SNOMED CT,102614006,Generalized abdominal pain
+SNOMED CT,102615007,Ulcer-type pain
+SNOMED CT,102626001,Liver pain
+SNOMED CT,102628000,Gallbladder pain
+SNOMED CT,102631004,Pancreatic pain
+SNOMED CT,102831002,Renal angle pain
+SNOMED CT,111985007,Chronic abdominal pain
+SNOMED CT,116290004,Acute abdominal pain
+SNOMED CT,162038003,Non-colicky abdominal pain
+SNOMED CT,162040008,Abdominal migraine - symptom
+SNOMED CT,162042000,Abdominal wall pain
+SNOMED CT,162046002,Central abdominal pain
+SNOMED CT,162047006,Left subcostal pain
+SNOMED CT,162048001,Right subcostal pain
+SNOMED CT,162049009,Left flank pain
+SNOMED CT,162050009,Right flank pain
+SNOMED CT,162051008,Right iliac fossa pain
+SNOMED CT,162052001,Left iliac fossa pain
+SNOMED CT,162053006,Suprapubic pain
+SNOMED CT,163214004,On examination - abdominal pain - right hypochondrium
+SNOMED CT,163215003,On examination - abdominal pain - epigastrium
+SNOMED CT,163216002,On examination - abdominal pain - left hypochondrium
+SNOMED CT,163217006,On examination - abdominal pain - right lumbar
+SNOMED CT,163218001,On examination - abdominal pain - umbilical
+SNOMED CT,163219009,On examination - abdominal pain - left lumbar
+SNOMED CT,163220003,On examination - abdominal pain - right iliac
+SNOMED CT,163221004,On examination - abdominal pain - hypogastrium
+SNOMED CT,163222006,On examination - abdominal pain - left iliac
+SNOMED CT,164167004,O/E - painful splenomegaly
+SNOMED CT,196791007,Appendicular colic
+SNOMED CT,197232005,Anorectal pain
+SNOMED CT,230648001,Abdominal cutaneous nerve entrapment syndrome
+SNOMED CT,235841007,Chronic nonspecific abdominal pain
+SNOMED CT,236554001,Pain during inflow of dialysate
+SNOMED CT,236555000,Pain during outflow of dialysate
+SNOMED CT,238970000,Proctodynia
+SNOMED CT,247352008,Subcostal pain
+SNOMED CT,247353003,Site of abdominal pain
+SNOMED CT,247354009,Iliac fossa pain
+SNOMED CT,247355005,Flank pain
+SNOMED CT,247361008,Evening colic
+SNOMED CT,247362001,Pain on abdominal wall movement
+SNOMED CT,5268006,Mechanical dysmenorrhea
+SNOMED CT,6548007,Rectal tenesmus
+SNOMED CT,6744007,Painful bladder spasm
+SNOMED CT,7093002,Renal colic
+SNOMED CT,9991008,Abdominal colic
+SNOMED CT,1197719006,Functional abdominal pain of childhood
+SNOMED CT,15803009,Bladder pain
+SNOMED CT,16844001,Painful urging to urinate
+SNOMED CT,17329003,Ureteric colic
+SNOMED CT,21005005,Burning epigastric pain
+SNOMED CT,32096006,Secondary dysmenorrhea
+SNOMED CT,35074008,Chronic idiopathic anal pain
+SNOMED CT,35363006,Infantile colic
+SNOMED CT,36729000,Pain of prostate
+SNOMED CT,37389005,Biliary colic
+SNOMED CT,37488003,Vulvovaginal pain
+SNOMED CT,38343000,Vaginal pain
+SNOMED CT,38654001,Recurrent biliary colic
+SNOMED CT,39402007,Pelvic congestion syndrome
+SNOMED CT,43548008,Mittelschmerz
+SNOMED CT,45979003,Abdominal wind pain
+SNOMED CT,54586004,Lower abdominal pain
+SNOMED CT,60043000,Midabdominal crampy pain
+SNOMED CT,62647006,Painful spasm of anus
+SNOMED CT,68653001,Anal pain
+SNOMED CT,722876002,Functional heartburn
+SNOMED CT,784285002,Vesical tenesmus
+SNOMED CT,838410008,Pain in epigastric region on palpation
+SNOMED CT,838411007,Pain in abdominal region on palpation
+SNOMED CT,122141000119109,Refractory abdominal migraine
+SNOMED CT,125661000119107,Biliary colic with obstruction
+SNOMED CT,136051000119105,Abdominal colic in child less than or equal to 12 months
+SNOMED CT,136571000119109,Adult colic
+SNOMED CT,137891000119105,Abdominal colic in adult or child greater than 12 months
+SNOMED CT,10760581000119104,Pain in round ligament in pregnancy
+SNOMED CT,14440001000004101,Postoperative abdominal pain
+SNOMED CT,14700001000004102,Intractable abdominal pain
+SNOMED CT,16580691000119107,Chronic urinary bladder pain
+SNOMED CT,65754002,Spasmodic dysmenorrhea
+SNOMED CT,1119217009,Pain in right abdominal lumbar region
+SNOMED CT,1119218004,Pain in left abdominal lumbar region
+SNOMED CT,1197734000,Chronic proctalgia

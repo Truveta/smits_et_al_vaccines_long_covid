@@ -1,0 +1,313 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,F06.3,Mood disorder due to known physiological condition
+ICD10CM,F34,Persistent mood [affective] disorders
+ICD10CM,F39,Unspecified mood [affective] disorder
+ICD10CM,F06.30,"Mood disorder due to known physiological condition, unspecified"
+ICD10CM,F06.31,Mood disorder due to known physiological condition with depressive features
+ICD10CM,F06.32,Mood disorder due to known physiological condition with major depressive-like episode
+ICD10CM,F06.33,Mood disorder due to known physiological condition with manic features
+ICD10CM,F06.34,Mood disorder due to known physiological condition with mixed features
+ICD10CM,F34.0,Cyclothymic disorder
+ICD10CM,F34.1,Dysthymic disorder
+ICD10CM,F34.8,Other persistent mood [affective] disorders
+ICD10CM,F34.81,Disruptive mood dysregulation disorder
+ICD10CM,F34.89,Other specified persistent mood disorders
+ICD10CM,F34.9,"Persistent mood [affective] disorder, unspecified"
+SNOMED CT,106131003,Mood finding
+SNOMED CT,932006,Flat affect
+SNOMED CT,1402001,Fear
+SNOMED CT,5240007,Inappropriate jocularity
+SNOMED CT,6140007,Blunted affect
+SNOMED CT,9066006,Feeling of discouragement
+SNOMED CT,11542009,Loss of affect
+SNOMED CT,17029006,Feeling despair
+SNOMED CT,18963009,Mood swings
+SNOMED CT,19512009,Fear of insects
+SNOMED CT,20602000,Indifference
+SNOMED CT,24109003,Bromhidrosiphobia
+SNOMED CT,24936000,Emotionally detached
+SNOMED CT,25467004,Hyperaffectivity
+SNOMED CT,27596001,Hyposensitivity
+SNOMED CT,28290006,Inappropriate affect
+SNOMED CT,30819006,Dysphoric mood
+SNOMED CT,31492004,Fear of school
+SNOMED CT,33314005,Hypoaffectivity
+SNOMED CT,33624008,Hyperirritability
+SNOMED CT,34563004,Fear of getting cancer
+SNOMED CT,34822003,Elation
+SNOMED CT,35209006,Sensitivity
+SNOMED CT,39370001,Restricted affect
+SNOMED CT,46460004,Hypomanic personality trait
+SNOMED CT,48079002,Disturbance in mood
+SNOMED CT,49971008,Apprehension
+SNOMED CT,54746005,Erotophobia
+SNOMED CT,55929007,Feeling irritable
+SNOMED CT,61387006,Moderate anxiety
+SNOMED CT,70997004,Mild anxiety
+SNOMED CT,75408008,Feeling angry
+SNOMED CT,76094002,Pleasurable affect
+SNOMED CT,79015004,Worried
+SNOMED CT,80608005,Appropriate affect
+SNOMED CT,81548002,Elevated mood
+SNOMED CT,82248001,Euthymic mood
+SNOMED CT,85949006,Euphoria
+SNOMED CT,87521009,Dispiritment
+SNOMED CT,87690005,Unpleasurable affect
+SNOMED CT,88729006,Labile affect
+SNOMED CT,89225005,Anxiety about blushing
+SNOMED CT,102894008,Feeling calm
+SNOMED CT,102897001,Feeling intoxicated
+SNOMED CT,102912007,Fear of death
+SNOMED CT,102915009,Nosophobia
+SNOMED CT,102916005,Arachnophobia
+SNOMED CT,102917001,Fear of blood
+SNOMED CT,102918006,Microphobia
+SNOMED CT,102919003,Fear of infection
+SNOMED CT,102921008,Toxicophobia
+SNOMED CT,102922001,Tocophobia
+SNOMED CT,102923006,Teratophobia
+SNOMED CT,102931001,Fear of heart attack
+SNOMED CT,102932008,Fear of hypertension
+SNOMED CT,112080002,Cheerful mood
+SNOMED CT,134416003,Normal mood symptoms
+SNOMED CT,134417007,Normal mood
+SNOMED CT,162719003,O/E - apathetic
+SNOMED CT,162720009,O/E - afraid
+SNOMED CT,162726003,O/E - angry
+SNOMED CT,162727007,O/E - elated
+SNOMED CT,191664002,Rebound mood swings
+SNOMED CT,191728008,Fear of crowds
+SNOMED CT,191733007,Cyesiophobia
+SNOMED CT,224971003,Feeling aggressive
+SNOMED CT,225005002,Unable to control anger
+SNOMED CT,225006001,Becomes angry very easily
+SNOMED CT,225455004,Sociable mood
+SNOMED CT,225625004,Fear of walking
+SNOMED CT,225626003,Fear of mobilizing
+SNOMED CT,225627007,Fear of disconnection from ventilator
+SNOMED CT,225628002,Fear of being left alone during period of dependence
+SNOMED CT,225629005,Fear of being left alone
+SNOMED CT,225630000,Fear of dentist
+SNOMED CT,225631001,Fear of not coping with treatment
+SNOMED CT,225632008,Fear of lifts
+SNOMED CT,225633003,Fear of thunderstorm
+SNOMED CT,225634009,Terrified
+SNOMED CT,225635005,Anxiety about treatment
+SNOMED CT,225636006,Anxiety about forced dependence
+SNOMED CT,225637002,Anxiety about loss of control
+SNOMED CT,225638007,Anxiety about resuming sexual relations
+SNOMED CT,225639004,Worried about not coping with baby
+SNOMED CT,225640002,Worried about being a bad father
+SNOMED CT,225641003,Worried about being a bad mother
+SNOMED CT,225642005,Anxiety about not coping with parenthood
+SNOMED CT,225643000,Anxiety about making mistakes
+SNOMED CT,225644006,Anxiety about altered body image
+SNOMED CT,225645007,Fear of wetting self in public
+SNOMED CT,225646008,Fear of losing control of bowels in public
+SNOMED CT,225648009,Optimistic
+SNOMED CT,225649001,Hopeful for the future
+SNOMED CT,225653004,Easily upset
+SNOMED CT,225654005,Temperamental
+SNOMED CT,225656007,Unpredictable in mood
+SNOMED CT,225657003,Volatile Mood
+SNOMED CT,225658008,Mood stable
+SNOMED CT,231508009,Examination fear
+SNOMED CT,247672006,Delusional mood
+SNOMED CT,247673001,Delusional perplexity
+SNOMED CT,247694003,Passivity of volitional acts
+SNOMED CT,247784003,Overoptimism
+SNOMED CT,247799003,Pessimistic
+SNOMED CT,247800004,Diurnal variation of mood
+SNOMED CT,247801000,Depression worse in morning
+SNOMED CT,247802007,Depression worse later in day
+SNOMED CT,247805009,Anxiety and fear
+SNOMED CT,247808006,Anxiety about body function or health
+SNOMED CT,247809003,Fear of losing control of bowels
+SNOMED CT,247810008,Fear of wetting self
+SNOMED CT,247811007,Fear of vomiting in public
+SNOMED CT,247812000,Fear of having a fit
+SNOMED CT,247813005,Fear of choking
+SNOMED CT,247815003,Fear of swallowing
+SNOMED CT,247816002,Fear of collapsing
+SNOMED CT,247817006,Fear of fainting
+SNOMED CT,247818001,Fear of having a heart attack
+SNOMED CT,247819009,Fear of shaking
+SNOMED CT,247820003,Fear of sweating
+SNOMED CT,247822006,Fear of going crazy
+SNOMED CT,247823001,Fear of losing emotional control
+SNOMED CT,247824007,Fear of becoming fat
+SNOMED CT,247825008,Anxiety about behavior or performance
+SNOMED CT,247826009,Fear of appearing ridiculous
+SNOMED CT,247827000,Fear of saying the wrong thing
+SNOMED CT,247828005,Fear of going out
+SNOMED CT,247829002,Fear of empty streets
+SNOMED CT,247830007,Fear of open spaces
+SNOMED CT,247831006,Fear of crossing streets
+SNOMED CT,247832004,Social fear
+SNOMED CT,247833009,Fear of activities in public
+SNOMED CT,247834003,Fear of eating in public
+SNOMED CT,247835002,Fear of public speaking
+SNOMED CT,247836001,Fear of using public toilets
+SNOMED CT,247837005,Fear of writing in public
+SNOMED CT,247838000,Fear of social group activities
+SNOMED CT,247839008,Fear of being in a small group
+SNOMED CT,247840005,Fear of social gatherings
+SNOMED CT,247841009,Fear of speaking on the phone
+SNOMED CT,247842002,Fear of speaking to people in authority
+SNOMED CT,247843007,Fear of being laughed at
+SNOMED CT,247844001,Fear of being watched
+SNOMED CT,247845000,Specific fear
+SNOMED CT,247846004,Fear of natural phenomena
+SNOMED CT,247847008,Fear of the dark
+SNOMED CT,247848003,Fear of animals
+SNOMED CT,247849006,Fear of feathers
+SNOMED CT,247850006,Fear of enclosed spaces
+SNOMED CT,247851005,Fear of tunnels
+SNOMED CT,247852003,Fear of phone boxes
+SNOMED CT,247853008,Fear of flying
+SNOMED CT,247854002,Flying phobia
+SNOMED CT,247855001,Fear associated with illness and body function
+SNOMED CT,247856000,Fear of anesthetic
+SNOMED CT,247857009,Fear of general anesthetic
+SNOMED CT,247858004,Fear of awareness under general anesthetic
+SNOMED CT,247859007,Fear of not waking from general anesthetic
+SNOMED CT,247861003,Fear of local anesthetic
+SNOMED CT,247862005,Fear of problem after anesthetic
+SNOMED CT,247864006,Fear of surgical masks
+SNOMED CT,247865007,Fear of hospitals
+SNOMED CT,247866008,Fear of contracting disease
+SNOMED CT,247868009,Fear of contracting venereal disease
+SNOMED CT,247869001,Fear of contracting radiation sickness
+SNOMED CT,247870000,Fear of the bogey man
+SNOMED CT,247871001,Fear of ghosts
+SNOMED CT,272022009,C/O - feeling depressed
+SNOMED CT,272024005,C/O - feeling unhappy
+SNOMED CT,274646000,Irritability and anger
+SNOMED CT,276241001,Fear of heights
+SNOMED CT,276242008,Fear of water
+SNOMED CT,276245005,Non-delusional perplexed mood
+SNOMED CT,276247002,Incongruity of mood
+SNOMED CT,276302000,Feeling of loss of feeling
+SNOMED CT,277816006,Fear relating to body function
+SNOMED CT,277818007,Anxiety about losing control of bowels
+SNOMED CT,277819004,Anxiety about wetting self
+SNOMED CT,277820005,Anxiety about vomiting in public
+SNOMED CT,277821009,Anxiety about having a fit
+SNOMED CT,277822002,Anxiety about choking
+SNOMED CT,277823007,Anxiety about swallowing
+SNOMED CT,277824001,Anxiety about collapsing
+SNOMED CT,277825000,Anxiety about shaking
+SNOMED CT,277826004,Anxiety about sweating
+SNOMED CT,277827008,Anxiety about dying
+SNOMED CT,277828003,Anxiety about going crazy
+SNOMED CT,277829006,Anxiety about losing emotional control
+SNOMED CT,277831002,Anxiety about becoming fat
+SNOMED CT,277833004,Anxiety about fainting
+SNOMED CT,277834005,Anxiety about having a heart attack
+SNOMED CT,277838008,Anxiety about appearing ridiculous
+SNOMED CT,277839000,Anxiety about saying the wrong thing
+SNOMED CT,279571009,Seasonal variation of mood
+SNOMED CT,279926005,Fear of needles
+SNOMED CT,281129008,Variability of mood
+SNOMED CT,281143003,Passivity of affect
+SNOMED CT,281144009,Somatic passivity
+SNOMED CT,281257007,Hypomanic mood
+SNOMED CT,285848000,Able to control anger
+SNOMED CT,286545003,Fear of birds
+SNOMED CT,286568007,Fear associated with healthcare
+SNOMED CT,286582007,Ecstatic
+SNOMED CT,286638005,Exhilaration
+SNOMED CT,286641001,Moody
+SNOMED CT,286644009,Level of anxiety
+SNOMED CT,307074005,Feeling high
+SNOMED CT,307076007,Cyclic mood swings
+SNOMED CT,307077003,Feeling hopeless
+SNOMED CT,310480000,C/O tearfulness
+SNOMED CT,365107007,Level of mood - finding
+SNOMED CT,365118007,Stability of mood - finding
+SNOMED CT,365129006,Level of hope - finding
+SNOMED CT,366979004,Depressed mood
+SNOMED CT,367545001,Fearful mood
+SNOMED CT,386782008,Disturbance in affect
+SNOMED CT,386798001,Affective personality trait
+SNOMED CT,397775001,Fear of transport
+SNOMED CT,398304003,Fear of traveling in vehicles
+SNOMED CT,401010000,Patient concerned about eyesight
+SNOMED CT,401269004,Fear of falling
+SNOMED CT,403591002,Ritual hand washing
+SNOMED CT,403592009,Acarophobia
+SNOMED CT,403593004,Phobic fear of skin cancer
+SNOMED CT,404910002,Fear of falling while mobilizing
+SNOMED CT,405273008,Manic mood
+SNOMED CT,413301003,Feels at risk of crime in the neighborhood
+SNOMED CT,415136009,Ponophobia
+SNOMED CT,416383008,Abnormal affect
+SNOMED CT,417620007,O/E - fearful mood
+SNOMED CT,420038007,Feeling unhappy
+SNOMED CT,421369008,Emotional hypersensitivity
+SNOMED CT,423170008,Fear of abuse
+SNOMED CT,424009001,Fears delivery procedure
+SNOMED CT,424958004,Fear of reaction regarding family planning choices
+SNOMED CT,425363002,Smiling
+SNOMED CT,431432003,Anxiety about loss of memory
+SNOMED CT,439576009,Fear of drinking liquids due to dysphagia
+SNOMED CT,699389008,Fear of medical treatment
+SNOMED CT,699391000,Fear of deafness
+SNOMED CT,702535006,Anxiety about breathlessness
+SNOMED CT,704423008,Fear of abandonment
+SNOMED CT,704424002,Fear of being a burden to others
+SNOMED CT,704678007,Depressed mood with postpartum onset
+SNOMED CT,705047004,Fear of contagion
+SNOMED CT,714667008,Fear about medication side effects
+SNOMED CT,716397008,Able to be optimistic
+SNOMED CT,717696001,Fear of complications of pregnancy
+SNOMED CT,719143004,Able to be hopeful for future
+SNOMED CT,722842006,Fear of having digestive disease
+SNOMED CT,722843001,Fear of having cancer of digestive system
+SNOMED CT,723086009,Fear of heart disease
+SNOMED CT,723087000,Fear of cardiovascular disease
+SNOMED CT,723092003,Fear of respiratory disease
+SNOMED CT,723093008,Fear of cancer of respiratory system
+SNOMED CT,723112000,Fear of endocrine disease
+SNOMED CT,723113005,Fear of metabolic disease
+SNOMED CT,723114004,Fear of nutritional disease
+SNOMED CT,723115003,Fear of cancer of endocrine system
+SNOMED CT,723117006,Fear of musculoskeletal disease
+SNOMED CT,723118001,Fear of musculoskeletal cancer
+SNOMED CT,723119009,Fear of ear disease
+SNOMED CT,723120003,Fear of hematological disease
+SNOMED CT,723121004,Fear of hematological cancer
+SNOMED CT,724448000,Fear of genital disease
+SNOMED CT,724449008,Fear of breast disease
+SNOMED CT,724450008,Fear of genital cancer
+SNOMED CT,724451007,Fear of breast cancer
+SNOMED CT,724452000,Fear of sexual dysfunction
+SNOMED CT,724733005,Oppositional defiant disorder co-occurrent with chronic irritability-anger
+SNOMED CT,724734004,Oppositional defiant disorder co-occurrent with chronic irritability-anger with normal prosocial emotions
+SNOMED CT,724757005,Depressive symptoms due to primary psychotic disorder
+SNOMED CT,724758000,Manic symptoms co-occurrent and due to primary psychotic disorder
+SNOMED CT,724824002,Fear of neurological disease
+SNOMED CT,724879005,Fear of skin disease
+SNOMED CT,726403001,Fear of eye disease
+SNOMED CT,733818008,Decreased despair
+SNOMED CT,733819000,Improved mood
+SNOMED CT,735688001,Fear of urinary disease
+SNOMED CT,762349007,Fear of mental disorder
+SNOMED CT,788867008,Apathetic behavior due to dementia
+SNOMED CT,844583007,Irritability postvaccinal
+SNOMED CT,871840004,Depressive episode
+SNOMED CT,142001000119106,Depressed mood in Alzheimer's disease
+SNOMED CT,288241000119105,Fear of bridges
+SNOMED CT,288251000119107,Fear of injury
+SNOMED CT,102920009,Fear of contracting human immunodeficiency virus infection
+SNOMED CT,1004004007,Primary tocophobia
+SNOMED CT,1004005008,Secondary tocophobia
+SNOMED CT,1137673006,Improvement in level of depressed mood
+SNOMED CT,1144992001,Fear of cancer of urinary system
+SNOMED CT,1149156003,Reduced level of anxiety
+SNOMED CT,1149159005,Reduced level of fear
+SNOMED CT,1156331007,Excessive euphoria
+SNOMED CT,1157202002,Reduced level of chronic sadness
+SNOMED CT,471961000124101,Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2
+SNOMED CT,1217332007,Persistent sadness
+SNOMED CT,1186988005,Fear of having malignant neoplasm of lymphatic system

@@ -1,0 +1,6 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,R53.8,Other malaise and fatigue
+ICD10CM,R53.81,Other malaise
+ICD10CM,R53.82,"Chronic fatigue, unspecified"
+ICD10CM,R53.83,Other fatigue
+SNOMED CT,248271005,Exhausted on least exertion

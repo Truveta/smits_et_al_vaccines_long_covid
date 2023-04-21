@@ -1,0 +1,171 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,G44.83,Primary cough headache
+ICD10CM,G44.89,Other headache syndrome
+ICD10CM,R51,Headache
+ICD10CM,R51.0,"Headache with orthostatic component, not elsewhere classified"
+ICD10CM,R51.9,"Headache, unspecified"
+SNOMED CT,25064002,Headache
+SNOMED CT,267096005,Frontal headache
+SNOMED CT,272027003,C/O - a headache
+SNOMED CT,274305000,On examination - maxillary sinus pain
+SNOMED CT,274306004,O/E -frontal sinus pain
+SNOMED CT,279016001,Cervicogenic headache
+SNOMED CT,301356002,Maxillary sinus pain
+SNOMED CT,301357006,Frontal sinus pain
+SNOMED CT,364760007,Headache character - finding
+SNOMED CT,395688005,Benign coital headache
+SNOMED CT,398057008,Tension-type headache
+SNOMED CT,398126006,Muscular headache
+SNOMED CT,398987004,Headache following lumbar puncture
+SNOMED CT,423279000,Refractory migraine without aura
+SNOMED CT,423683008,Refractory migraine with aura
+SNOMED CT,423894005,Refractory migraine
+SNOMED CT,424699007,"Migraine variants, not intractable"
+SNOMED CT,425007008,"Migraine without aura, not refractory"
+SNOMED CT,425365009,Refractory migraine variants
+SNOMED CT,425422007,Headache due to high altitude
+SNOMED CT,425936006,Intractable ophthalmic migraine
+SNOMED CT,427419006,Transformed migraine
+SNOMED CT,431237007,Chronic headache disorder
+SNOMED CT,443094001,Paroxysmal hemicrania
+SNOMED CT,443095000,Hemicrania continua
+SNOMED CT,445322004,Migraine variant with headache
+SNOMED CT,445511002,Orthostatic headache
+SNOMED CT,449814007,Trigeminal autonomic cephalalgia
+SNOMED CT,698803006,Medication overuse headache
+SNOMED CT,699314009,Migraine with persistent visual aura
+SNOMED CT,699694000,Chronic post-concussion headache
+SNOMED CT,703182002,Headache due to reversible cerebral vasoconstriction syndrome
+SNOMED CT,711545001,Migraine due to estrogen contraceptive
+SNOMED CT,712826000,Intermittent headache
+SNOMED CT,712831003,Frequent headache
+SNOMED CT,79267007,Retinal migraine
+SNOMED CT,83351003,Basilar migraine
+SNOMED CT,86925001,Ocular headache
+SNOMED CT,95653008,Acute confusional migraine
+SNOMED CT,95654002,Chronic paroxysmal hemicrania
+SNOMED CT,95655001,Ophthalmic migraine
+SNOMED CT,95656000,Familial hemiplegic migraine
+SNOMED CT,95657009,Chronic mixed headache syndrome
+SNOMED CT,95658004,Cough headache syndrome
+SNOMED CT,95659007,Hindbrain hernia headache
+SNOMED CT,95660002,Thunderclap headache
+SNOMED CT,95670000,Nervus intermedius neuralgia
+SNOMED CT,103007003,Headache due to external compression of head
+SNOMED CT,103008008,Postpartum headache
+SNOMED CT,103009000,Headache due to cold exposure
+SNOMED CT,103010005,Headache associated with sexual activity
+SNOMED CT,103011009,Benign exertional headache
+SNOMED CT,103012002,Analgesic overuse headache
+SNOMED CT,112101004,Dental headache
+SNOMED CT,128187005,Vascular headache
+SNOMED CT,129610005,Headache due to intracranial disease
+SNOMED CT,129612002,Anterior ethmoidal nerve syndrome
+SNOMED CT,162211001,Viral headache
+SNOMED CT,162299003,Generalized headache
+SNOMED CT,162300006,Unilateral headache
+SNOMED CT,162301005,Bilateral headache
+SNOMED CT,162304002,Parietal headache
+SNOMED CT,162307009,Aching headache
+SNOMED CT,162308004,Throbbing headache
+SNOMED CT,162309007,Shooting headache
+SNOMED CT,162310002,Morning headache
+SNOMED CT,162311003,Heavy head
+SNOMED CT,169464001,Headache caused by oral contraceptive pill
+SNOMED CT,193028008,Sick headache
+SNOMED CT,193030005,Migraine variants
+SNOMED CT,193031009,Cluster headache
+SNOMED CT,193039006,Complicated migraine
+SNOMED CT,198438009,Menopausal headache
+SNOMED CT,200071001,Obstetric spinal and epidural anesthesia-induced headache
+SNOMED CT,200072008,Spinal and epidural anesthesia-induced headache during pregnancy
+SNOMED CT,200073003,Spinal and epidural anesthesia-induced headache during the puerperium
+SNOMED CT,200076006,Spinal and epidural anesthesia-induced headache during labor and delivery
+SNOMED CT,230461009,Headache disorder
+SNOMED CT,230462002,Migraine with typical aura
+SNOMED CT,230464001,Non-familial hemiplegic migraine
+SNOMED CT,230465000,Migraine aura without headache
+SNOMED CT,230467008,Status migrainosus
+SNOMED CT,230468003,Migraine with ischemic complication
+SNOMED CT,230470007,Episodic tension-type headache
+SNOMED CT,230471006,Chronic tension-type headache
+SNOMED CT,230472004,Episodic cluster headache
+SNOMED CT,230473009,Chronic cluster headache
+SNOMED CT,230474003,Chronic cluster headache unremitting from onset
+SNOMED CT,230475002,Chronic cluster headache evolved from episodic cluster headache
+SNOMED CT,230476001,Atypical cluster headache
+SNOMED CT,230477005,Chronic post-traumatic headache
+SNOMED CT,230478000,Low pressure headache
+SNOMED CT,230479008,Post dural puncture headache
+SNOMED CT,230480006,Headache following myelography
+SNOMED CT,230481005,Idiopathic stabbing headache
+SNOMED CT,230483008,Headache associated with substance abuse or withdrawal
+SNOMED CT,330007,Occipital headache
+SNOMED CT,4448006,Allergic headache
+SNOMED CT,4473006,Migraine with aura
+SNOMED CT,4969004,Sinus headache
+SNOMED CT,13322008,Postseizure headache
+SNOMED CT,23186000,Menstrual migraine
+SNOMED CT,26150009,Lower half migraine
+SNOMED CT,37796009,Migraine
+SNOMED CT,38823002,Aural headache
+SNOMED CT,41413006,Temporal headache
+SNOMED CT,43242008,Drug withdrawal headache
+SNOMED CT,44538002,Nasal headache
+SNOMED CT,49605003,Ophthalmoplegic migraine
+SNOMED CT,54012000,Posttraumatic headache
+SNOMED CT,56097005,Migraine without aura
+SNOMED CT,59292006,Hemiplegic migraine
+SNOMED CT,722981005,Infrequent episodic tension-type headache
+SNOMED CT,722982003,Frequent episodic tension-type headache
+SNOMED CT,722983008,Headache due to injury of head and neck
+SNOMED CT,724429004,Stroke co-occurrent with migraine
+SNOMED CT,725058003,Short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing syndrome
+SNOMED CT,735938006,Acute headache
+SNOMED CT,762353009,Acute headache due to traumatic injury of head
+SNOMED CT,762354003,Persistent headache due to and following injury of head
+SNOMED CT,762592003,Chronic primary headache
+SNOMED CT,571000119103,Daily headache
+SNOMED CT,121021000119105,New daily persistent headache
+SNOMED CT,121881000119102,Intractable allergic migraine
+SNOMED CT,122021000119104,Ophthalmic status migrainosus
+SNOMED CT,122051000119107,Retinal status migrainosus
+SNOMED CT,122061000119109,Intractable retinal migraine
+SNOMED CT,122141000119109,Refractory abdominal migraine
+SNOMED CT,122711000119109,Hypnic headache
+SNOMED CT,122731000119104,Primary thunderclap headache
+SNOMED CT,122751000119105,Acute posttraumatic headache
+SNOMED CT,124001000119104,Common migraine with status migrainosus
+SNOMED CT,124041000119102,Intractable hemiplegic migraine
+SNOMED CT,124051000119100,Hemiplegic status migrainosus
+SNOMED CT,124061000119103,Intractable hemiplegic status migrainosus
+SNOMED CT,124071000119109,Intractable menstrual migraine
+SNOMED CT,124081000119107,Menstrual status migrainosus
+SNOMED CT,124091000119105,Intractable menstrual status migrainosus
+SNOMED CT,124161000119104,Chronic migraine without aura with status migrainosus
+SNOMED CT,124171000119105,Chronic intractable migraine without aura
+SNOMED CT,124391000119108,Status migrainosus with aura
+SNOMED CT,145611000119107,Allergic migraine
+SNOMED CT,290431000119101,Intractable headache following trauma
+SNOMED CT,290441000119105,Intractable chronic headache following trauma
+SNOMED CT,290531000119102,Intractable chronic tension headache
+SNOMED CT,290541000119106,Intractable episodic tension-type headache
+SNOMED CT,290731000119106,Idiopathic partial status epilepticus
+SNOMED CT,293901000119108,Intractable episodic cluster headache
+SNOMED CT,294031000119103,Episodic paroxysmal hemicrania
+SNOMED CT,294081000119102,Intractable headache caused by drug
+SNOMED CT,294091000119104,Headache caused by drug
+SNOMED CT,429181000124108,Refractory acute confusional migraine
+SNOMED CT,431061000124100,"Ophthalmoplegic migraine, refractory"
+SNOMED CT,431601000124105,Chronic migraine without aura
+SNOMED CT,436771000124102,"Basilar artery migraine, refractory"
+SNOMED CT,437931000124100,"Chronic migraine without aura, non-refractory"
+SNOMED CT,445491000124104,Postural headache
+SNOMED CT,458241000124102,Chronic daily headache
+SNOMED CT,1119294003,Unilateral left sided headache
+SNOMED CT,1119295002,Unilateral right sided headache
+SNOMED CT,466841000124105,Headache after cough
+SNOMED CT,145621000146106,Headache due to exertion
+SNOMED CT,471651000124106,Episodic migraine
+SNOMED CT,471661000124108,Acute migraine
+Truveta,1215961,Post-COVID-19 chronic headache

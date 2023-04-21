@@ -1,0 +1,278 @@
+CodeSystem,ConceptCode,ConceptName
+RxNorm,1100184,donepezil hydrochloride 23 MG Oral Tablet
+RxNorm,1308569,24 HR rivastigmine 0.554 MG/HR Transdermal System
+RxNorm,1599803,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule
+RxNorm,1599805,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule
+RxNorm,1805420,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule
+RxNorm,1805425,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 7 MG Extended Release Oral Capsule
+RxNorm,310436,galantamine 4 MG Oral Tablet
+RxNorm,310437,galantamine 8 MG Oral Tablet
+RxNorm,312835,rivastigmine 3 MG Oral Capsule
+RxNorm,312836,rivastigmine 6 MG Oral Capsule
+RxNorm,314214,rivastigmine 1.5 MG Oral Capsule
+RxNorm,314215,rivastigmine 4.5 MG Oral Capsule
+RxNorm,579148,galantamine 12 MG Oral Tablet
+RxNorm,725021,24 HR rivastigmine 0.192 MG/HR Transdermal System
+RxNorm,725023,24 HR rivastigmine 0.396 MG/HR Transdermal System
+RxNorm,860695,24 HR galantamine hydrobromide 16 MG Extended Release Oral Capsule
+RxNorm,860707,24 HR galantamine hydrobromide 24 MG Extended Release Oral Capsule
+RxNorm,860715,24 HR galantamine hydrobromide 8 MG Extended Release Oral Capsule
+RxNorm,860901,galantamine hydrobromide 4 MG/ML Oral Solution
+RxNorm,996740,memantine hydrochloride 2 MG/ML Oral Solution
+RxNorm,997220,donepezil hydrochloride 10 MG Disintegrating Oral Tablet
+RxNorm,997223,donepezil hydrochloride 10 MG Oral Tablet
+RxNorm,997226,donepezil hydrochloride 5 MG Disintegrating Oral Tablet
+RxNorm,997229,donepezil hydrochloride 5 MG Oral Tablet
+RxNorm,996561,memantine hydrochloride 10 MG Oral Tablet
+RxNorm,996571,memantine hydrochloride 5 MG Oral Tablet
+RxNorm,996594,24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule
+RxNorm,996603,24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule
+RxNorm,996609,24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule
+RxNorm,996615,24 HR memantine hydrochloride 7 MG Extended Release Oral Capsule
+RxNorm,1100187,donepezil hydrochloride 23 MG Oral Tablet [Aricept]
+RxNorm,1308571,24 HR rivastigmine 0.554 MG/HR Transdermal System [Exelon]
+RxNorm,1602588,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule [Namzaric]
+RxNorm,1602594,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule [Namzaric]
+RxNorm,1805422,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule [Namzaric]
+RxNorm,1805427,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 7 MG Extended Release Oral Capsule [Namzaric]
+RxNorm,1858970,{7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 7 MG Extended Release Oral Capsule) } Pack
+RxNorm,1858971,{7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 14 MG Extended Release Oral Capsule [Namzaric]) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 21 MG Extended Release Oral Capsule [Namzaric]) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule [Namzaric]) / 7 (24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 7 MG Extended Release Oral Capsule [Namzaric]) } Pack [Namzaric Titration Pack]
+RxNorm,226665,rivastigmine 1.5 MG Oral Capsule [Exelon]
+RxNorm,226666,rivastigmine 3 MG Oral Capsule [Exelon]
+RxNorm,226667,rivastigmine 4.5 MG Oral Capsule [Exelon]
+RxNorm,226668,rivastigmine 6 MG Oral Capsule [Exelon]
+RxNorm,602734,galantamine 12 MG Oral Tablet [Razadyne]
+RxNorm,602736,galantamine 4 MG Oral Tablet [Razadyne]
+RxNorm,602737,galantamine 8 MG Oral Tablet [Razadyne]
+RxNorm,725105,24 HR rivastigmine 0.396 MG/HR Transdermal System [Exelon]
+RxNorm,751302,24 HR rivastigmine 0.192 MG/HR Transdermal System [Exelon]
+RxNorm,860697,24 HR galantamine hydrobromide 16 MG Extended Release Oral Capsule [Razadyne]
+RxNorm,860709,24 HR galantamine hydrobromide 24 MG Extended Release Oral Capsule [Razadyne]
+RxNorm,860717,24 HR galantamine hydrobromide 8 MG Extended Release Oral Capsule [Razadyne]
+RxNorm,860903,galantamine hydrobromide 4 MG/ML Oral Solution [Razadyne]
+RxNorm,996742,memantine hydrochloride 2 MG/ML Oral Solution [Namenda]
+RxNorm,997222,donepezil hydrochloride 10 MG Disintegrating Oral Tablet [Aricept]
+RxNorm,997224,donepezil hydrochloride 10 MG Oral Tablet [Aricept]
+RxNorm,997228,donepezil hydrochloride 5 MG Disintegrating Oral Tablet [Aricept]
+RxNorm,997230,donepezil hydrochloride 5 MG Oral Tablet [Aricept]
+RxNorm,996563,memantine hydrochloride 10 MG Oral Tablet [Namenda]
+RxNorm,996572,{21 (memantine hydrochloride 10 MG Oral Tablet) / 28 (memantine hydrochloride 5 MG Oral Tablet) } Pack
+RxNorm,996574,memantine hydrochloride 5 MG Oral Tablet [Namenda]
+RxNorm,996597,24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule [Namenda]
+RxNorm,996605,24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule [Namenda]
+RxNorm,996611,24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule [Namenda]
+RxNorm,996617,24 HR memantine hydrochloride 7 MG Extended Release Oral Capsule [Namenda]
+RxNorm,996624,{7 (24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule) / 7 (24 HR memantine hydrochloride 7 MG Extended Release Oral Capsule) } Pack
+RxNorm,996633,{7 (24 HR memantine hydrochloride 14 MG Extended Release Oral Capsule [Namenda]) / 7 (24 HR memantine hydrochloride 21 MG Extended Release Oral Capsule [Namenda]) / 7 (24 HR memantine hydrochloride 28 MG Extended Release Oral Capsule [Namenda]) / 7 (24 HR memantine hydrochloride 7 MG Extended Release Oral Capsule [Namenda]) } Pack [Namenda 28 Titration Pack]
+RxNorm,996634,{21 (memantine hydrochloride 10 MG Oral Tablet [Namenda]) / 28 (memantine hydrochloride 5 MG Oral Tablet [Namenda]) } Pack [Namenda 49 Titration Pack]
+RxNorm,284556,Galantamine 4 MG Oral Tablet [Reminyl]
+RxNorm,284557,Galantamine 8 MG Oral Tablet [Reminyl]
+RxNorm,579150,Galantamine 12 MG Oral Tablet [Reminyl]
+ICD10CM,A52.17,General paresis
+ICD10CM,F01.50,Vascular dementia without behavioral disturbance
+ICD10CM,F01.51,Vascular dementia with behavioral disturbance
+ICD10CM,F02.80,Dementia in other diseases classified elsewhere without behavioral disturbance
+ICD10CM,F02.81,Dementia in other diseases classified elsewhere with behavioral disturbance
+ICD10CM,F03.90,Unspecified dementia without behavioral disturbance
+ICD10CM,F03.91,Unspecified dementia with behavioral disturbance
+ICD10CM,F05,Delirium due to known physiological condition
+ICD10CM,F06.8,Other specified mental disorders due to known physiological condition
+ICD10CM,G30.0,Alzheimer's disease with early onset
+ICD10CM,G30.1,Alzheimer's disease with late onset
+ICD10CM,G30.8,Other Alzheimer's disease
+ICD10CM,G30.9,"Alzheimer's disease, unspecified"
+ICD10CM,G31.01,Pick's disease
+ICD10CM,G31.09,Other frontotemporal dementia
+ICD10CM,G31.83,Dementia with Lewy bodies
+ICD9CM,290.0,"Senile dementia, uncomplicated"
+ICD9CM,290.10,"Presenile dementia, uncomplicated"
+ICD9CM,290.11,Presenile dementia with delirium
+ICD9CM,290.12,Presenile dementia with delusional features
+ICD9CM,290.13,Presenile dementia with depressive features
+ICD9CM,290.20,Senile dementia with delusional features
+ICD9CM,290.21,Senile dementia with depressive features
+ICD9CM,290.3,Senile dementia with delirium
+ICD9CM,290.40,"Vascular dementia, uncomplicated"
+ICD9CM,290.41,"Vascular dementia, with delirium"
+ICD9CM,290.42,"Vascular dementia, with delusions"
+ICD9CM,290.43,"Vascular dementia, with depressed mood"
+ICD9CM,290.8,Other specified senile psychotic conditions
+ICD9CM,290.9,Unspecified senile psychotic condition
+ICD9CM,294.10,Dementia in conditions classified elsewhere without behavioral disturbance
+ICD9CM,294.11,Dementia in conditions classified elsewhere with behavioral disturbance
+ICD9CM,294.20,"Dementia, unspecified, without behavioral disturbance"
+ICD9CM,294.21,"Dementia, unspecified, with behavioral disturbance"
+ICD9CM,294.8,Other persistent mental disorders due to conditions classified elsewhere
+ICD9CM,331.0,Alzheimer's disease
+ICD9CM,331.11,Pick's disease
+ICD9CM,331.19,Other frontotemporal dementia
+ICD9CM,331.82,Dementia with lewy bodies
+ICD9CM,94.1,"Psychiatric interviews, consultations, and evaluations"
+SNOMED CT,278857002,Dementia of frontal lobe type
+SNOMED CT,279982005,Cerebral degeneration presenting primarily with dementia
+SNOMED CT,371024007,Senile dementia with delusion
+SNOMED CT,371026009,Senile dementia with psychosis
+SNOMED CT,429998004,Vascular dementia
+SNOMED CT,70936005,"Multi-infarct dementia, uncomplicated"
+SNOMED CT,82959004,Dementia paralytica juvenilis
+SNOMED CT,90099008,Subcortical leukoencephalopathy
+SNOMED CT,111480006,Psychoactive substance-induced organic dementia
+SNOMED CT,191449005,Uncomplicated senile dementia
+SNOMED CT,191451009,Uncomplicated presenile dementia
+SNOMED CT,191452002,Presenile dementia with delirium
+SNOMED CT,191454001,Presenile dementia with paranoia
+SNOMED CT,191455000,Presenile dementia with depression
+SNOMED CT,191457008,Senile dementia with depressive or paranoid features
+SNOMED CT,191458003,Senile dementia with paranoia
+SNOMED CT,191459006,Senile dementia with depression
+SNOMED CT,191461002,Senile dementia with delirium
+SNOMED CT,191463004,Uncomplicated arteriosclerotic dementia
+SNOMED CT,191464005,Arteriosclerotic dementia with delirium
+SNOMED CT,191465006,Arteriosclerotic dementia with paranoia
+SNOMED CT,191466007,Arteriosclerotic dementia with depression
+SNOMED CT,191493005,Drug-induced dementia
+SNOMED CT,230270009,Frontotemporal dementia
+SNOMED CT,230283005,Punch drunk syndrome
+SNOMED CT,230286002,Subcortical vascular dementia
+SNOMED CT,230287006,Mixed cortical and subcortical vascular dementia
+SNOMED CT,230288001,Semantic dementia
+SNOMED CT,281004,Dementia associated with alcoholism
+SNOMED CT,10349009,Multi-infarct dementia with delirium
+SNOMED CT,12348006,Presenile dementia
+SNOMED CT,14070001,Multi-infarct dementia with depression
+SNOMED CT,15662003,Senile dementia
+SNOMED CT,25772007,Multi-infarct dementia with delusions
+SNOMED CT,32875003,Inhalant-induced persisting dementia
+SNOMED CT,51928006,General paresis - neurosyphilis
+SNOMED CT,52448006,Dementia
+SNOMED CT,54502004,"Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions"
+SNOMED CT,56267009,Multi-infarct dementia
+SNOMED CT,59651006,"Sedative, hypnotic AND/OR anxiolytic-induced persisting dementia"
+SNOMED CT,65096006,"Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium"
+SNOMED CT,4817008,"Dementia Alzheimers type, late onset with delirium"
+SNOMED CT,6475002,Dementia in Alzheimer's disease - type 2
+SNOMED CT,10532003,"Alzheimers dementia, early onset, with depressed mood"
+SNOMED CT,26852004,"Alzheimers dementia, late onset, with depressive mood"
+SNOMED CT,55009008,"Alzheimers dementia, late onset, with delusions"
+SNOMED CT,66108005,Dementia in Alzheimer's disease - type 1
+SNOMED CT,312991009,Senile Lewy body dementia
+SNOMED CT,416780008,Dementia in Alzheimer's disease with early onset
+SNOMED CT,420614009,Organic dementia with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,421023003,Presenile dementia with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,421529006,Dementia with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,425390006,Dementia in Parkinsons disease
+SNOMED CT,442344002,Dementia due to Huntingtons disease
+SNOMED CT,268612007,Senile and presenile organic psychotic conditions
+SNOMED CT,429458009,Dementia due to Creutzfeldt Jakob disease
+SNOMED CT,698624003,Dementia associated with cerebral lipidosis
+SNOMED CT,698625002,Dementia associated with normal pressure hydrocephalus
+SNOMED CT,698626001,Dementia associated with multiple sclerosis
+SNOMED CT,698687007,Post-traumatic dementia with behavioral change
+SNOMED CT,698725008,Dementia associated with neurosyphilis
+SNOMED CT,698726009,Dementia associated with viral encephalitis
+SNOMED CT,698781002,Dementia associated with cerebral anoxia
+SNOMED CT,698948009,Vascular dementia in remission
+SNOMED CT,698949001,Dementia in remission
+SNOMED CT,698954005,"Primary degenerative dementia of the Alzheimer type, senile onset in remission"
+SNOMED CT,698955006,"Primary degenerative dementia of the Alzheimer type, presenile onset in remission"
+SNOMED CT,702393003,CHMP2B-related frontotemporal dementia
+SNOMED CT,713488003,Presenile dementia co-occurrent with human immunodeficiency virus infection
+SNOMED CT,713844000,Dementia co-occurrent with human immunodeficiency virus infection
+SNOMED CT,715737004,Parkinsonism with dementia of Guadeloupe
+SNOMED CT,716667005,Right temporal lobar atrophy
+SNOMED CT,716994006,Behavioral variant of frontotemporal dementia
+SNOMED CT,191519005,Dementia associated with another disease
+SNOMED CT,230274000,Frontal lobe degeneration with motor neurone disease
+SNOMED CT,230281007,Argyrophilic grain disease
+SNOMED CT,230282000,Traumatic encephalopathy
+SNOMED CT,230285003,Vascular dementia of acute onset
+SNOMED CT,230289009,Patchy dementia
+SNOMED CT,9345005,Dialysis dementia
+SNOMED CT,40425004,Postconcussion syndrome
+SNOMED CT,42769004,Diffuse Lewy body disease with spongiform cortical change
+SNOMED CT,722600006,Non-amnestic Alzheimer disease
+SNOMED CT,722977005,Dementia co-occurrent and due to neurocysticercosis
+SNOMED CT,722978000,Dementia caused by toxin
+SNOMED CT,722979008,Dementia due to metabolic abnormality
+SNOMED CT,722980006,Dementia due to chromosomal anomaly
+SNOMED CT,723123001,Ischemic vascular dementia
+SNOMED CT,723390000,Rapidly progressive dementia
+SNOMED CT,724776007,Dementia due to disorder of central nervous system
+SNOMED CT,724777003,Dementia due to infectious disease
+SNOMED CT,724992007,Epilepsy co-occurrent and due to dementia
+SNOMED CT,725898002,Delirium co-occurrent with dementia
+SNOMED CT,733184002,Dementia caused by heavy metal exposure
+SNOMED CT,733185001,Dementia following injury caused by exposure to ionizing radiation
+SNOMED CT,733190003,Dementia due to primary malignant neoplasm of brain
+SNOMED CT,733191004,Dementia due to chronic subdural hematoma
+SNOMED CT,733192006,Dementia due to herpes encephalitis
+SNOMED CT,733194007,Dementia with Down syndrome
+SNOMED CT,762350007,Dementia due to prion disease
+SNOMED CT,762351006,Dementia due to and following injury of head
+SNOMED CT,762707000,Subcortical dementia
+SNOMED CT,774069007,PRKAR1B-related neurodegenerative dementia with intermediate filaments
+SNOMED CT,783161005,ABri amyloidosis
+SNOMED CT,783258000,ADan amyloidosis
+SNOMED CT,788898005,Dementia caused by volatile inhalant
+SNOMED CT,788899002,Dementia due to pellagra
+SNOMED CT,833326008,Cortical vascular dementia
+SNOMED CT,838276009,"Amyotrophic lateral sclerosis, parkinsonism, dementia complex"
+SNOMED CT,840464007,Dementia due to carbon monoxide poisoning
+SNOMED CT,840465008,Dementia due to iron deficiency
+SNOMED CT,1581000119101,Dementia of the Alzheimer type with behavioral disturbance
+SNOMED CT,1591000119103,Dementia with behavioral disturbance
+SNOMED CT,2421000119107,Hallucinations co-occurrent and due to late onset dementia
+SNOMED CT,22381000119105,Primary degenerative dementia
+SNOMED CT,31081000119101,Presenile dementia with delusions
+SNOMED CT,79341000119107,Mixed dementia
+SNOMED CT,82351000119105,Altered behavior due to Pick's disease
+SNOMED CT,82371000119101,Dementia due to multiple sclerosis with altered behavior
+SNOMED CT,82381000119103,Epileptic dementia with behavioral disturbance
+SNOMED CT,97751000119108,Altered behavior in Alzheimer's disease
+SNOMED CT,101421000119107,Dementia due to Parkinson's disease
+SNOMED CT,105421000119105,Early onset Alzheimer's disease with behavioral disturbance
+SNOMED CT,106021000119105,Multi-infarct dementia due to atherosclerosis
+SNOMED CT,130121000119104,Dementia due to Rett's syndrome
+SNOMED CT,135811000119107,Lewy body dementia with behavioral disturbance
+SNOMED CT,141991000119109,Delusions in Alzheimer's disease
+SNOMED CT,142001000119106,Depressed mood in Alzheimer's disease
+SNOMED CT,142011000119109,Alzheimer's disease co-occurrent with delirium
+SNOMED CT,288631000119104,Vascular dementia with behavioral disturbance
+SNOMED CT,428051000124108,Mild dementia
+SNOMED CT,428351000124105,Severe dementia
+SNOMED CT,430771000124100,Moderate dementia
+SNOMED CT,16219201000119101,Behavioural disturbance co-occurrent and due to late onset Alzheimer dementia
+SNOMED CT,16276361000119109,Vascular dementia without behavioral disturbance
+SNOMED CT,26929004,Alzheimer dementia
+SNOMED CT,58756001,Huntington disease
+SNOMED CT,80098002,SDLT - Senile dementia of the Lewy body type
+SNOMED CT,230265002,Familial Alzheimer disease of early onset
+SNOMED CT,230266001,Non-familial Alzheimer disease of early onset
+SNOMED CT,230267005,Familial Alzheimer disease of late onset
+SNOMED CT,230268000,Non-familial Alzheimer disease of late onset
+SNOMED CT,230269008,Focal Alzheimer disease
+SNOMED CT,230271008,Pick disease with Pick bodies
+SNOMED CT,230272001,Pick disease with Pick cells and no Pick bodies
+SNOMED CT,230280008,Progressive aphasia in Alzheimer disease
+SNOMED CT,230299004,Juvenile onset Huntington disease
+SNOMED CT,230300007,Late onset Huntington disease
+SNOMED CT,230301006,Akinetic-rigid form of Huntington disease
+SNOMED CT,416975007,"Dementia of the Alzheimers type, late onset"
+SNOMED CT,733193001,Dementia with progressive multifocal leucoencephalopathy
+SNOMED CT,21921000119103,Dementia co-occurrent and due to Pick's disease
+SNOMED CT,82361000119107,Altered behavior in dementia due to Huntington chorea
+SNOMED CT,429161000124103,"Primary degenerative dementia of the Alzheimer type, senile onset, with behavioral disturbance"
+SNOMED CT,1148924004,Dementia due to deficiency of folic acid
+SNOMED CT,1156789004,Autosomal dominant Alzheimer disease due to mutation of amyloid precursor protein
+SNOMED CT,1156798001,Autosomal dominant Alzheimer disease due to mutation of presenilin 2
+SNOMED CT,1156800008,Autosomal dominant Alzheimer disease due to mutation of presenilin 1
+SNOMED CT,1186724002,HTRA1-related autosomal dominant cerebral small vessel disease
+SNOMED CT,1187004001,Chronic traumatic encephalopathy
+SNOMED CT,293671000119109,Behavioral disturbance due to multi-infarct dementia
+SNOMED CT,1187126002,ITM2B-related amyloidosis
+SNOMED CT,1186887004,Dementia caused by manganese
+SNOMED CT,1186880002,Dementia due to cobalamin deficiency
+SNOMED CT,1186879000,Dementia due to thiamine deficiency
+SNOMED CT,1186877003,Dementia due to vitamin E deficiency
+SNOMED CT,1186881003,Dementia due to niacin deficiency
+SNOMED CT,1186883000,Dementia due to nutritional deficiency

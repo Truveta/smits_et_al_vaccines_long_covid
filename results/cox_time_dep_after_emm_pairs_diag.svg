@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='576.00pt' viewBox='0 0 576.00 576.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='576.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTA4LjExfDU3MC41Mnw3MC44M3w1MzcuNTU='>
+    <rect x='108.11' y='70.83' width='462.41' height='466.71' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTA4LjExfDU3MC41Mnw3MC44M3w1MzcuNTU=)'>
+<polyline points='200.31,537.55 200.31,70.83 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='342.68,537.55 342.68,70.83 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='485.05,537.55 485.05,70.83 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='108.11,450.04 570.52,450.04 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='108.11,304.19 570.52,304.19 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='108.11,158.34 570.52,158.34 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='129.13,537.55 129.13,70.83 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='271.50,537.55 271.50,70.83 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='413.86,537.55 413.86,70.83 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='556.23,537.55 556.23,70.83 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<line x1='271.50' y1='537.55' x2='271.50' y2='70.83' style='stroke-width: 1.07; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='243.45' y1='158.34' x2='549.50' y2='158.34' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<line x1='129.13' y1='304.19' x2='570.52' y2='304.19' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<line x1='129.13' y1='450.04' x2='570.52' y2='450.04' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<circle cx='348.35' cy='158.34' r='2.84' style='stroke-width: 1.42; fill: #000000;' />
+<circle cx='129.13' cy='304.19' r='2.84' style='stroke-width: 1.42; fill: #000000;' />
+<circle cx='129.13' cy='450.04' r='2.84' style='stroke-width: 1.42; fill: #000000;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+<text x='62.73' y='434.97' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='65.69px' lengthAdjust='spacingAndGlyphs'>vaccinated</text>
+<text x='62.73' y='447.93' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='22.59px' lengthAdjust='spacingAndGlyphs'>and</text>
+<text x='62.73' y='460.89' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='65.46px' lengthAdjust='spacingAndGlyphs'>boosted vs</text>
+<text x='62.73' y='473.85' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='65.69px' lengthAdjust='spacingAndGlyphs'>vaccinated</text>
+<text x='62.73' y='289.13' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='65.69px' lengthAdjust='spacingAndGlyphs'>vaccinated</text>
+<text x='62.73' y='302.09' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='22.59px' lengthAdjust='spacingAndGlyphs'>and</text>
+<text x='62.73' y='315.05' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='65.46px' lengthAdjust='spacingAndGlyphs'>boosted vs</text>
+<text x='62.73' y='328.01' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='80.91px' lengthAdjust='spacingAndGlyphs'>unvaccinated</text>
+<text x='62.73' y='149.76' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='65.69px' lengthAdjust='spacingAndGlyphs'>vaccinated</text>
+<text x='62.73' y='162.72' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='13.36px' lengthAdjust='spacingAndGlyphs'>vs</text>
+<text x='62.73' y='175.68' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='80.91px' lengthAdjust='spacingAndGlyphs'>unvaccinated</text>
+<text x='129.13' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='7.64px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='271.50' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='7.64px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='413.86' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='7.64px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='556.23' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='7.64px' lengthAdjust='spacingAndGlyphs'>3</text>
+<text x='339.32' y='567.40' text-anchor='middle' style='font-size: 15.00px; font-family: "DejaVu Sans";' textLength='96.20px' lengthAdjust='spacingAndGlyphs'>Hazard Ratio</text>
+<text transform='translate(16.42,304.19) rotate(-90)' text-anchor='middle' style='font-size: 15.00px; font-family: "DejaVu Sans";' textLength='89.78px' lengthAdjust='spacingAndGlyphs'>Comparison</text>
+<text x='108.11' y='62.24' style='font-size: 15.00px; font-family: "DejaVu Sans";' textLength='265.01px' lengthAdjust='spacingAndGlyphs'>Time-dependent vaccination status</text>
+<text x='108.11' y='20.06' style='font-size: 20.00px;fill: #3237B4; font-family: "DejaVu Sans";' textLength='445.70px' lengthAdjust='spacingAndGlyphs'>Hazard ratio for risk of being diagnosed with</text>
+<text x='108.11' y='41.66' style='font-size: 20.00px;fill: #3237B4; font-family: "DejaVu Sans";' textLength='119.10px' lengthAdjust='spacingAndGlyphs'>Long COVID</text>
+</g>
+</svg>

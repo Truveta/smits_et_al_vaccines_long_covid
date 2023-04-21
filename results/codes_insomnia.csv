@@ -1,0 +1,274 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,F51,Sleep disorders not due to a substance or known physiological condition
+ICD10CM,G47,Sleep disorders
+ICD10CM,F51.0,Insomnia not due to a substance or known physiological condition
+ICD10CM,F51.01,Primary insomnia
+ICD10CM,F51.02,Adjustment insomnia
+ICD10CM,F51.03,Paradoxical insomnia
+ICD10CM,F51.04,Psychophysiologic insomnia
+ICD10CM,F51.05,Insomnia due to other mental disorder
+ICD10CM,F51.09,Other insomnia not due to a substance or known physiological condition
+ICD10CM,F51.1,Hypersomnia not due to a substance or known physiological condition
+ICD10CM,F51.11,Primary hypersomnia
+ICD10CM,F51.12,Insufficient sleep syndrome
+ICD10CM,F51.13,Hypersomnia due to other mental disorder
+ICD10CM,F51.19,Other hypersomnia not due to a substance or known physiological condition
+ICD10CM,F51.3,Sleepwalking [somnambulism]
+ICD10CM,F51.4,Sleep terrors [night terrors]
+ICD10CM,F51.5,Nightmare disorder
+ICD10CM,F51.8,Other sleep disorders not due to a substance or known physiological condition
+ICD10CM,F51.9,"Sleep disorder not due to a substance or known physiological condition, unspecified"
+ICD10CM,G47.0,Insomnia
+ICD10CM,G47.00,"Insomnia, unspecified"
+ICD10CM,G47.01,Insomnia due to medical condition
+ICD10CM,G47.09,Other insomnia
+ICD10CM,G47.1,Hypersomnia
+ICD10CM,G47.10,"Hypersomnia, unspecified"
+ICD10CM,G47.11,Idiopathic hypersomnia with long sleep time
+ICD10CM,G47.12,Idiopathic hypersomnia without long sleep time
+ICD10CM,G47.13,Recurrent hypersomnia
+ICD10CM,G47.14,Hypersomnia due to medical condition
+ICD10CM,G47.19,Other hypersomnia
+ICD10CM,G47.2,Circadian rhythm sleep disorders
+ICD10CM,G47.20,"Circadian rhythm sleep disorder, unspecified type"
+ICD10CM,G47.21,"Circadian rhythm sleep disorder, delayed sleep phase type"
+ICD10CM,G47.22,"Circadian rhythm sleep disorder, advanced sleep phase type"
+ICD10CM,G47.23,"Circadian rhythm sleep disorder, irregular sleep wake type"
+ICD10CM,G47.24,"Circadian rhythm sleep disorder, free running type"
+ICD10CM,G47.25,"Circadian rhythm sleep disorder, jet lag type"
+ICD10CM,G47.26,"Circadian rhythm sleep disorder, shift work type"
+ICD10CM,G47.27,Circadian rhythm sleep disorder in conditions classified elsewhere
+ICD10CM,G47.29,Other circadian rhythm sleep disorder
+ICD10CM,G47.3,Sleep apnea
+ICD10CM,G47.30,"Sleep apnea, unspecified"
+ICD10CM,G47.31,Primary central sleep apnea
+ICD10CM,G47.32,High altitude periodic breathing
+ICD10CM,G47.33,Obstructive sleep apnea (adult) (pediatric)
+ICD10CM,G47.34,Idiopathic sleep related nonobstructive alveolar hypoventilation
+ICD10CM,G47.35,Congenital central alveolar hypoventilation syndrome
+ICD10CM,G47.36,Sleep related hypoventilation in conditions classified elsewhere
+ICD10CM,G47.37,Central sleep apnea in conditions classified elsewhere
+ICD10CM,G47.39,Other sleep apnea
+ICD10CM,G47.4,Narcolepsy and cataplexy
+ICD10CM,G47.41,Narcolepsy
+ICD10CM,G47.411,Narcolepsy with cataplexy
+ICD10CM,G47.419,Narcolepsy without cataplexy
+ICD10CM,G47.42,Narcolepsy in conditions classified elsewhere
+ICD10CM,G47.421,Narcolepsy in conditions classified elsewhere with cataplexy
+ICD10CM,G47.429,Narcolepsy in conditions classified elsewhere without cataplexy
+ICD10CM,G47.5,Parasomnia
+ICD10CM,G47.50,"Parasomnia, unspecified"
+ICD10CM,G47.51,Confusional arousals
+ICD10CM,G47.52,REM sleep behavior disorder
+ICD10CM,G47.53,Recurrent isolated sleep paralysis
+ICD10CM,G47.54,Parasomnia in conditions classified elsewhere
+ICD10CM,G47.59,Other parasomnia
+ICD10CM,G47.6,Sleep related movement disorders
+ICD10CM,G47.61,Periodic limb movement disorder
+ICD10CM,G47.62,Sleep related leg cramps
+ICD10CM,G47.63,Sleep related bruxism
+ICD10CM,G47.69,Other sleep related movement disorders
+ICD10CM,G47.8,Other sleep disorders
+ICD10CM,G47.9,"Sleep disorder, unspecified"
+SNOMED CT,39898005,Sleep disorder
+SNOMED CT,268652009,Transient insomnia
+SNOMED CT,268653004,Transient hypersomnia
+SNOMED CT,268654005,Repetitive intrusions of sleep
+SNOMED CT,268722008,Non-organic disorder of the sleep-wake schedule
+SNOMED CT,270487001,Non-organic sleep disorder
+SNOMED CT,271793004,Irregular sleep-wake pattern
+SNOMED CT,271794005,Disorder of sleep-wake cycle
+SNOMED CT,274950005,Sleep related bruxism
+SNOMED CT,277180005,Sleep paralysis
+SNOMED CT,277181009,Sleep starts
+SNOMED CT,361208003,Primary sleep apnea of newborn
+SNOMED CT,363314000,Substance-induced sleep disorder
+SNOMED CT,370971007,Somnolence syndrome
+SNOMED CT,401236004,Early morning waking
+SNOMED CT,407666007,Nocturnal sleep-related eating disorder
+SNOMED CT,413638006,Benign neonatal sleep myoclonus
+SNOMED CT,415238003,REM sleep behavior disorder
+SNOMED CT,418424006,Post-radiotherapy somnolence syndrome
+SNOMED CT,418475009,Drug-induced sleep disorder
+SNOMED CT,418763003,Periodic limb movement disorder
+SNOMED CT,418955009,Organic sleep disorder
+SNOMED CT,425476007,Non-organic parasomnia
+SNOMED CT,425832009,Psychophysiologic insomnia
+SNOMED CT,425881006,Limit-setting sleep disorder
+SNOMED CT,426451004,Recurrent hypersomnia
+SNOMED CT,426542005,Sleep hypoventilation due to lower airway obstruction
+SNOMED CT,426824009,Sleep-onset association disorder
+SNOMED CT,426943005,Hypersomnia disorder related to menstruation
+SNOMED CT,427426006,Sleep attack
+SNOMED CT,428708005,Secondary parasomnia
+SNOMED CT,429266002,Sleep-related groaning
+SNOMED CT,429276004,Environmental sleep disorder
+SNOMED CT,429456008,Hypoventilation during sleep due to neuromuscular disorder
+SNOMED CT,429571005,Sleep-related dissociative disorder
+SNOMED CT,430390000,Sleep-related neurogenic tachypnea
+SNOMED CT,430893009,Sleep related rhythmic movement disorder
+SNOMED CT,441830002,Confusional arousal disorder
+SNOMED CT,441877007,Sleep dysfunction with sleep stage disturbance
+SNOMED CT,441910000,Idiopathic sleep related non-obstructive alveolar hypoventilation
+SNOMED CT,441976002,Organic parasomnia
+SNOMED CT,442120007,Recurrent isolated sleep paralysis
+SNOMED CT,442164004,Organic sleep apnea
+SNOMED CT,442176004,Sleep dysfunction with arousal disturbance
+SNOMED CT,442292004,Idiopathic hypersomnia without long sleep time
+SNOMED CT,442416002,Idiopathic hypersomnia associated with long sleep time
+SNOMED CT,443664006,Long sleeper syndrome
+SNOMED CT,443760008,Sleep hypoventilation
+SNOMED CT,449160007,Exploding head syndrome
+SNOMED CT,472819006,Adjustment insomnia
+SNOMED CT,711565008,Dream enactment behavior
+SNOMED CT,713498009,Circadian rhythm sleep disorder of shift work type
+SNOMED CT,713524002,Sleep disorder caused by reverse transcriptase inhibitor
+SNOMED CT,715829003,Familial advanced sleep phase syndrome
+SNOMED CT,719972004,Haddad syndrome
+SNOMED CT,719976001,Glaucoma and sleep apnea syndrome
+SNOMED CT,73430006,Sleep apnea
+SNOMED CT,77692006,Hypersomnia
+SNOMED CT,78275009,Obstructive sleep apnea syndrome
+SNOMED CT,79280005,Hypersomnia with sleep apnea
+SNOMED CT,80495009,Sleep walking disorder
+SNOMED CT,81608000,Insomnia disorder related to known organic factor
+SNOMED CT,83157008,Fatal familial insomnia
+SNOMED CT,88926005,Opioid-induced sleep disorder
+SNOMED CT,88982005,Rebound insomnia
+SNOMED CT,89415002,Hypersomnia disorder related to another mental disorder
+SNOMED CT,89675003,Sleep terror disorder
+SNOMED CT,111488004,Kleine-Levin syndrome
+SNOMED CT,111489007,Breathing-related sleep disorder
+SNOMED CT,162204000,Late insomnia
+SNOMED CT,191997003,Persistent insomnia
+SNOMED CT,191999000,Persistent hypersomnia
+SNOMED CT,192003008,Sleep drunkenness
+SNOMED CT,192004002,Repeated rapid eye movement sleep interruptions
+SNOMED CT,192008004,Reversed sleep-wake cycle
+SNOMED CT,192454004,Nonorganic insomnia
+SNOMED CT,193042000,Cataplexy and narcolepsy
+SNOMED CT,193462001,Insomnia
+SNOMED CT,194437008,Disorders of initiating and maintaining sleep
+SNOMED CT,194439006,Disorder of excessive somnolence
+SNOMED CT,198437004,Menopausal sleeplessness
+SNOMED CT,230488004,Hypersomnia of non-organic origin
+SNOMED CT,230489007,Excessive daytime sleepiness - normal night sleep
+SNOMED CT,230490003,Excessive day and night-time sleepiness
+SNOMED CT,230491004,Postviral excessive daytime sleepiness
+SNOMED CT,230492006,Excessive daytime sleepiness with sleep paralysis
+SNOMED CT,230494007,Alveolar sleep apnea
+SNOMED CT,230495008,Transient sleep-wake rhythm disorder
+SNOMED CT,230496009,Non-24 hour sleep-wake cycle
+SNOMED CT,230497000,Sleep-related head banging
+SNOMED CT,230498005,Sleep-related painful erections
+SNOMED CT,230499002,Sleep-related respiratory failure
+SNOMED CT,230500006,Sleep-related dystonia
+SNOMED CT,247951006,Reaction to sudden wakening
+SNOMED CT,247962006,Sleep automatism
+SNOMED CT,248256006,Not getting enough sleep
+SNOMED CT,248258007,Circumstances interfere with sleep
+SNOMED CT,248259004,Symptoms interfere with sleep
+SNOMED CT,248260009,Unrefreshed by sleep
+SNOMED CT,248261008,Oversleeps
+SNOMED CT,248262001,Always sleepy
+SNOMED CT,3972004,Primary insomnia
+SNOMED CT,17402007,Pavor diurnus
+SNOMED CT,22574000,Cocaine-induced sleep disorder
+SNOMED CT,24121004,Insomnia disorder related to another mental disorder
+SNOMED CT,24825006,Central alveolar hypoventilation syndrome
+SNOMED CT,25753007,Amphetamine-induced sleep disorder
+SNOMED CT,27405005,Central sleep apnea syndrome
+SNOMED CT,31537005,"Sleep-wake schedule disorder, advanced phase type"
+SNOMED CT,32914008,Restless legs
+SNOMED CT,36124002,Primary hypersomnia
+SNOMED CT,41083005,Sleep disorder caused by ingestible alcohol
+SNOMED CT,41975002,Insomnia with sleep apnea
+SNOMED CT,44186003,Dyssomnia
+SNOMED CT,44455001,Hypersomnia disorder related to a known organic factor
+SNOMED CT,54230003,Mixed insomnia
+SNOMED CT,54532007,"Sleep-wake schedule disorder, frequently changing type"
+SNOMED CT,56194001,Sleep disorder caused by caffeine
+SNOMED CT,57588009,"Sedative, hypnotic AND/OR anxiolytic-induced sleep disorder"
+SNOMED CT,58690002,Parasomnia
+SNOMED CT,59050008,Initial insomnia
+SNOMED CT,60380001,Narcolepsy
+SNOMED CT,67062000,Terminal insomnia
+SNOMED CT,67233009,Nocturnal awakening
+SNOMED CT,722293005,"Autosomal dominant cerebellar ataxia, deafness and narcolepsy syndrome"
+SNOMED CT,722963007,Secondary restless legs syndrome
+SNOMED CT,723937009,Sleep disorder caused by cannabis
+SNOMED CT,724504007,Central sleep apnea caused by substance
+SNOMED CT,724506009,Central sleep apnea co-occurrent with Cheyne Stokes respiration
+SNOMED CT,724507000,Central sleep apnea without Cheyne-Stokes respiration
+SNOMED CT,724508005,Late-onset central hypoventilation co-occurrent and due to hypothalamic dysfunction
+SNOMED CT,724509002,Sleep-related hypoventilation caused by substance
+SNOMED CT,724699001,Sleep disorder caused by nicotine
+SNOMED CT,724732000,Sleep disorder caused by psychoactive substance
+SNOMED CT,724748004,Chronic insomnia
+SNOMED CT,724749007,Behaviorally induced hypersomnia
+SNOMED CT,724750007,Hypersomnolence caused by substance
+SNOMED CT,724751006,Sleep-wake schedule disorder due to jet lag
+SNOMED CT,724752004,Hypnogogic exploding head syndrome
+SNOMED CT,724753009,Recurrent isolated sleep-related hallucinations
+SNOMED CT,724754003,Parasomnia disorder caused by substance
+SNOMED CT,735676003,Narcolepsy type 1
+SNOMED CT,737342004,Sleep disorder caused by synthetic cannabinoid
+SNOMED CT,762334004,Sleep disorder caused by stimulant
+SNOMED CT,762348004,Adjustment insomnia
+SNOMED CT,762518003,Sleep disorder caused by synthetic cathinone
+SNOMED CT,765751002,Autoimmune encephalopathy with parasomnia and obstructive sleep apnea
+SNOMED CT,774068004,"AHDC1-related intellectual disability, obstructive sleep apnea, mild dysmorphism syndrome"
+SNOMED CT,787175002,"ANK3-related intellectual disability, sleep disturbance syndrome"
+SNOMED CT,789009003,Primary central sleep apnea of prematurity
+SNOMED CT,789046004,Sleep-related movement disorder caused by drug
+SNOMED CT,789047008,Sleep-related movement disorder caused by substance
+SNOMED CT,789055001,Treatment-emergent central sleep apnea
+SNOMED CT,1091000119108,Obstructive sleep apnea of child
+SNOMED CT,1101000119103,Obstructive sleep apnea of adult
+SNOMED CT,3731000119107,Idiopathic hypersomnia
+SNOMED CT,4681000119100,Sleep disturbance in infancy
+SNOMED CT,9741000119101,Primary central sleep apnea
+SNOMED CT,23871000119106,Somnambulism co-occurrent with sleep terror disorder
+SNOMED CT,27971000119105,Insomnia co-occurrent and due to medical condition
+SNOMED CT,31491000119109,Disruptions of 24 hour sleep-wake cycle
+SNOMED CT,31771000119102,Daytime hypersomnia
+SNOMED CT,34101000119105,Nocturnal myoclonus
+SNOMED CT,84991000119105,Sleep related movement disorder
+SNOMED CT,85721000119105,Central sleep apnea due to periodic breathing
+SNOMED CT,89911000119102,Sleep related hypoventilation or hypoxemia
+SNOMED CT,90011000119105,Organic sleep related movement disorder
+SNOMED CT,90361000119105,Behavioral insomnia of childhood
+SNOMED CT,91411000119105,Drug-induced insomnia
+SNOMED CT,91441000119109,Central sleep apnea caused by high altitude
+SNOMED CT,91461000119108,Circadian rhythm disorder caused by drug
+SNOMED CT,91471000119102,Drug-induced hypersomnia
+SNOMED CT,91521000119104,Narcolepsy without cataplexy
+SNOMED CT,91561000119109,Parasomnia caused by drug
+SNOMED CT,93681000119102,Insomnia co-occurrent and due to nocturnal myoclonus
+SNOMED CT,99711000119104,Organic sleep-wake cycle disorder
+SNOMED CT,104831000119109,Drug induced central sleep apnea
+SNOMED CT,105191000119100,Acquired central alveolar hypoventilation
+SNOMED CT,105491000119107,Primary hyposomnia
+SNOMED CT,105521000119109,Organic mixed sleep disorder
+SNOMED CT,135301000119103,Parasomnia caused by alcohol
+SNOMED CT,135311000119100,Insomnia caused by alcohol
+SNOMED CT,135321000119107,Hypersomnia caused by alcohol
+SNOMED CT,135331000119105,Circadian rhythm sleep disorder caused by alcohol
+SNOMED CT,288081000119106,"Behavioral insomnia of childhood, combined type"
+SNOMED CT,288091000119109,"Behavioral insomnia of childhood, limit setting type"
+SNOMED CT,288101000119104,"Behavioral insomnia of childhood, sleep onset association type"
+SNOMED CT,288421000119100,Hyposomnia co-occurrent and due to psychological disorder
+SNOMED CT,288581000119102,Sleep related hypoxemia
+SNOMED CT,434241000124107,Secondary narcolepsy
+SNOMED CT,434251000124109,Secondary narcolepsy without cataplexy
+SNOMED CT,434261000124106,Secondary narcolepsy with cataplexy
+SNOMED CT,436001000124105,Insomnia due to anxiety and fear
+SNOMED CT,12398651000119100,Sleep disorder caused by methamphetamine
+SNOMED CT,16275741000119100,Severe pediatric obstructive sleep apnea
+SNOMED CT,80623000,Delayed sleep-wake phase disorder
+SNOMED CT,230493001,Complex sleep apnoea
+SNOMED CT,399040002,Ondine curse
+SNOMED CT,1052282008,Restless leg syndrome due to uremia
+SNOMED CT,1052283003,Restless leg syndrome due to iron deficiency anemia
+SNOMED CT,1052284009,Restless leg syndrome in pregnancy
+SNOMED CT,1142084009,Hypernychthemeral syndrome

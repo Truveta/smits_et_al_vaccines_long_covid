@@ -1,0 +1,1182 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,A36.81,Diphtheritic cardiomyopathy
+ICD10CM,A38.1,Scarlet fever with myocarditis
+ICD10CM,A39.50,"Meningococcal carditis, unspecified"
+ICD10CM,A39.51,Meningococcal endocarditis
+ICD10CM,A39.52,Meningococcal myocarditis
+ICD10CM,A39.53,Meningococcal pericarditis
+ICD10CM,B26.82,Mumps myocarditis
+ICD10CM,B33.20,"Viral carditis, unspecified"
+ICD10CM,B33.21,Viral endocarditis
+ICD10CM,B33.22,Viral myocarditis
+ICD10CM,B33.23,Viral pericarditis
+ICD10CM,B33.24,Viral cardiomyopathy
+ICD10CM,B37.6,Candidal endocarditis
+ICD10CM,B58.81,Toxoplasma myocarditis
+ICD10CM,G45,Transient cerebral ischemic attacks and related syndromes
+ICD10CM,G45.0,Vertebro-basilar artery syndrome
+ICD10CM,G45.1,Carotid artery syndrome (hemispheric)
+ICD10CM,G45.2,Multiple and bilateral precerebral artery syndromes
+ICD10CM,G45.3,Amaurosis fugax
+ICD10CM,G45.4,Transient global amnesia
+ICD10CM,G45.8,Other transient cerebral ischemic attacks and related syndromes
+ICD10CM,G45.9,"Transient cerebral ischemic attack, unspecified"
+ICD10CM,I01.0,Acute rheumatic pericarditis
+ICD10CM,I01.1,Acute rheumatic endocarditis
+ICD10CM,I01.2,Acute rheumatic myocarditis
+ICD10CM,I01.8,Other acute rheumatic heart disease
+ICD10CM,I01.9,"Acute rheumatic heart disease, unspecified"
+ICD10CM,I02.0,Rheumatic chorea with heart involvement
+ICD10CM,I05.0,Rheumatic mitral stenosis
+ICD10CM,I05.1,Rheumatic mitral insufficiency
+ICD10CM,I05.2,Rheumatic mitral stenosis with insufficiency
+ICD10CM,I05.8,Other rheumatic mitral valve diseases
+ICD10CM,I05.9,"Rheumatic mitral valve disease, unspecified"
+ICD10CM,I06.0,Rheumatic aortic stenosis
+ICD10CM,I06.1,Rheumatic aortic insufficiency
+ICD10CM,I06.2,Rheumatic aortic stenosis with insufficiency
+ICD10CM,I06.8,Other rheumatic aortic valve diseases
+ICD10CM,I06.9,"Rheumatic aortic valve disease, unspecified"
+ICD10CM,I07.0,Rheumatic tricuspid stenosis
+ICD10CM,I07.1,Rheumatic tricuspid insufficiency
+ICD10CM,I07.2,Rheumatic tricuspid stenosis and insufficiency
+ICD10CM,I07.8,Other rheumatic tricuspid valve diseases
+ICD10CM,I07.9,"Rheumatic tricuspid valve disease, unspecified"
+ICD10CM,I08.0,Rheumatic disorders of both mitral and aortic valves
+ICD10CM,I08.1,Rheumatic disorders of both mitral and tricuspid valves
+ICD10CM,I08.2,Rheumatic disorders of both aortic and tricuspid valves
+ICD10CM,I08.3,"Combined rheumatic disorders of mitral, aortic and tricuspid valves"
+ICD10CM,I08.8,Other rheumatic multiple valve diseases
+ICD10CM,I08.9,"Rheumatic multiple valve disease, unspecified"
+ICD10CM,I09.0,Rheumatic myocarditis
+ICD10CM,I09.1,"Rheumatic diseases of endocardium, valve unspecified"
+ICD10CM,I09.2,Chronic rheumatic pericarditis
+ICD10CM,I09.89,Other specified rheumatic heart diseases
+ICD10CM,I09.9,"Rheumatic heart disease, unspecified"
+ICD10CM,I20.0,Unstable angina
+ICD10CM,I20.1,Angina pectoris with documented spasm
+ICD10CM,I20.8,Other forms of angina pectoris
+ICD10CM,I20.9,"Angina pectoris, unspecified"
+ICD10CM,I21.01,ST elevation (STEMI) myocardial infarction involving left main coronary artery
+ICD10CM,I21.02,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery
+ICD10CM,I21.09,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall
+ICD10CM,I21.11,ST elevation (STEMI) myocardial infarction involving right coronary artery
+ICD10CM,I21.19,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall
+ICD10CM,I21.21,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery
+ICD10CM,I21.29,ST elevation (STEMI) myocardial infarction involving other sites
+ICD10CM,I21.3,ST elevation (STEMI) myocardial infarction of unspecified site
+ICD10CM,I21.4,Non-ST elevation (NSTEMI) myocardial infarction
+ICD10CM,I21.9,"Acute myocardial infarction, unspecified"
+ICD10CM,I21.A1,Myocardial infarction type 2
+ICD10CM,I21.A9,Other myocardial infarction type
+ICD10CM,I22.0,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
+ICD10CM,I22.1,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
+ICD10CM,I22.2,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+ICD10CM,I22.8,Subsequent ST elevation (STEMI) myocardial infarction of other sites
+ICD10CM,I22.9,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
+ICD10CM,I23.0,Hemopericardium as current complication following acute myocardial infarction
+ICD10CM,I23.1,Atrial septal defect as current complication following acute myocardial infarction
+ICD10CM,I23.2,Ventricular septal defect as current complication following acute myocardial infarction
+ICD10CM,I23.3,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction
+ICD10CM,I23.4,Rupture of chordae tendineae as current complication following acute myocardial infarction
+ICD10CM,I23.5,Rupture of papillary muscle as current complication following acute myocardial infarction
+ICD10CM,I23.6,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+ICD10CM,I23.7,Postinfarction angina
+ICD10CM,I23.8,Other current complications following acute myocardial infarction
+ICD10CM,I24,Other acute ischemic heart diseases
+ICD10CM,I24.0,Acute coronary thrombosis not resulting in myocardial infarction
+ICD10CM,I24.1,Dressler's syndrome
+ICD10CM,I24.8,Other forms of acute ischemic heart disease
+ICD10CM,I24.9,"Acute ischemic heart disease, unspecified"
+ICD10CM,I25.1,Atherosclerotic heart disease of native coronary artery
+ICD10CM,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+ICD10CM,I25.11,Atherosclerotic heart disease of native coronary artery with angina pectoris
+ICD10CM,I25.110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris
+ICD10CM,I25.111,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm
+ICD10CM,I25.118,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
+ICD10CM,I25.119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris
+ICD10CM,I25.2,Old myocardial infarction
+ICD10CM,I25.3,Aneurysm of heart
+ICD10CM,I25.4,Coronary artery aneurysm and dissection
+ICD10CM,I25.41,Coronary artery aneurysm
+ICD10CM,I25.42,Coronary artery dissection
+ICD10CM,I25.5,Ischemic cardiomyopathy
+ICD10CM,I25.6,Silent myocardial ischemia
+ICD10CM,I25.7,Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris
+ICD10CM,I25.70,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris"
+ICD10CM,I25.700,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris"
+ICD10CM,I25.701,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm"
+ICD10CM,I25.708,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris"
+ICD10CM,I25.709,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris"
+ICD10CM,I25.71,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.710,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.711,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.718,Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.719,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.72,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.720,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.721,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.728,Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.729,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.73,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.730,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.731,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.738,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.739,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.75,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris
+ICD10CM,I25.750,Atherosclerosis of native coronary artery of transplanted heart with unstable angina
+ICD10CM,I25.751,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm
+ICD10CM,I25.758,Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris
+ICD10CM,I25.759,Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris
+ICD10CM,I25.76,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris
+ICD10CM,I25.760,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina
+ICD10CM,I25.761,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm
+ICD10CM,I25.768,Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris
+ICD10CM,I25.769,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris
+ICD10CM,I25.79,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.790,Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.791,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.798,Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.799,Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.8,Other forms of chronic ischemic heart disease
+ICD10CM,I25.81,Atherosclerosis of other coronary vessels without angina pectoris
+ICD10CM,I25.810,Atherosclerosis of coronary artery bypass graft(s) without angina pectoris
+ICD10CM,I25.811,Atherosclerosis of native coronary artery of transplanted heart without angina pectoris
+ICD10CM,I25.812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris
+ICD10CM,I25.82,Chronic total occlusion of coronary artery
+ICD10CM,I25.83,Coronary atherosclerosis due to lipid rich plaque
+ICD10CM,I25.84,Coronary atherosclerosis due to calcified coronary lesion
+ICD10CM,I25.89,Other forms of chronic ischemic heart disease
+ICD10CM,I25.9,"Chronic ischemic heart disease, unspecified"
+ICD10CM,I30.0,Acute nonspecific idiopathic pericarditis
+ICD10CM,I30.1,Infective pericarditis
+ICD10CM,I30.8,Other forms of acute pericarditis
+ICD10CM,I30.9,"Acute pericarditis, unspecified"
+ICD10CM,I31.0,Chronic adhesive pericarditis
+ICD10CM,I31.1,Chronic constrictive pericarditis
+ICD10CM,I31.2,"Hemopericardium, not elsewhere classified"
+ICD10CM,I31.3,Pericardial effusion (noninflammatory)
+ICD10CM,I31.4,Cardiac tamponade
+ICD10CM,I31.8,Other specified diseases of pericardium
+ICD10CM,I31.9,"Disease of pericardium, unspecified"
+ICD10CM,I32,Pericarditis in diseases classified elsewhere
+ICD10CM,I33.0,Acute and subacute infective endocarditis
+ICD10CM,I33.9,"Acute and subacute endocarditis, unspecified"
+ICD10CM,I34.0,Nonrheumatic mitral (valve) insufficiency
+ICD10CM,I34.1,Nonrheumatic mitral (valve) prolapse
+ICD10CM,I34.2,Nonrheumatic mitral (valve) stenosis
+ICD10CM,I34.8,Other nonrheumatic mitral valve disorders
+ICD10CM,I34.9,"Nonrheumatic mitral valve disorder, unspecified"
+ICD10CM,I35.0,Nonrheumatic aortic (valve) stenosis
+ICD10CM,I35.1,Nonrheumatic aortic (valve) insufficiency
+ICD10CM,I35.2,Nonrheumatic aortic (valve) stenosis with insufficiency
+ICD10CM,I35.8,Other nonrheumatic aortic valve disorders
+ICD10CM,I35.9,"Nonrheumatic aortic valve disorder, unspecified"
+ICD10CM,I36.0,Nonrheumatic tricuspid (valve) stenosis
+ICD10CM,I36.1,Nonrheumatic tricuspid (valve) insufficiency
+ICD10CM,I36.2,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+ICD10CM,I36.8,Other nonrheumatic tricuspid valve disorders
+ICD10CM,I36.9,"Nonrheumatic tricuspid valve disorder, unspecified"
+ICD10CM,I37.0,Nonrheumatic pulmonary valve stenosis
+ICD10CM,I37.1,Nonrheumatic pulmonary valve insufficiency
+ICD10CM,I37.2,Nonrheumatic pulmonary valve stenosis with insufficiency
+ICD10CM,I37.8,Other nonrheumatic pulmonary valve disorders
+ICD10CM,I37.9,"Nonrheumatic pulmonary valve disorder, unspecified"
+ICD10CM,I38,"Endocarditis, valve unspecified"
+ICD10CM,I39,Endocarditis and heart valve disorders in diseases classified elsewhere
+ICD10CM,I40.0,Infective myocarditis
+ICD10CM,I40.1,Isolated myocarditis
+ICD10CM,I40.8,Other acute myocarditis
+ICD10CM,I40.9,"Acute myocarditis, unspecified"
+ICD10CM,I41,Myocarditis in diseases classified elsewhere
+ICD10CM,I42.0,Dilated cardiomyopathy
+ICD10CM,I42.1,Obstructive hypertrophic cardiomyopathy
+ICD10CM,I42.2,Other hypertrophic cardiomyopathy
+ICD10CM,I42.3,Endomyocardial (eosinophilic) disease
+ICD10CM,I42.4,Endocardial fibroelastosis
+ICD10CM,I42.5,Other restrictive cardiomyopathy
+ICD10CM,I42.7,Cardiomyopathy due to drug and external agent
+ICD10CM,I42.8,Other cardiomyopathies
+ICD10CM,I42.9,"Cardiomyopathy, unspecified"
+ICD10CM,I43,Cardiomyopathy in diseases classified elsewhere
+ICD10CM,I44.0,"Atrioventricular block, first degree"
+ICD10CM,I44.1,"Atrioventricular block, second degree"
+ICD10CM,I44.2,"Atrioventricular block, complete"
+ICD10CM,I44.30,Unspecified atrioventricular block
+ICD10CM,I44.39,Other atrioventricular block
+ICD10CM,I44.4,Left anterior fascicular block
+ICD10CM,I44.5,Left posterior fascicular block
+ICD10CM,I44.60,Unspecified fascicular block
+ICD10CM,I44.69,Other fascicular block
+ICD10CM,I44.7,"Left bundle-branch block, unspecified"
+ICD10CM,I45.0,Right fascicular block
+ICD10CM,I45.10,Unspecified right bundle-branch block
+ICD10CM,I45.19,Other right bundle-branch block
+ICD10CM,I45.2,Bifascicular block
+ICD10CM,I45.3,Trifascicular block
+ICD10CM,I45.4,Nonspecific intraventricular block
+ICD10CM,I45.5,Other specified heart block
+ICD10CM,I45.6,Pre-excitation syndrome
+ICD10CM,I45.81,Long QT syndrome
+ICD10CM,I45.89,Other specified conduction disorders
+ICD10CM,I45.9,"Conduction disorder, unspecified"
+ICD10CM,I46.2,Cardiac arrest due to underlying cardiac condition
+ICD10CM,I46.8,Cardiac arrest due to other underlying condition
+ICD10CM,I46.9,"Cardiac arrest, cause unspecified"
+ICD10CM,I47.0,Re-entry ventricular arrhythmia
+ICD10CM,I47.1,Supraventricular tachycardia
+ICD10CM,I47.2,Ventricular tachycardia
+ICD10CM,I47.9,"Paroxysmal tachycardia, unspecified"
+ICD10CM,I48.0,Paroxysmal atrial fibrillation
+ICD10CM,I48.1,Persistent atrial fibrillation
+ICD10CM,I48.2,Chronic atrial fibrillation
+ICD10CM,I48.3,Typical atrial flutter
+ICD10CM,I48.4,Atypical atrial flutter
+ICD10CM,I48.91,Unspecified atrial fibrillation
+ICD10CM,I48.92,Unspecified atrial flutter
+ICD10CM,I49.01,Ventricular fibrillation
+ICD10CM,I49.02,Ventricular flutter
+ICD10CM,I49.1,Atrial premature depolarization
+ICD10CM,I49.2,Junctional premature depolarization
+ICD10CM,I49.3,Ventricular premature depolarization
+ICD10CM,I49.40,Unspecified premature depolarization
+ICD10CM,I49.49,Other premature depolarization
+ICD10CM,I49.5,Sick sinus syndrome
+ICD10CM,I49.8,Other specified cardiac arrhythmias
+ICD10CM,I49.9,"Cardiac arrhythmia, unspecified"
+ICD10CM,I51.0,"Cardiac septal defect, acquired"
+ICD10CM,I51.1,"Rupture of chordae tendineae, not elsewhere classified"
+ICD10CM,I51.2,"Rupture of papillary muscle, not elsewhere classified"
+ICD10CM,I51.3,"Intracardiac thrombosis, not elsewhere classified"
+ICD10CM,I51.4,"Myocarditis, unspecified"
+ICD10CM,I51.5,Myocardial degeneration
+ICD10CM,I51.7,Cardiomegaly
+ICD10CM,I51.81,Takotsubo syndrome
+ICD10CM,I51.89,Other ill-defined heart diseases
+ICD10CM,I51.9,"Heart disease, unspecified"
+ICD10CM,I52,Other heart disorders in diseases classified elsewhere
+ICD10CM,I63,Cerebral infarction
+ICD10CM,I63.0,Cerebral infarction due to thrombosis of precerebral arteries
+ICD10CM,I63.00,Cerebral infarction due to thrombosis of unspecified precerebral artery
+ICD10CM,I63.01,Cerebral infarction due to thrombosis of vertebral artery
+ICD10CM,I63.011,Cerebral infarction due to thrombosis of right vertebral artery
+ICD10CM,I63.012,Cerebral infarction due to thrombosis of left vertebral artery
+ICD10CM,I63.013,Cerebral infarction due to thrombosis of bilateral vertebral arteries
+ICD10CM,I63.019,Cerebral infarction due to thrombosis of unspecified vertebral artery
+ICD10CM,I63.02,Cerebral infarction due to thrombosis of basilar artery
+ICD10CM,I63.03,Cerebral infarction due to thrombosis of carotid artery
+ICD10CM,I63.031,Cerebral infarction due to thrombosis of right carotid artery
+ICD10CM,I63.032,Cerebral infarction due to thrombosis of left carotid artery
+ICD10CM,I63.033,Cerebral infarction due to thrombosis of bilateral carotid arteries
+ICD10CM,I63.039,Cerebral infarction due to thrombosis of unspecified carotid artery
+ICD10CM,I63.09,Cerebral infarction due to thrombosis of other precerebral artery
+ICD10CM,I63.1,Cerebral infarction due to embolism of precerebral arteries
+ICD10CM,I63.10,Cerebral infarction due to embolism of unspecified precerebral artery
+ICD10CM,I63.11,Cerebral infarction due to embolism of vertebral artery
+ICD10CM,I63.111,Cerebral infarction due to embolism of right vertebral artery
+ICD10CM,I63.112,Cerebral infarction due to embolism of left vertebral artery
+ICD10CM,I63.113,Cerebral infarction due to embolism of bilateral vertebral arteries
+ICD10CM,I63.119,Cerebral infarction due to embolism of unspecified vertebral artery
+ICD10CM,I63.12,Cerebral infarction due to embolism of basilar artery
+ICD10CM,I63.13,Cerebral infarction due to embolism of carotid artery
+ICD10CM,I63.131,Cerebral infarction due to embolism of right carotid artery
+ICD10CM,I63.132,Cerebral infarction due to embolism of left carotid artery
+ICD10CM,I63.133,Cerebral infarction due to embolism of bilateral carotid arteries
+ICD10CM,I63.139,Cerebral infarction due to embolism of unspecified carotid artery
+ICD10CM,I63.19,Cerebral infarction due to embolism of other precerebral artery
+ICD10CM,I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+ICD10CM,I63.20,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries
+ICD10CM,I63.21,Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries
+ICD10CM,I63.211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery
+ICD10CM,I63.212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery
+ICD10CM,I63.213,Cerebral infarction due to unspecified occlusion or stenosis of bilateral vertebral arteries
+ICD10CM,I63.219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery
+ICD10CM,I63.22,Cerebral infarction due to unspecified occlusion or stenosis of basilar artery
+ICD10CM,I63.23,Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries
+ICD10CM,I63.231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries
+ICD10CM,I63.232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries
+ICD10CM,I63.233,Cerebral infarction due to unspecified occlusion or stenosis of bilateral carotid arteries
+ICD10CM,I63.239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery
+ICD10CM,I63.29,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries
+ICD10CM,I63.3,Cerebral infarction due to thrombosis of cerebral arteries
+ICD10CM,I63.30,Cerebral infarction due to thrombosis of unspecified cerebral artery
+ICD10CM,I63.31,Cerebral infarction due to thrombosis of middle cerebral artery
+ICD10CM,I63.311,Cerebral infarction due to thrombosis of right middle cerebral artery
+ICD10CM,I63.312,Cerebral infarction due to thrombosis of left middle cerebral artery
+ICD10CM,I63.313,Cerebral infarction due to thrombosis of bilateral middle cerebral arteries
+ICD10CM,I63.319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery
+ICD10CM,I63.32,Cerebral infarction due to thrombosis of anterior cerebral artery
+ICD10CM,I63.321,Cerebral infarction due to thrombosis of right anterior cerebral artery
+ICD10CM,I63.322,Cerebral infarction due to thrombosis of left anterior cerebral artery
+ICD10CM,I63.323,Cerebral infarction due to thrombosis of bilateral anterior cerebral arteries
+ICD10CM,I63.329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
+ICD10CM,I63.33,Cerebral infarction due to thrombosis of posterior cerebral artery
+ICD10CM,I63.331,Cerebral infarction due to thrombosis of right posterior cerebral artery
+ICD10CM,I63.332,Cerebral infarction due to thrombosis of left posterior cerebral artery
+ICD10CM,I63.333,Cerebral infarction due to thrombosis of bilateral posterior cerebral arteries
+ICD10CM,I63.339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery
+ICD10CM,I63.34,Cerebral infarction due to thrombosis of cerebellar artery
+ICD10CM,I63.341,Cerebral infarction due to thrombosis of right cerebellar artery
+ICD10CM,I63.342,Cerebral infarction due to thrombosis of left cerebellar artery
+ICD10CM,I63.343,Cerebral infarction due to thrombosis of bilateral cerebellar arteries
+ICD10CM,I63.349,Cerebral infarction due to thrombosis of unspecified cerebellar artery
+ICD10CM,I63.39,Cerebral infarction due to thrombosis of other cerebral artery
+ICD10CM,I63.4,Cerebral infarction due to embolism of cerebral arteries
+ICD10CM,I63.40,Cerebral infarction due to embolism of unspecified cerebral artery
+ICD10CM,I63.41,Cerebral infarction due to embolism of middle cerebral artery
+ICD10CM,I63.411,Cerebral infarction due to embolism of right middle cerebral artery
+ICD10CM,I63.412,Cerebral infarction due to embolism of left middle cerebral artery
+ICD10CM,I63.413,Cerebral infarction due to embolism of bilateral middle cerebral arteries
+ICD10CM,I63.419,Cerebral infarction due to embolism of unspecified middle cerebral artery
+ICD10CM,I63.42,Cerebral infarction due to embolism of anterior cerebral artery
+ICD10CM,I63.421,Cerebral infarction due to embolism of right anterior cerebral artery
+ICD10CM,I63.422,Cerebral infarction due to embolism of left anterior cerebral artery
+ICD10CM,I63.423,Cerebral infarction due to embolism of bilateral anterior cerebral arteries
+ICD10CM,I63.429,Cerebral infarction due to embolism of unspecified anterior cerebral artery
+ICD10CM,I63.43,Cerebral infarction due to embolism of posterior cerebral artery
+ICD10CM,I63.431,Cerebral infarction due to embolism of right posterior cerebral artery
+ICD10CM,I63.432,Cerebral infarction due to embolism of left posterior cerebral artery
+ICD10CM,I63.433,Cerebral infarction due to embolism of bilateral posterior cerebral arteries
+ICD10CM,I63.439,Cerebral infarction due to embolism of unspecified posterior cerebral artery
+ICD10CM,I63.44,Cerebral infarction due to embolism of cerebellar artery
+ICD10CM,I63.441,Cerebral infarction due to embolism of right cerebellar artery
+ICD10CM,I63.442,Cerebral infarction due to embolism of left cerebellar artery
+ICD10CM,I63.443,Cerebral infarction due to embolism of bilateral cerebellar arteries
+ICD10CM,I63.449,Cerebral infarction due to embolism of unspecified cerebellar artery
+ICD10CM,I63.49,Cerebral infarction due to embolism of other cerebral artery
+ICD10CM,I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+ICD10CM,I63.50,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery
+ICD10CM,I63.51,Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery
+ICD10CM,I63.511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery
+ICD10CM,I63.512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery
+ICD10CM,I63.513,Cerebral infarction due to unspecified occlusion or stenosis of bilateral middle cerebral arteries
+ICD10CM,I63.519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery
+ICD10CM,I63.52,Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery
+ICD10CM,I63.521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery
+ICD10CM,I63.522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery
+ICD10CM,I63.523,Cerebral infarction due to unspecified occlusion or stenosis of bilateral anterior cerebral arteries
+ICD10CM,I63.529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery
+ICD10CM,I63.53,Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery
+ICD10CM,I63.531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery
+ICD10CM,I63.532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery
+ICD10CM,I63.533,Cerebral infarction due to unspecified occlusion or stenosis of bilateral posterior cerebral arteries
+ICD10CM,I63.539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery
+ICD10CM,I63.54,Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery
+ICD10CM,I63.541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery
+ICD10CM,I63.542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery
+ICD10CM,I63.543,Cerebral infarction due to unspecified occlusion or stenosis of bilateral cerebellar arteries
+ICD10CM,I63.549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery
+ICD10CM,I63.59,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery
+ICD10CM,I63.6,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+ICD10CM,I63.8,Other cerebral infarction
+ICD10CM,I63.81,Other cerebral infarction due to occlusion or stenosis of small artery
+ICD10CM,I63.89,Other cerebral infarction
+ICD10CM,I63.9,"Cerebral infarction, unspecified"
+ICD10CM,I67.0,"Dissection of cerebral arteries, nonruptured"
+ICD10CM,I70.0,Atherosclerosis of aorta
+ICD10CM,I70.1,Atherosclerosis of renal artery
+ICD10CM,I70.2,Atherosclerosis of native arteries of the extremities
+ICD10CM,I70.20,Unspecified atherosclerosis of native arteries of extremities
+ICD10CM,I70.201,"Unspecified atherosclerosis of native arteries of extremities, right leg"
+ICD10CM,I70.202,"Unspecified atherosclerosis of native arteries of extremities, left leg"
+ICD10CM,I70.203,"Unspecified atherosclerosis of native arteries of extremities, bilateral legs"
+ICD10CM,I70.208,"Unspecified atherosclerosis of native arteries of extremities, other extremity"
+ICD10CM,I70.209,"Unspecified atherosclerosis of native arteries of extremities, unspecified extremity"
+ICD10CM,I70.21,Atherosclerosis of native arteries of extremities with intermittent claudication
+ICD10CM,I70.211,"Atherosclerosis of native arteries of extremities with intermittent claudication, right leg"
+ICD10CM,I70.212,"Atherosclerosis of native arteries of extremities with intermittent claudication, left leg"
+ICD10CM,I70.213,"Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs"
+ICD10CM,I70.218,"Atherosclerosis of native arteries of extremities with intermittent claudication, other extremity"
+ICD10CM,I70.219,"Atherosclerosis of native arteries of extremities with intermittent claudication, unspecified extremity"
+ICD10CM,I70.22,Atherosclerosis of native arteries of extremities with rest pain
+ICD10CM,I70.221,"Atherosclerosis of native arteries of extremities with rest pain, right leg"
+ICD10CM,I70.222,"Atherosclerosis of native arteries of extremities with rest pain, left leg"
+ICD10CM,I70.223,"Atherosclerosis of native arteries of extremities with rest pain, bilateral legs"
+ICD10CM,I70.228,"Atherosclerosis of native arteries of extremities with rest pain, other extremity"
+ICD10CM,I70.229,"Atherosclerosis of native arteries of extremities with rest pain, unspecified extremity"
+ICD10CM,I70.23,Atherosclerosis of native arteries of right leg with ulceration
+ICD10CM,I70.231,Atherosclerosis of native arteries of right leg with ulceration of thigh
+ICD10CM,I70.232,Atherosclerosis of native arteries of right leg with ulceration of calf
+ICD10CM,I70.233,Atherosclerosis of native arteries of right leg with ulceration of ankle
+ICD10CM,I70.234,Atherosclerosis of native arteries of right leg with ulceration of heel and midfoot
+ICD10CM,I70.235,Atherosclerosis of native arteries of right leg with ulceration of other part of foot
+ICD10CM,I70.238,Atherosclerosis of native arteries of right leg with ulceration of other part of lower leg
+ICD10CM,I70.239,Atherosclerosis of native arteries of right leg with ulceration of unspecified site
+ICD10CM,I70.24,Atherosclerosis of native arteries of left leg with ulceration
+ICD10CM,I70.241,Atherosclerosis of native arteries of left leg with ulceration of thigh
+ICD10CM,I70.242,Atherosclerosis of native arteries of left leg with ulceration of calf
+ICD10CM,I70.243,Atherosclerosis of native arteries of left leg with ulceration of ankle
+ICD10CM,I70.244,Atherosclerosis of native arteries of left leg with ulceration of heel and midfoot
+ICD10CM,I70.245,Atherosclerosis of native arteries of left leg with ulceration of other part of foot
+ICD10CM,I70.248,Atherosclerosis of native arteries of left leg with ulceration of other part of lower leg
+ICD10CM,I70.249,Atherosclerosis of native arteries of left leg with ulceration of unspecified site
+ICD10CM,I70.25,Atherosclerosis of native arteries of other extremities with ulceration
+ICD10CM,I70.26,Atherosclerosis of native arteries of extremities with gangrene
+ICD10CM,I70.261,"Atherosclerosis of native arteries of extremities with gangrene, right leg"
+ICD10CM,I70.262,"Atherosclerosis of native arteries of extremities with gangrene, left leg"
+ICD10CM,I70.263,"Atherosclerosis of native arteries of extremities with gangrene, bilateral legs"
+ICD10CM,I70.268,"Atherosclerosis of native arteries of extremities with gangrene, other extremity"
+ICD10CM,I70.269,"Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity"
+ICD10CM,I70.29,Other atherosclerosis of native arteries of extremities
+ICD10CM,I70.291,"Other atherosclerosis of native arteries of extremities, right leg"
+ICD10CM,I70.292,"Other atherosclerosis of native arteries of extremities, left leg"
+ICD10CM,I70.293,"Other atherosclerosis of native arteries of extremities, bilateral legs"
+ICD10CM,I70.298,"Other atherosclerosis of native arteries of extremities, other extremity"
+ICD10CM,I70.299,"Other atherosclerosis of native arteries of extremities, unspecified extremity"
+ICD10CM,I71.6,"Thoracoabdominal aortic aneurysm, without rupture"
+ICD10CM,I71.8,"Aortic aneurysm of unspecified site, ruptured"
+ICD10CM,I71.9,"Aortic aneurysm of unspecified site, without rupture"
+ICD10CM,I70.8,Atherosclerosis of other arteries
+ICD10CM,I70.90,Unspecified atherosclerosis
+ICD10CM,I70.91,Generalized atherosclerosis
+ICD10CM,I70.92,Chronic total occlusion of artery of the extremities
+ICD10CM,I71.00,Dissection of unspecified site of aorta
+ICD10CM,I71.01,Dissection of thoracic aorta
+ICD10CM,I71.02,Dissection of abdominal aorta
+ICD10CM,I71.03,Dissection of thoracoabdominal aorta
+ICD10CM,I71.1,"Thoracic aortic aneurysm, ruptured"
+ICD10CM,I71.2,"Thoracic aortic aneurysm, without rupture"
+ICD10CM,I71.3,"Abdominal aortic aneurysm, ruptured"
+ICD10CM,I71.4,"Abdominal aortic aneurysm, without rupture"
+ICD10CM,I71.5,"Thoracoabdominal aortic aneurysm, ruptured"
+ICD10CM,I72.0,Aneurysm of carotid artery
+ICD10CM,I72.1,Aneurysm of artery of upper extremity
+ICD10CM,I72.2,Aneurysm of renal artery
+ICD10CM,I72.3,Aneurysm of iliac artery
+ICD10CM,I72.4,Aneurysm of artery of lower extremity
+ICD10CM,I72.5,Aneurysm of other precerebral arteries
+ICD10CM,I72.6,Aneurysm of vertebral artery
+ICD10CM,I72.8,Aneurysm of other specified arteries
+ICD10CM,I72.9,Aneurysm of unspecified site
+ICD10CM,I73.00,Raynaud's syndrome without gangrene
+ICD10CM,I73.1,Thromboangiitis obliterans [Buerger's disease]
+ICD10CM,I73.81,Erythromelalgia
+ICD10CM,I73.89,Other specified peripheral vascular diseases
+ICD10CM,I73.9,"Peripheral vascular disease, unspecified"
+ICD10CM,I74.0,Embolism and thrombosis of abdominal aorta
+ICD10CM,I74.01,Saddle embolus of abdominal aorta
+ICD10CM,I74.09,Other arterial embolism and thrombosis of abdominal aorta
+ICD10CM,I74.10,Embolism and thrombosis of unspecified parts of aorta
+ICD10CM,I74.11,Embolism and thrombosis of thoracic aorta
+ICD10CM,I74.19,Embolism and thrombosis of other parts of aorta
+ICD10CM,I74.2,Embolism and thrombosis of arteries of the upper extremities
+ICD10CM,I74.3,Embolism and thrombosis of arteries of the lower extremities
+ICD10CM,I74.4,"Embolism and thrombosis of arteries of extremities, unspecified"
+ICD10CM,I74.5,Embolism and thrombosis of iliac artery
+ICD10CM,I74.8,Embolism and thrombosis of other arteries
+ICD10CM,I74.9,Embolism and thrombosis of unspecified artery
+ICD10CM,I75.0,Atheroembolism of extremities
+ICD10CM,I75.01,Atheroembolism of upper extremity
+ICD10CM,I75.011,Atheroembolism of right upper extremity
+ICD10CM,I75.012,Atheroembolism of left upper extremity
+ICD10CM,I75.013,Atheroembolism of bilateral upper extremities
+ICD10CM,I75.019,Atheroembolism of unspecified upper extremity
+ICD10CM,I75.02,Atheroembolism of lower extremity
+ICD10CM,I75.021,Atheroembolism of right lower extremity
+ICD10CM,I75.022,Atheroembolism of left lower extremity
+ICD10CM,I75.023,Atheroembolism of bilateral lower extremities
+ICD10CM,I75.029,Atheroembolism of unspecified lower extremity
+ICD10CM,I75.81,Atheroembolism of kidney
+ICD10CM,I75.89,Atheroembolism of other site
+ICD10CM,I77.0,"Arteriovenous fistula, acquired"
+ICD10CM,I77.1,Stricture of artery
+ICD10CM,I77.2,Rupture of artery
+ICD10CM,I77.3,Arterial fibromuscular dysplasia
+ICD10CM,I77.4,Celiac artery compression syndrome
+ICD10CM,I77.5,Necrosis of artery
+ICD10CM,I77.6,"Arteritis, unspecified"
+ICD10CM,I77.70,Dissection of unspecified artery
+ICD10CM,I77.71,Dissection of carotid artery
+ICD10CM,I77.72,Dissection of iliac artery
+ICD10CM,I77.73,Dissection of renal artery
+ICD10CM,I77.74,Dissection of vertebral artery
+ICD10CM,I77.75,Dissection of other precerebral arteries
+ICD10CM,I77.76,Dissection of artery of upper extremity
+ICD10CM,I77.77,Dissection of artery of lower extremity
+ICD10CM,I77.79,Dissection of other specified artery
+ICD10CM,I77.810,Thoracic aortic ectasia
+ICD10CM,I77.811,Abdominal aortic ectasia
+ICD10CM,I77.812,Thoracoabdominal aortic ectasia
+ICD10CM,I77.819,"Aortic ectasia, unspecified site"
+ICD10CM,I77.89,Other specified disorders of arteries and arterioles
+ICD10CM,I77.9,"Disorder of arteries and arterioles, unspecified"
+ICD10CM,I78.0,Hereditary hemorrhagic telangiectasia
+ICD10CM,I78.1,"Nevus, non-neoplastic"
+ICD10CM,I78.8,Other diseases of capillaries
+ICD10CM,I78.9,"Disease of capillaries, unspecified"
+ICD10CM,I79.0,Aneurysm of aorta in diseases classified elsewhere
+ICD10CM,I79.1,Aortitis in diseases classified elsewhere
+ICD10CM,I79.8,"Other disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+ICD10CM,I95.0,Idiopathic hypotension
+ICD10CM,I95.1,Orthostatic hypotension
+ICD10CM,I95.89,Other hypotension
+ICD10CM,I95.9,"Hypotension, unspecified"
+ICD10CM,I99.8,Other disorder of circulatory system
+ICD10CM,I99.9,Unspecified disorder of circulatory system
+ICD10CM,J10.82,Influenza due to other identified influenza virus with myocarditis
+ICD10CM,K55.0,Acute vascular disorders of intestine
+ICD10CM,K55.011,Focal (segmental) acute (reversible) ischemia of small intestine
+ICD10CM,K55.012,Diffuse acute (reversible) ischemia of small intestine
+ICD10CM,K55.019,"Acute (reversible) ischemia of small intestine, extent unspecified"
+ICD10CM,K55.021,Focal (segmental) acute infarction of small intestine
+ICD10CM,K55.022,Diffuse acute infarction of small intestine
+ICD10CM,K55.029,"Acute infarction of small intestine, extent unspecified"
+ICD10CM,K55.031,Focal (segmental) acute (reversible) ischemia of large intestine
+ICD10CM,K55.032,Diffuse acute (reversible) ischemia of large intestine
+ICD10CM,K55.039,"Acute (reversible) ischemia of large intestine, extent unspecified"
+ICD10CM,K55.041,Focal (segmental) acute infarction of large intestine
+ICD10CM,K55.042,Diffuse acute infarction of large intestine
+ICD10CM,K55.049,"Acute infarction of large intestine, extent unspecified"
+ICD10CM,K55.051,"Focal (segmental) acute (reversible) ischemia of intestine, part unspecified"
+ICD10CM,K55.052,"Diffuse acute (reversible) ischemia of intestine, part unspecified"
+ICD10CM,K55.059,"Acute (reversible) ischemia of intestine, part and extent unspecified"
+ICD10CM,K55.061,"Focal (segmental) acute infarction of intestine, part unspecified"
+ICD10CM,K55.062,"Diffuse acute infarction of intestine, part unspecified"
+ICD10CM,K55.069,"Acute infarction of intestine, part and extent unspecified"
+ICD10CM,K55.1,Chronic vascular disorders of intestine
+ICD10CM,K55.8,Other vascular disorders of intestine
+ICD10CM,K55.9,"Vascular disorder of intestine, unspecified"
+ICD10CM,M31.0,Hypersensitivity angiitis
+ICD10CM,P29.3,Persistent fetal circulation
+ICD10CM,P29.30,Pulmonary hypertension of newborn
+ICD10CM,P29.38,Other persistent fetal circulation
+ICD10CM,Q20.0,Common arterial trunk
+ICD10CM,Q20.1,Double outlet right ventricle
+ICD10CM,Q20.2,Double outlet left ventricle
+ICD10CM,Q20.3,Discordant ventriculoarterial connection
+ICD10CM,Q20.4,Double inlet ventricle
+ICD10CM,Q20.5,Discordant atrioventricular connection
+ICD10CM,Q20.6,Isomerism of atrial appendages
+ICD10CM,Q20.8,Other congenital malformations of cardiac chambers and connections
+ICD10CM,Q20.9,"Congenital malformation of cardiac chambers and connections, unspecified"
+ICD10CM,Q21.0,Ventricular septal defect
+ICD10CM,Q21.1,Atrial septal defect
+ICD10CM,Q21.2,Atrioventricular septal defect
+ICD10CM,Q21.3,Tetralogy of Fallot
+ICD10CM,Q21.4,Aortopulmonary septal defect
+ICD10CM,Q21.8,Other congenital malformations of cardiac septa
+ICD10CM,Q21.9,"Congenital malformation of cardiac septum, unspecified"
+ICD10CM,Q22.0,Pulmonary valve atresia
+ICD10CM,Q22.1,Congenital pulmonary valve stenosis
+ICD10CM,Q22.2,Congenital pulmonary valve insufficiency
+ICD10CM,Q22.3,Other congenital malformations of pulmonary valve
+ICD10CM,Q22.4,Congenital tricuspid stenosis
+ICD10CM,Q22.5,Ebstein's anomaly
+ICD10CM,Q22.6,Hypoplastic right heart syndrome
+ICD10CM,Q22.8,Other congenital malformations of tricuspid valve
+ICD10CM,Q22.9,"Congenital malformation of tricuspid valve, unspecified"
+ICD10CM,Q23.0,Congenital stenosis of aortic valve
+ICD10CM,Q23.1,Congenital insufficiency of aortic valve
+ICD10CM,Q23.2,Congenital mitral stenosis
+ICD10CM,Q23.3,Congenital mitral insufficiency
+ICD10CM,Q23.4,Hypoplastic left heart syndrome
+ICD10CM,Q23.8,Other congenital malformations of aortic and mitral valves
+ICD10CM,Q23.9,"Congenital malformation of aortic and mitral valves, unspecified"
+ICD10CM,Q24.0,Dextrocardia
+ICD10CM,Q24.1,Levocardia
+ICD10CM,Q24.2,Cor triatriatum
+ICD10CM,Q24.3,Pulmonary infundibular stenosis
+ICD10CM,Q24.4,Congenital subaortic stenosis
+ICD10CM,Q24.5,Malformation of coronary vessels
+ICD10CM,Q24.6,Congenital heart block
+ICD10CM,Q24.8,Other specified congenital malformations of heart
+ICD10CM,Q24.9,"Congenital malformation of heart, unspecified"
+ICD10CM,Q25.0,Patent ductus arteriosus
+ICD10CM,Q25.1,Coarctation of aorta
+ICD10CM,Q25.2,Atresia of aorta
+ICD10CM,Q25.21,Interruption of aortic arch
+ICD10CM,Q25.29,Other atresia of aorta
+ICD10CM,Q25.3,Supravalvular aortic stenosis
+ICD10CM,Q25.4,Other congenital malformations of aorta
+ICD10CM,Q25.40,Congenital malformation of aorta unspecified
+ICD10CM,Q25.41,Absence and aplasia of aorta
+ICD10CM,Q25.42,Hypoplasia of aorta
+ICD10CM,Q25.43,Congenital aneurysm of aorta
+ICD10CM,Q25.44,Congenital dilation of aorta
+ICD10CM,Q25.45,Double aortic arch
+ICD10CM,Q25.46,Tortuous aortic arch
+ICD10CM,Q25.47,Right aortic arch
+ICD10CM,Q25.48,Anomalous origin of subclavian artery
+ICD10CM,Q25.49,Other congenital malformations of aorta
+ICD10CM,Q25.5,Atresia of pulmonary artery
+ICD10CM,Q25.6,Stenosis of pulmonary artery
+ICD10CM,Q25.71,Coarctation of pulmonary artery
+ICD10CM,Q25.72,Congenital pulmonary arteriovenous malformation
+ICD10CM,Q25.79,Other congenital malformations of pulmonary artery
+ICD10CM,Q25.8,Other congenital malformations of other great arteries
+ICD10CM,Q25.9,"Congenital malformation of great arteries, unspecified"
+ICD10CM,Q26.0,Congenital stenosis of vena cava
+ICD10CM,Q26.1,Persistent left superior vena cava
+ICD10CM,Q26.2,Total anomalous pulmonary venous connection
+ICD10CM,Q26.3,Partial anomalous pulmonary venous connection
+ICD10CM,Q26.4,"Anomalous pulmonary venous connection, unspecified"
+ICD10CM,Q26.5,Anomalous portal venous connection
+ICD10CM,Q26.6,Portal vein-hepatic artery fistula
+ICD10CM,Q26.8,Other congenital malformations of great veins
+ICD10CM,Q26.9,"Congenital malformation of great vein, unspecified"
+ICD10CM,Q27.0,Congenital absence and hypoplasia of umbilical artery
+ICD10CM,Q27.1,Congenital renal artery stenosis
+ICD10CM,Q27.2,Other congenital malformations of renal artery
+ICD10CM,Q27.30,"Arteriovenous malformation, site unspecified"
+ICD10CM,Q27.31,Arteriovenous malformation of vessel of upper limb
+ICD10CM,Q27.32,Arteriovenous malformation of vessel of lower limb
+ICD10CM,Q27.33,Arteriovenous malformation of digestive system vessel
+ICD10CM,Q27.34,Arteriovenous malformation of renal vessel
+ICD10CM,Q27.39,"Arteriovenous malformation, other site"
+ICD10CM,Q27.4,Congenital phlebectasia
+ICD10CM,Q27.8,Other specified congenital malformations of peripheral vascular system
+ICD10CM,Q27.9,"Congenital malformation of peripheral vascular system, unspecified"
+ICD10CM,Q28.0,Arteriovenous malformation of precerebral vessels
+ICD10CM,Q28.1,Other malformations of precerebral vessels
+ICD10CM,Q28.2,Arteriovenous malformation of cerebral vessels
+ICD10CM,Q28.3,Other malformations of cerebral vessels
+ICD10CM,Q28.8,Other specified congenital malformations of circulatory system
+ICD10CM,Q28.9,"Congenital malformation of circulatory system, unspecified"
+ICD10CM,R00.0,"Tachycardia, unspecified"
+ICD10CM,R00.1,"Bradycardia, unspecified"
+ICD10CM,R00.2,Palpitations
+ICD10CM,R00.8,Other abnormalities of heart beat
+ICD10CM,R00.9,Unspecified abnormalities of heart beat
+ICD10CM,R01.0,Benign and innocent cardiac murmurs
+ICD10CM,R01.1,"Cardiac murmur, unspecified"
+ICD10CM,R01.2,Other cardiac sounds
+ICD10CM,R03.0,"Elevated blood-pressure reading, without diagnosis of hypertension"
+ICD10CM,R03.1,Nonspecific low blood-pressure reading
+ICD10CM,R07.2,Precordial pain
+ICD10CM,R07.82,Intercostal pain
+ICD10CM,R07.89,Other chest pain
+ICD10CM,R07.9,"Chest pain, unspecified"
+ICD10CM,R09.89,Other specified symptoms and signs involving the circulatory and respiratory systems
+ICD10CM,R58,"Hemorrhage, not elsewhere classified"
+ICD10CM,Z45.010,Encounter for checking and testing of cardiac pacemaker pulse generator [battery]
+ICD10CM,Z45.018,Encounter for adjustment and management of other part of cardiac pacemaker
+ICD10CM,Z45.02,Encounter for adjustment and management of automatic implantable cardiac defibrillator
+ICD10CM,Z45.09,Encounter for adjustment and management of other cardiac device
+ICD10CM,Z86.73,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+ICD10CM,Z86.74,Personal history of sudden cardiac arrest
+ICD10CM,Z86.79,Personal history of other diseases of the circulatory system
+ICD10CM,Z87.74,Personal history of (corrected) congenital malformations of heart and circulatory system
+ICD10CM,Z94.1,Heart transplant status
+ICD10CM,Z94.3,Heart and lungs transplant status
+ICD10CM,Z95.0,Presence of cardiac pacemaker
+ICD10CM,Z95.1,Presence of aortocoronary bypass graft
+ICD10CM,Z95.2,Presence of prosthetic heart valve
+ICD10CM,Z95.3,Presence of xenogenic heart valve
+ICD10CM,Z95.4,Presence of other heart-valve replacement
+ICD10CM,Z95.5,Presence of coronary angioplasty implant and graft
+ICD10CM,Z95.810,Presence of automatic (implantable) cardiac defibrillator
+ICD10CM,Z95.811,Presence of heart assist device
+ICD10CM,Z95.812,Presence of fully implantable artificial heart
+ICD10CM,Z95.818,Presence of other cardiac implants and grafts
+ICD10CM,Z95.820,Peripheral vascular angioplasty status with implants and grafts
+ICD10CM,Z95.828,Presence of other vascular implants and grafts
+ICD10CM,Z95.9,"Presence of cardiac and vascular implant and graft, unspecified"
+ICD10CM,Z98.61,Coronary angioplasty status
+ICD10CM,Z98.62,Peripheral vascular angioplasty status
+ICD10CM,I48.11,Longstanding persistent atrial fibrillation
+ICD10CM,I48.19,Other persistent atrial fibrillation
+ICD10CM,I48.20,"Chronic atrial fibrillation, unspecified"
+ICD10CM,I48.21,Permanent atrial fibrillation
+ICD10CM,K55.01,Acute (reversible) ischemia of small intestine
+ICD10CM,K55.02,Acute infarction of small intestine
+ICD10CM,K55.03,Acute (reversible) ischemia of large intestine
+ICD10CM,K55.04,Acute infarction of large intestine
+ICD10CM,K55.05,"Acute (reversible) ischemia of intestine, part unspecified"
+ICD10CM,K55.06,"Acute infarction of intestine, part unspecified"
+SNOMED CT,266257000,Transient cerebral ischemia
+SNOMED CT,275434003,Stroke in the puerperium
+SNOMED CT,276220007,Foville syndrome
+SNOMED CT,276222004,Top of basilar syndrome
+SNOMED CT,276517000,Transient myocardial ischemia of newborn
+SNOMED CT,281240008,Extension of cerebrovascular accident
+SNOMED CT,300920004,Carotid atherosclerosis
+SNOMED CT,300995000,Exercise-induced angina
+SNOMED CT,302910002,Atherosclerotic renal artery stenosis
+SNOMED CT,304914007,Acute Q wave myocardial infarction
+SNOMED CT,307140009,Acute non-Q wave infarction
+SNOMED CT,311792005,Postoperative transmural myocardial infarction of anterior wall
+SNOMED CT,311793000,Postoperative transmural myocardial infarction of inferior wall
+SNOMED CT,311796008,Postoperative subendocardial myocardial infarction
+SNOMED CT,314116003,Post infarct angina
+SNOMED CT,314207007,Non-Q wave myocardial infarction
+SNOMED CT,315025001,Refractory angina
+SNOMED CT,315348000,Asymptomatic coronary heart disease
+SNOMED CT,361132001,Senile arteriosclerosis
+SNOMED CT,361133006,Arteriosclerosis obliterans
+SNOMED CT,371040005,Thrombotic stroke
+SNOMED CT,371041009,Embolic stroke
+SNOMED CT,371121002,Neonatal stroke
+SNOMED CT,371803003,Multi vessel coronary artery disease
+SNOMED CT,371804009,Left main coronary artery disease
+SNOMED CT,371805005,Significant coronary bypass graft disease
+SNOMED CT,371806006,Progressive angina
+SNOMED CT,371807002,Atypical angina
+SNOMED CT,371808007,Recurrent angina after percutaneous transluminal coronary angioplasty
+SNOMED CT,371809004,Recurrent angina following placement of coronary artery stent
+SNOMED CT,371810009,Recurrent angina after coronary artery bypass graft
+SNOMED CT,371811008,Recurrent angina post rotational atherectomy
+SNOMED CT,371812001,Recurrent angina after directional coronary atherectomy
+SNOMED CT,373606000,Occlusive stroke
+SNOMED CT,384993003,Periventricular hemorrhagic venous infarct
+SNOMED CT,394659003,Acute coronary syndrome
+SNOMED CT,394710008,First myocardial infarction
+SNOMED CT,398274000,Coronary artery thrombosis
+SNOMED CT,401303003,Acute ST segment elevation myocardial infarction
+SNOMED CT,401314000,Acute non-ST segment elevation myocardial infarction
+SNOMED CT,408546009,Coronary artery bypass graft occlusion
+SNOMED CT,413102000,Infarction of basal ganglia
+SNOMED CT,413439005,Acute ischemic heart disease
+SNOMED CT,413444003,Acute myocardial ischemia
+SNOMED CT,413758000,Cardioembolic stroke
+SNOMED CT,418044006,Myocardial infarction in recovery phase
+SNOMED CT,420006002,Obliterative coronary artery disease
+SNOMED CT,421327009,Coronary artery stent thrombosis
+SNOMED CT,422504002,Ischemic stroke
+SNOMED CT,426814001,Transient cerebral ischemia due to atrial fibrillation
+SNOMED CT,427919004,Coronary arteriosclerosis due to radiation
+SNOMED CT,428196007,Mixed myocardial ischemia and infarction
+SNOMED CT,428507003,Atherosclerotic stenosis of brachiocephalic artery
+SNOMED CT,429245005,Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty
+SNOMED CT,429559004,Typical angina
+SNOMED CT,441574008,Atherosclerosis of artery
+SNOMED CT,442439008,Atherosclerosis of bypass graft of limb
+SNOMED CT,442693003,Atherosclerosis of autologous vein bypass graft of limb
+SNOMED CT,442701004,Atherosclerosis of nonautologous biological bypass graft of limb
+SNOMED CT,442735001,Atherosclerosis of nonautologous bypass graft of limb
+SNOMED CT,443502000,Coronary atherosclerosis
+SNOMED CT,443971004,Arteriosclerosis of artery of extremity
+SNOMED CT,444172003,Recurrent transient cerebral ischemic attack
+SNOMED CT,444657001,Superior cerebellar artery syndrome
+SNOMED CT,703164000,Acute anterior ST segment elevation myocardial infarction
+SNOMED CT,703165004,Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle
+SNOMED CT,703209002,Subsequent ST segment elevation myocardial infarction of inferior wall
+SNOMED CT,703210007,Subsequent ST segment elevation myocardial infarction of anterior wall
+SNOMED CT,703211006,Subsequent ST segment elevation myocardial infarction
+SNOMED CT,703212004,Acute myocardial infarction during procedure
+SNOMED CT,703213009,Acute ST segment elevation myocardial infarction of inferior wall
+SNOMED CT,703251009,Acute myocardial infarction of inferior wall involving right ventricle
+SNOMED CT,703252002,Acute myocardial infarction of anterior wall involving right ventricle
+SNOMED CT,703253007,Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle
+SNOMED CT,703356002,Coronary artery occlusion due to neoplastic disease
+SNOMED CT,703360004,Subsequent non-ST segment elevation myocardial infarction
+SNOMED CT,709584004,Atherosclerosis of bypass graft of lower limb
+SNOMED CT,709585003,Atherosclerosis of nonautologous biological bypass graft of lower limb
+SNOMED CT,709587006,Atherosclerosis of autologous bypass graft of lower limb
+SNOMED CT,710575003,Transient ischemic attack due to embolism
+SNOMED CT,713405002,Subacute ischemic heart disease
+SNOMED CT,716051003,CVA (cerebrovascular accident) during surgery
+SNOMED CT,719678003,Non-obstructive atherosclerosis of coronary artery
+SNOMED CT,70211005,Acute myocardial infarction of anterolateral wall
+SNOMED CT,70422006,Acute subendocardial infarction
+SNOMED CT,70936005,"Multi-infarct dementia, uncomplicated"
+SNOMED CT,70998009,Acute myocardial infarction of posterobasal wall
+SNOMED CT,72092001,Arteriosclerotic vascular disease
+SNOMED CT,73795002,Acute myocardial infarction of inferior wall
+SNOMED CT,76593002,Acute myocardial infarction of inferoposterior wall
+SNOMED CT,78569004,Posterior inferior cerebellar artery syndrome
+SNOMED CT,79009004,Acute myocardial infarction of septum
+SNOMED CT,81363003,Malignant arteriolar nephrosclerosis
+SNOMED CT,81817003,Atherosclerosis of aorta
+SNOMED CT,85284003,"Angina, class III"
+SNOMED CT,87343002,Prinzmetal angina
+SNOMED CT,88032003,Amaurosis fugax
+SNOMED CT,89323001,"Angina, class IV"
+SNOMED CT,90493000,Arteriolar nephrosclerosis
+SNOMED CT,92517006,Calcific coronary arteriosclerosis
+SNOMED CT,95691008,Arteriosclerotic retinopathy
+SNOMED CT,111297002,Nonparalytic stroke
+SNOMED CT,116288000,Paralytic stroke
+SNOMED CT,123641001,Left coronary artery occlusion
+SNOMED CT,123642008,Right coronary artery occlusion
+SNOMED CT,129573006,Atherosclerotic occlusive disease
+SNOMED CT,129574000,Postoperative myocardial infarction
+SNOMED CT,194802003,True posterior myocardial infarction
+SNOMED CT,194809007,Acute myocardial infarction of atrium
+SNOMED CT,194821006,Coronary thrombosis not resulting in myocardial infarction
+SNOMED CT,194823009,Acute coronary insufficiency
+SNOMED CT,194828000,Angina pectoris
+SNOMED CT,194842008,Single coronary vessel disease
+SNOMED CT,194843003,Double coronary vessel disease
+SNOMED CT,194856005,Subsequent myocardial infarction
+SNOMED CT,194857001,Subsequent myocardial infarction of anterior wall
+SNOMED CT,194858006,Subsequent myocardial infarction of inferior wall
+SNOMED CT,195200006,Carotid artery syndrome hemispheric
+SNOMED CT,195209007,Middle cerebral artery syndrome
+SNOMED CT,195210002,Anterior cerebral artery syndrome
+SNOMED CT,195211003,Posterior cerebral artery syndrome
+SNOMED CT,195212005,Brainstem stroke syndrome
+SNOMED CT,195213000,Cerebellar stroke syndrome
+SNOMED CT,195216008,Left sided cerebral hemisphere cerebrovascular accident
+SNOMED CT,195217004,Right sided cerebral hemisphere cerebrovascular accident
+SNOMED CT,230690007,Cerebrovascular accident
+SNOMED CT,230691006,CVA - cerebrovascular accident due to cerebral artery occlusion
+SNOMED CT,230713003,Stroke of uncertain pathology
+SNOMED CT,230714009,Anterior circulation stroke of uncertain pathology
+SNOMED CT,230715005,Posterior circulation stroke of uncertain pathology
+SNOMED CT,230716006,Carotid territory transient ischemic attack
+SNOMED CT,230717002,Vertebrobasilar territory transient ischemic attack
+SNOMED CT,233817007,Triple vessel disease of the heart
+SNOMED CT,233819005,Stable angina
+SNOMED CT,233821000,New onset angina
+SNOMED CT,233825009,Acute Q wave infarction - anteroseptal
+SNOMED CT,233826005,Acute non-Q wave infarction - anteroseptal
+SNOMED CT,233827001,Acute Q wave infarction - anterolateral
+SNOMED CT,233828006,Acute non-Q wave infarction - anterolateral
+SNOMED CT,233829003,Acute Q wave infarction - inferior
+SNOMED CT,233830008,Acute non-Q wave infarction - inferior
+SNOMED CT,233831007,Acute Q wave infarction - inferolateral
+SNOMED CT,233832000,Acute non-Q wave infarction - inferolateral
+SNOMED CT,233833005,Acute Q wave infarction - lateral
+SNOMED CT,233834004,Acute non-Q wave infarction - lateral
+SNOMED CT,233835003,Acute widespread myocardial infarction
+SNOMED CT,233836002,Acute Q wave infarction - widespread
+SNOMED CT,233837006,Acute non-Q wave infarction - widespread
+SNOMED CT,233838001,Acute posterior myocardial infarction
+SNOMED CT,233839009,Old anterior myocardial infarction
+SNOMED CT,233840006,Old inferior myocardial infarction
+SNOMED CT,233841005,Old lateral myocardial infarction
+SNOMED CT,233842003,Old posterior myocardial infarction
+SNOMED CT,233843008,Silent myocardial infarction
+SNOMED CT,233844002,Accelerated coronary artery disease in transplanted heart
+SNOMED CT,233955003,Abdominal aortic atherosclerosis
+SNOMED CT,233956002,Aortoiliac atherosclerosis
+SNOMED CT,1755008,Old myocardial infarction
+SNOMED CT,282006,Acute myocardial infarction of basal-lateral wall
+SNOMED CT,4557003,Preinfarction syndrome
+SNOMED CT,10273003,Acute infarction of papillary muscle
+SNOMED CT,10349009,Multi-infarct dementia with delirium
+SNOMED CT,10365005,Right main coronary artery thrombosis
+SNOMED CT,14070001,Multi-infarct dementia with depression
+SNOMED CT,14309005,Anterior choroidal artery syndrome
+SNOMED CT,15990001,Acute myocardial infarction of posterolateral wall
+SNOMED CT,19057007,Status anginosus
+SNOMED CT,21470009,Syncope anginosa
+SNOMED CT,22298006,Myocardial infarction
+SNOMED CT,25106000,Impending infarction
+SNOMED CT,25133001,Completed stroke
+SNOMED CT,25772007,Multi-infarct dementia with delusions
+SNOMED CT,28248000,Left anterior descending coronary artery thrombosis
+SNOMED CT,29899005,Coronary artery embolism
+SNOMED CT,30277009,Rupture of ventricle due to acute myocardial infarction
+SNOMED CT,35928006,Nocturnal angina
+SNOMED CT,39823006,Generalized atherosclerosis
+SNOMED CT,41334000,"Angina, class II"
+SNOMED CT,42531007,Microinfarct of heart
+SNOMED CT,42866003,Congenital coronary artery sclerosis
+SNOMED CT,45281005,Atherosclerosis of renal artery
+SNOMED CT,46109009,Subendocardial ischemia
+SNOMED CT,49176002,Arteriosclerotic gangrene
+SNOMED CT,49778009,Idiopathic pulmonary arteriosclerosis
+SNOMED CT,50570003,Aneurysm of coronary vessels
+SNOMED CT,51274000,Atherosclerosis of arteries of the extremities
+SNOMED CT,52035003,Acute anteroapical myocardial infarction
+SNOMED CT,53741008,Coronary arteriosclerosis
+SNOMED CT,54329005,Acute myocardial infarction of anterior wall
+SNOMED CT,55382008,Cerebral atherosclerosis
+SNOMED CT,56267009,Multi-infarct dementia
+SNOMED CT,56276002,Left main coronary artery thrombosis
+SNOMED CT,57054005,Acute myocardial infarction
+SNOMED CT,57981008,Progressing stroke
+SNOMED CT,58612006,Acute myocardial infarction of lateral wall
+SNOMED CT,59021001,Angina decubitus
+SNOMED CT,59063002,Acute myocardial infarction of apical-lateral wall
+SNOMED CT,61490001,"Angina, class I"
+SNOMED CT,62240004,Benign arteriolar nephrosclerosis
+SNOMED CT,62695002,Acute anteroseptal myocardial infarction
+SNOMED CT,63739005,Coronary occlusion
+SNOMED CT,64009001,Basilar artery syndrome
+SNOMED CT,64627002,Acute myocardial infarction of high lateral wall
+SNOMED CT,65312002,Cerebral arteriosclerosis
+SNOMED CT,65547006,Acute myocardial infarction of inferolateral wall
+SNOMED CT,67682002,Coronary artery atheroma
+SNOMED CT,722929005,Perinatal arterial ischemic stroke of fetus and/or neonate
+SNOMED CT,723082006,Silent cerebral infarct
+SNOMED CT,724424009,Cerebral ischemic stroke due to small artery occlusion
+SNOMED CT,724425005,Cerebral ischemic stroke due to intracranial large artery atherosclerosis
+SNOMED CT,724426006,Cerebral ischemic stroke due to extracranial large artery atherosclerosis
+SNOMED CT,724429004,Stroke co-occurrent with migraine
+SNOMED CT,724440007,Atherosclerosis of artery of lower limb
+SNOMED CT,724993002,Cerebral ischemic stroke due to occlusion of extracranial large artery
+SNOMED CT,724994008,Cerebral ischemic stroke due to stenosis of extracranial large artery
+SNOMED CT,725132001,Ischemic stroke without residual deficits
+SNOMED CT,788880006,Cerebral ischemic stroke due to dissection of artery
+SNOMED CT,788881005,Cerebral ischemic stroke due to aortic arch embolism
+SNOMED CT,788882003,Cerebral ischemic stroke due to global hypoperfusion with watershed infarct
+SNOMED CT,788883008,Cerebral ischemic stroke due to hypercoagulable state
+SNOMED CT,788884002,Cerebral ischemic stroke due to subarachnoid hemorrhage
+SNOMED CT,789703007,Arteriosclerosis of artery of lower extremity
+SNOMED CT,789704001,Arteriosclerosis of artery of upper extremity
+SNOMED CT,836293000,Acute myocardial infarction of right ventricle
+SNOMED CT,836294006,Acute myocardial infarction of apex of heart
+SNOMED CT,836295007,Acute myocardial infarction of inferolateral wall with posterior extension
+SNOMED CT,840309000,Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion
+SNOMED CT,840310005,Occlusion of proximal left anterior descending coronary artery
+SNOMED CT,840312002,Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion
+SNOMED CT,840313007,Occlusion of mid left anterior descending coronary artery
+SNOMED CT,840315000,Occlusion of distal left anterior descending coronary artery
+SNOMED CT,840316004,Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion
+SNOMED CT,840608004,Occlusion of anterior descending branch of left coronary artery
+SNOMED CT,840609007,Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery
+SNOMED CT,840679006,Occlusion of septal branch of anterior descending branch of left coronary artery
+SNOMED CT,840680009,Acute ST segment elevation myocardial infarction due to occlusion of septal branch of anterior descending branch of left coronary artery
+SNOMED CT,846667001,Occlusion of diagonal branch of anterior descending branch of left coronary artery
+SNOMED CT,846668006,Acute ST segment elevation myocardial infarction due to occlusion of diagonal branch of anterior descending branch of left coronary artery
+SNOMED CT,846683001,Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery
+SNOMED CT,846684007,Occlusion of intermediate artery
+SNOMED CT,868214006,Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of right coronary artery
+SNOMED CT,868215007,Occlusion of proximal portion of right coronary artery
+SNOMED CT,868216008,Occlusion of distal portion of right coronary artery
+SNOMED CT,868217004,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of right coronary artery
+SNOMED CT,868219001,Occlusion of mid portion of right coronary artery
+SNOMED CT,868220007,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery
+SNOMED CT,868221006,Occlusion of marginal branch of right coronary artery
+SNOMED CT,868222004,Occlusion of posterior descending branch of right coronary artery
+SNOMED CT,868223009,Occlusion of posterior lateral branch of right coronary artery
+SNOMED CT,868224003,Acute ST segment elevation myocardial infarction due to occlusion of marginal branch of right coronary artery
+SNOMED CT,868225002,Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery
+SNOMED CT,868226001,Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery
+SNOMED CT,5471000124102,Ruptured aneurysm of intracranial artery
+SNOMED CT,5571000124103,Cerebrovascular accident with intracranial hemorrhage
+SNOMED CT,8001000119106,Atherosclerosis of aortoiliac bypass graft
+SNOMED CT,9901000119100,Occlusion of cerebral artery with stroke
+SNOMED CT,17531000119105,Acute myocardial infarction due to left coronary artery occlusion
+SNOMED CT,23311000119105,Acute myocardial infarction due to right coronary artery occlusion
+SNOMED CT,78741000119103,Acute coronary artery occlusion not resulting in myocardial infarction
+SNOMED CT,99451000119105,Cerebral infarction due to stenosis of carotid artery
+SNOMED CT,106021000119105,Multi-infarct dementia due to atherosclerosis
+SNOMED CT,117051000119103,Chronic total occlusion of coronary artery
+SNOMED CT,139011000119104,Coronary arteriosclerosis following coronary artery bypass graft
+SNOMED CT,140911000119109,Ischemic stroke with coma
+SNOMED CT,140921000119102,Ischemic stroke without coma
+SNOMED CT,284871000119105,Atherosclerosis of left carotid artery
+SNOMED CT,284881000119108,Atherosclerosis of right carotid artery
+SNOMED CT,285981000119103,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery
+SNOMED CT,292661000119105,Cerebrovascular accident due to stenosis of right vertebral artery
+SNOMED CT,292671000119104,Cerebrovascular accident due to stenosis of left vertebral artery
+SNOMED CT,292681000119101,Cerebrovascular accident due to right vertebral artery occlusion
+SNOMED CT,292691000119103,Cerebrovascular accident due to occlusion of left vertebral artery
+SNOMED CT,329361000119107,Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus
+SNOMED CT,329371000119101,Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus
+SNOMED CT,329391000119100,Right anterior cerebral artery embolism with stroke
+SNOMED CT,329401000119103,Left anterior cerebral artery embolism with stroke
+SNOMED CT,329421000119107,Cerebrovascular accident due to occlusion of right posterior cerebral artery by embolus
+SNOMED CT,329431000119105,Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus
+SNOMED CT,329451000119104,Cerebrovascular accident due to occlusion of right cerebellar artery by embolus
+SNOMED CT,329461000119102,Cerebrovascular accident due to occlusion of left cerebellar artery by embolus
+SNOMED CT,329621000119105,Cerebrovascular accident due to thrombus of right vertebral artery
+SNOMED CT,329631000119108,Left vertebral artery thrombosis with stroke
+SNOMED CT,329641000119104,Cerebrovascular accident due to thrombus of basilar artery
+SNOMED CT,329651000119102,Cerebrovascular accident due to thrombus of right carotid artery
+SNOMED CT,330111000119103,Ruptured acquired aneurysm of cerebral artery
+SNOMED CT,330791000119108,Cerebrovascular accident due to thrombus of left carotid artery
+SNOMED CT,380001000004106,Subendocardial myocardial infarction
+SNOMED CT,431391000124106,Arteriosclerosis of aorta
+SNOMED CT,431401000124108,Arteriosclerosis of abdominal aorta
+SNOMED CT,431411000124106,Arteriosclerosis of thoracic aorta
+SNOMED CT,431421000124103,Arteriosclerosis of carotid artery
+SNOMED CT,431431000124100,Arteriosclerosis of renal artery
+SNOMED CT,434141000124103,Chronic cerebrovascular accident
+SNOMED CT,436031000124102,Anterior inferior cerebellar artery occlusion with infarction
+SNOMED CT,436041000124107,Posterior inferior cerebellar artery occlusion with infarction
+SNOMED CT,451041000124103,Atherosclerosis of coronary artery without angina pectoris
+SNOMED CT,451361000124102,Lipid-rich atherosclerosis of coronary artery
+SNOMED CT,457551000124104,Acute stroke
+SNOMED CT,461431000124108,Vertebral artery atherosclerosis
+SNOMED CT,461441000124103,Aortic arch atherosclerosis
+SNOMED CT,11018701000119109,Coronary arteriosclerosis after percutaneous coronary angioplasty
+SNOMED CT,12237911000119109,Amaurosis fugax of left eye
+SNOMED CT,12237951000119105,Amaurosis fugax of right eye
+SNOMED CT,12238111000119106,Acute ST segment elevation myocardial infarction of inferolateral wall
+SNOMED CT,12238151000119107,Acute ST segment elevation myocardial infarction of inferoposterior wall
+SNOMED CT,15648641000119100,Atherosclerosis of artery of bilateral upper limbs
+SNOMED CT,15712841000119100,Acute ST segment elevation myocardial infarction of posterolateral wall
+SNOMED CT,15712881000119105,Acute ST segment elevation myocardial infarction of anterolateral wall
+SNOMED CT,15712921000119103,Acute ST segment elevation myocardial infarction of lateral wall
+SNOMED CT,15712961000119108,Acute ST segment elevation myocardial infarction of anteroseptal wall
+SNOMED CT,15713041000119103,Acute ST segment elevation myocardial infarction of posterior wall
+SNOMED CT,15713161000119100,Acute ST segment elevation myocardial infarction of septum
+SNOMED CT,15713201000119105,Acute ST segment elevation myocardial infarction of posterobasal wall
+SNOMED CT,15960061000119102,Unstable angina co-occurrent and due to coronary arteriosclerosis
+SNOMED CT,15960141000119102,Angina co-occurrent and due to coronary arteriosclerosis
+SNOMED CT,15960381000119109,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+SNOMED CT,15960541000119107,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft
+SNOMED CT,15960581000119102,Arteriosclerosis of autologous vein coronary artery bypass graft with angina
+SNOMED CT,15960661000119107,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+SNOMED CT,15960781000119108,Arteriosclerosis of autologous arterial coronary artery bypass graft with angina
+SNOMED CT,15962541000119106,Acute ST segment elevation myocardial infarction of anteroapical wall
+SNOMED CT,16000351000119109,Cerebrovascular accident due to occlusion of left posterior cerebral artery
+SNOMED CT,16000391000119104,Cerebrovascular accident due to occlusion of right posterior cerebral artery
+SNOMED CT,16000431000119109,Cerebrovascular accident due to occlusion of right middle cerebral artery
+SNOMED CT,16000511000119103,Cerebrovascular accident due to occlusion of left middle cerebral artery
+SNOMED CT,16002031000119102,Cerebrovascular accident due to thrombus of right middle cerebral artery
+SNOMED CT,16002071000119104,Cerebrovascular accident due to thrombus of right cerebellar artery
+SNOMED CT,16002111000119106,Cerebrovascular accident due to thrombus of left middle cerebral artery
+SNOMED CT,16002151000119107,Nonpyogenic cerebral venous thrombosis with stroke
+SNOMED CT,16002191000119102,Left cerebellar artery thrombosis with stroke
+SNOMED CT,16002231000119106,Cerebrovascular accident due to thrombus of right posterior cerebral artery
+SNOMED CT,16002271000119109,Left posterior cerebral artery thrombosis with stroke
+SNOMED CT,16002351000119105,Right vertebral artery embolism with stroke
+SNOMED CT,16002391000119100,Left vertebral artery embolism with stroke
+SNOMED CT,16002431000119105,Right carotid artery embolism with stroke
+SNOMED CT,16002471000119108,Left carotid artery embolism with stroke
+SNOMED CT,16002511000119104,Basilar artery embolism with stroke
+SNOMED CT,16023911000119108,Cerebrovascular accident due to right carotid artery occlusion
+SNOMED CT,16023991000119104,Cerebrovascular accident due to occlusion of left pontine artery
+SNOMED CT,16024031000119100,Cerebrovascular accident due to occlusion of right pontine artery
+SNOMED CT,16024111000119109,Cerebrovascular accident due to occlusion of left carotid artery
+SNOMED CT,16024151000119105,Cerebrovascular accident due to occlusion of left cerebellar artery
+SNOMED CT,16024271000119107,Cerebrovascular accident due to occlusion of right cerebellar artery
+SNOMED CT,16026951000119102,Cerebrovascular accident due to right carotid artery stenosis
+SNOMED CT,16371781000119100,Cerebellar stroke
+SNOMED CT,16644681000119102,Cerebrovascular accident due to occlusion of bilateral pontine arteries
+SNOMED CT,16661931000119102,Cerebrovascular accident due to stenosis of bilateral vertebral arteries
+SNOMED CT,16661971000119104,Cerebrovascular accident due to stenosis of bilateral carotid arteries
+SNOMED CT,16754391000119100,Stable angina due to coronary arteriosclerosis
+SNOMED CT,16837681000119104,Myocardial infarction due to demand ischemia
+SNOMED CT,16891151000119103,Coronary artery disease due to type 2 diabetes mellitus
+SNOMED CT,19830001000004106,Thrombosis of left circumflex artery
+SNOMED CT,24654003,Weber syndrome
+SNOMED CT,32574007,"Past myocardial infarction diagnosed on electrocardiogram AND/OR other special investigation, but currently presenting no symptoms"
+SNOMED CT,39925003,"Mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes"
+SNOMED CT,69742007,Monckeberg medial sclerosis
+SNOMED CT,87555007,Rubrospinal cerebellar peduncle syndrome
+SNOMED CT,276221006,Gubler syndrome
+SNOMED CT,791000119109,Angina due to type 2 diabetes mellitus
+SNOMED CT,284861000119104,Atherosclerosis of bilateral carotid arteries
+SNOMED CT,15713081000119108,Acute ST segment elevation myocardial infarction involving left main coronary artery
+SNOMED CT,15713121000119105,Acute STEMI (ST elevation myocardial infarction) due to RCA (right coronary artery) occlusion
+SNOMED CT,16026991000119107,Cerebrovascular accident due to stenosis of left carotid artery
+SNOMED CT,429673002,Arteriosclerosis of coronary artery bypass graft
+SNOMED CT,442224005,Arteriosclerosis of autologous vein coronary artery bypass graft
+SNOMED CT,442240008,Arteriosclerosis of nonautologous coronary artery bypass graft
+SNOMED CT,442421004,Arteriosclerosis of arterial coronary artery bypass graft
+SNOMED CT,444855007,Arteriosclerosis of coronary artery bypass graft of transplanted heart
+SNOMED CT,444856008,Arteriosclerosis of internal mammary artery coronary artery bypass graft
+SNOMED CT,720519003,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome"
+SNOMED CT,204378009,Congenital coronary aneurysm
+SNOMED CT,723862008,Atherosclerosis of non-autologous coronary artery bypass graft
+SNOMED CT,724431008,Atherosclerosis of autologous coronary artery bypass graft
+SNOMED CT,735565009,Perforation of coronary artery co-occurrent and due to aneurysm of coronary artery
+SNOMED CT,735566005,Rupture of coronary artery co-occurrent and due to aneurysm of coronary artery
+SNOMED CT,792844003,Limb pain at rest due to atherosclerosis of artery of lower limb
+SNOMED CT,285141000119106,Arteriosclerosis of autologous arterial coronary artery bypass graft
+SNOMED CT,285151000119108,Arteriosclerosis of autologous coronary artery bypass graft
+SNOMED CT,329671000119106,Traumatic subarachnoid hemorrhage with loss of consciousness
+SNOMED CT,430851000124104,Multiple and bilateral precerebral artery stenosis with infarction
+SNOMED CT,434881000124100,Multiple and bilateral precerebral arterial occlusion with infarction
+SNOMED CT,455941000124104,Occlusion of circumflex coronary artery
+SNOMED CT,12236911000119107,Bilateral atherosclerosis of arteries of lower limbs
+SNOMED CT,12236991000119103,Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis
+SNOMED CT,12237031000119103,Atherosclerosis of arteries of left lower limb
+SNOMED CT,12237111000119107,Pain at rest of left lower limb co-occurrent and due to atherosclerosis
+SNOMED CT,12237151000119108,Atherosclerosis of arteries of right lower limb
+SNOMED CT,12237231000119107,Pain at rest of right lower limb co-occurrent and due to atherosclerosis
+SNOMED CT,15648601000119102,Atherosclerosis of artery of right upper limb
+SNOMED CT,15648691000119108,Atherosclerosis of artery of left upper limb
+SNOMED CT,15648731000119101,Atherosclerosis of right renal artery
+SNOMED CT,15648771000119103,Atherosclerosis of bilateral renal arteries
+SNOMED CT,15648821000119105,Atherosclerosis of left renal artery
+SNOMED CT,15649941000119102,Bilateral atherosclerosis of lower limbs with gangrene
+SNOMED CT,15710281000119108,Atherosclerosis of autologous bypass graft of right lower extremity
+SNOMED CT,15710361000119108,Atherosclerosis of nonautologous biological bypass graft of left lower limb
+SNOMED CT,15710401000119104,Atherosclerosis of bypass graft of right lower limb
+SNOMED CT,15710441000119102,Atherosclerosis of bypass graft of left lower limb
+SNOMED CT,15710481000119107,Atherosclerosis of nonautologous biological bypass graft of right lower limb
+SNOMED CT,15710521000119107,Atherosclerosis of autologous bypass graft of left lower extremity
+SNOMED CT,15710561000119102,Atherosclerosis of autologous bypass graft of bilateral lower limbs
+SNOMED CT,15710601000119102,Atherosclerosis of bypass graft of bilateral lower limbs
+SNOMED CT,15963181000119104,Acute ST segment elevation myocardial infarction due to occlusion of circumflex coronary artery
+SNOMED CT,16000471000119107,Cerebrovascular accident due to occlusion of left anterior cerebral artery
+SNOMED CT,16000551000119102,Cerebrovascular accident due to occlusion of right anterior cerebral artery
+SNOMED CT,16013351000119104,Claudication of bilateral upper limbs co-occurrent and due to atherosclerosis
+SNOMED CT,16013711000119104,Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis of bypass graft
+SNOMED CT,16013871000119104,Claudication of right upper limb co-occurrent and due to atherosclerosis
+SNOMED CT,16014031000119109,Atherosclerosis of bypass graft of left lower limb with intermittent claudication
+SNOMED CT,16014071000119107,Atherosclerosis of bypass graft of bilateral lower limbs with intermittent claudication
+SNOMED CT,16014231000119100,Claudication of left upper limb co-occurrent and due to atherosclerosis
+SNOMED CT,16018831000119106,Atherosclerosis of bilateral iliac arteries
+SNOMED CT,16018911000119107,Bilateral lower limb atherosclerosis of non-biological bypass graft
+SNOMED CT,16019471000119104,Atherosclerosis of left iliac artery
+SNOMED CT,16019511000119108,Atherosclerosis of right iliac artery
+SNOMED CT,16024191000119100,Cerebrovascular accident due to occlusion of left posterior communicating artery
+SNOMED CT,16024231000119109,Cerebrovascular accident due to occlusion of right posterior communicating artery
+SNOMED CT,16025471000119107,Aneurysm of coronary artery due to and following acute febrile mucocutaneous lymph node syndrome
+SNOMED CT,16064811000119108,Atherosclerosis of bypass graft of left lower limb with gangrene
+SNOMED CT,16066731000119102,Pain at rest of right lower limb co-occurrent and due to atherosclerosis of bypass graft
+SNOMED CT,16899261000119106,Atherosclerosis of superior mesenteric artery
+SNOMED CT,16065251000119109,Atherosclerosis of bypass graft of right lower limb with gangrene
+SNOMED CT,15960341000119104,Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart
+SNOMED CT,15960461000119105,Unstable angina due to arteriosclerosis of autologous arterial coronary artery bypass graft
+SNOMED CT,16018991000119103,Atherosclerosis of autologous vein bypass graft of left upper limb
+SNOMED CT,16019031000119105,Atherosclerosis of autologous vein bypass graft of right upper limb
+SNOMED CT,16019351000119102,Atherosclerosis of bypass graft of left upper limb
+SNOMED CT,16019431000119102,Atherosclerosis of bypass graft of right upper limb
+SNOMED CT,16891111000119104,Idiopathic ischemic stroke
+SNOMED CT,16891191000119108,Coronary artery disease due to type 1 diabetes mellitus
+SNOMED CT,595899961000119100,Cerebrovascular accident of basal ganglia
+SNOMED CT,652287331000119104,Cerebrovascular accident of brainstem
+SNOMED CT,726499301000119105,Myocardial infarction due to atherothrombotic coronary artery disease
+SNOMED CT,879955009,Myocardial infarction with non-obstructive coronary artery
+SNOMED CT,881694631000119107,Cerebrovascular accident of medulla oblongata
+SNOMED CT,896689003,Acute myocardial infarction due to occlusion of circumflex branch of left coronary artery
+SNOMED CT,896690007,Occlusion of circumflex branch of left coronary artery
+SNOMED CT,896691006,Acute ST segment elevation myocardial infarction due to occlusion of circumflex branch of left coronary artery
+SNOMED CT,896696001,Acute ST segment elevation myocardial infarction of apex of heart
+SNOMED CT,896697005,Acute ST segment elevation myocardial infarction of right ventricle
+SNOMED CT,915141931000119109,Cerebrovascular accident due to embolism of basilar artery
+SNOMED CT,107557061000119108,Cerebrovascular accident due to embolism of bilateral anterior cerebral arteries
+SNOMED CT,1142056004,Neonatal ischemic stroke
+SNOMED CT,117776611000119102,Cerebrovascular accident due to occlusion of left posterior communicating artery
+SNOMED CT,152148641000119104,Cerebrovascular accident due to embolism of bilateral carotid arteries
+SNOMED CT,15710321000119103,Bilateral atherosclerosis of nonautologous biological bypass graft of lower limbs
+SNOMED CT,16019311000119103,Left lower limb atherosclerosis of nonbiological bypass graft
+SNOMED CT,16019391000119107,Right lower limb atherosclerosis of nonbiological bypass graft
+SNOMED CT,168747591000119109,Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries
+SNOMED CT,182960891000119101,Cerebrovascular accident due to occlusion of left anterior cerebral artery
+SNOMED CT,188174841000119103,Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries
+SNOMED CT,239965291000119107,Cerebrovascular accident due to occlusion of basilar artery
+SNOMED CT,251770561000119107,Cerebrovascular accident due to embolism of left anterior cerebral artery
+SNOMED CT,346674811000119104,Cerebrovascular accident due to occlusion of bilateral cerebellar arteries
+SNOMED CT,384430101000119103,Cerebrovascular accident due to embolism of right carotid artery
+SNOMED CT,38595071000119104,Cerebrovascular accident due to thrombosis of right posterior cerebral artery
+SNOMED CT,496369931000119104,Cerebrovascular accident due to thrombosis of right cerebellar artery
+SNOMED CT,511452481000119102,Cerebrovascular accident due to thrombosis of right vertebral artery
+SNOMED CT,517253051000119105,Cerebrovascular accident due to embolism of left vertebral artery
+SNOMED CT,58173271000119101,Cerebrovascular accident due to embolism of bilateral cerebellar arteries
+SNOMED CT,655081461000119101,Cerebrovascular accident due to occlusion of right anterior cerebral artery
+SNOMED CT,720261501000119107,Cerebrovascular accident due to occlusion of bilateral anterior cerebral arteries
+SNOMED CT,732330391000119107,Cerebrovascular accident due to embolism of bilateral vertebral arteries
+SNOMED CT,759950981000119101,Cerebrovascular accident due to thrombosis of left vertebral artery
+SNOMED CT,769023031000119104,Cerebrovascular accident of thalamus
+SNOMED CT,806161651000119106,Cerebrovascular accident due to embolism of right vertebral artery
+SNOMED CT,849488701000119104,Cerebrovascular accident due to embolism of right anterior cerebral artery
+SNOMED CT,849579281000119106,Cerebrovascular accident due to occlusion of right posterior communicating artery
+SNOMED CT,851365731000119106,Cerebrovascular accident due to thrombosis of left posterior cerebral artery
+SNOMED CT,859422751000119101,Cerebrovascular accident due to embolism of left carotid artery
+SNOMED CT,86553761000119103,Cerebrovascular accident due to occlusion of bilateral posterior cerebral arteries
+SNOMED CT,898941951000119108,Cerebrovascular accident due to occlusion of bilateral vertebral arteries
+SNOMED CT,939885431000119109,Cerebrovascular accident due to embolism of bilateral middle cerebral arteries
+SNOMED CT,957319791000119104,Cerebrovascular accident due to thrombosis of left cerebellar artery
+Truveta,1215926,Cerebrovascular accident (CVA) associated with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection
+SNOMED CT,1169367003,Multifocal atherosclerosis
+SNOMED CT,1204170004,Atherosclerosis of abdominal visceral artery
+SNOMED CT,1204144000,Atherosclerosis of axillary artery
+SNOMED CT,1204145004,Atherosclerosis of brachial artery
+SNOMED CT,1204175009,Atherosclerosis of crural artery
+SNOMED CT,1204176005,Atherosclerosis of iliac artery
+SNOMED CT,1204173002,Atherosclerosis of popliteal artery
+SNOMED CT,1204174008,Atherosclerosis of subclavian artery
+SNOMED CT,1204172007,Atherosclerosis of superficial femoral artery
+SNOMED CT,1204151009,Acute inferior non-ST segment elevation myocardial infarction of right ventricle
+SNOMED CT,1204154001,Acute anterior non-ST segment elevation myocardial infarction with right ventricular involvement
+SNOMED CT,1204155000,Acute anterior non-ST segment elevation myocardial infarction
+SNOMED CT,1204152002,Acute inferior non-ST segment elevation myocardial infarction
+SNOMED CT,1204222000,Acute non-ST segment elevation myocardial infarction of right ventricle
+SNOMED CT,1197429000,"Cathepsin A-related arteriopathy, strokes, leukoencephalopathy"
+SNOMED CT,1231168008,Malignant middle cerebral artery syndrome
+SNOMED CT,1197363004,Pediatric arterial ischemic stroke
+SNOMED CT,1208872002,Subsequent anterior non-ST segment elevation myocardial infarction
+SNOMED CT,1208873007,Subsequent inferior non-ST segment elevation myocardial infarction
+SNOMED CT,1208871009,Transient ischemic attack co-occurrent with subarachnoid hemorrhage
+SNOMED CT,293671000119109,Behavioral disturbance due to multi-infarct dementia
+SNOMED CT,1163440003,Postoperative acute myocardial infarction

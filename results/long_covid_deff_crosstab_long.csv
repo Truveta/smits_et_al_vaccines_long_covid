@@ -1,0 +1,5 @@
+cdc,diagnosis,count
+long covid,long covid diagnosis,957
+no long covid,long covid diagnosis,2253
+long covid,no long covid diagnosis,58682
+no long covid,no long covid diagnosis,376539

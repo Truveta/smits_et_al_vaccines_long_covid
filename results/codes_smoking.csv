@@ -1,0 +1,62 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,F17,Nicotine dependence
+ICD10CM,O99.33,"Tobacco use disorder complicating pregnancy, childbirth, and the puerperium"
+ICD10CM,Z53.01,Procedure and treatment not carried out due to patient smoking
+ICD10CM,Z72.0,Tobacco use
+ICD10CM,Z87.891,Personal history of nicotine dependence
+ICD10CM,F17.2,Nicotine dependence
+ICD10CM,F17.20,"Nicotine dependence, unspecified"
+ICD10CM,F17.200,"Nicotine dependence, unspecified, uncomplicated"
+ICD10CM,F17.201,"Nicotine dependence, unspecified, in remission"
+ICD10CM,F17.203,"Nicotine dependence unspecified, with withdrawal"
+ICD10CM,F17.208,"Nicotine dependence, unspecified, with other nicotine-induced disorders"
+ICD10CM,F17.209,"Nicotine dependence, unspecified, with unspecified nicotine-induced disorders"
+ICD10CM,F17.21,"Nicotine dependence, cigarettes"
+ICD10CM,F17.210,"Nicotine dependence, cigarettes, uncomplicated"
+ICD10CM,F17.211,"Nicotine dependence, cigarettes, in remission"
+ICD10CM,F17.213,"Nicotine dependence, cigarettes, with withdrawal"
+ICD10CM,F17.218,"Nicotine dependence, cigarettes, with other nicotine-induced disorders"
+ICD10CM,F17.219,"Nicotine dependence, cigarettes, with unspecified nicotine-induced disorders"
+ICD10CM,F17.22,"Nicotine dependence, chewing tobacco"
+ICD10CM,F17.220,"Nicotine dependence, chewing tobacco, uncomplicated"
+ICD10CM,F17.221,"Nicotine dependence, chewing tobacco, in remission"
+ICD10CM,F17.223,"Nicotine dependence, chewing tobacco, with withdrawal"
+ICD10CM,F17.228,"Nicotine dependence, chewing tobacco, with other nicotine-induced disorders"
+ICD10CM,F17.229,"Nicotine dependence, chewing tobacco, with unspecified nicotine-induced disorders"
+ICD10CM,F17.29,"Nicotine dependence, other tobacco product"
+ICD10CM,F17.290,"Nicotine dependence, other tobacco product, uncomplicated"
+ICD10CM,F17.291,"Nicotine dependence, other tobacco product, in remission"
+ICD10CM,F17.293,"Nicotine dependence, other tobacco product, with withdrawal"
+ICD10CM,F17.298,"Nicotine dependence, other tobacco product, with other nicotine-induced disorders"
+ICD10CM,F17.299,"Nicotine dependence, other tobacco product, with unspecified nicotine-induced disorders"
+ICD10CM,O99.330,"Smoking (tobacco) complicating pregnancy, unspecified trimester"
+ICD10CM,O99.331,"Smoking (tobacco) complicating pregnancy, first trimester"
+ICD10CM,O99.332,"Smoking (tobacco) complicating pregnancy, second trimester"
+ICD10CM,O99.333,"Smoking (tobacco) complicating pregnancy, third trimester"
+ICD10CM,O99.334,Smoking (tobacco) complicating childbirth
+ICD10CM,O99.335,Smoking (tobacco) complicating the puerperium
+SNOMED CT,77176002,Smoking
+SNOMED CT,266920004,Trivial cigarette smoker (less than one cigarette/day)
+SNOMED CT,266929003,Smoking started
+SNOMED CT,308438006,Smoking restarted
+SNOMED CT,82302008,Pipe smoker
+SNOMED CT,160603005,Light cigarette smoker (1-9 cigs/day)
+SNOMED CT,160604004,Moderate cigarette smoker (10-19 cigs/day)
+SNOMED CT,160605003,Heavy cigarette smoker (20-39 cigs/day)
+SNOMED CT,160606002,Very heavy cigarette smoker (40+ cigs/day)
+SNOMED CT,160619003,Rolls own cigarettes
+SNOMED CT,230059006,Occasional cigarette smoker
+SNOMED CT,230060001,Light cigarette smoker
+SNOMED CT,230062009,Moderate cigarette smoker
+SNOMED CT,230063004,Heavy cigarette smoker
+SNOMED CT,230064005,Very heavy cigarette smoker
+SNOMED CT,230065006,Chain smoker
+SNOMED CT,56578002,Moderate smoker (20 or less per day)
+SNOMED CT,56771006,Heavy smoker (over 20 per day)
+SNOMED CT,59978006,Cigar smoker
+SNOMED CT,65568007,Cigarette smoker
+SNOMED CT,428061000124105,Light tobacco smoker
+SNOMED CT,428071000124103,Heavy tobacco smoker
+SNOMED CT,450811000124104,Cigarette smoker (5-9 cigarettes/day)
+SNOMED CT,450821000124107,Cigarette smoker (1-4 cigarettes/day)
+SNOMED CT,428041000124106,Occasional tobacco smoker

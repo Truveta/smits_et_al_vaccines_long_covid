@@ -1,0 +1,77 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,R19.7,"Diarrhea, unspecified"
+SNOMED CT,62315008,Diarrhea
+SNOMED CT,267060006,Diarrhea symptom
+SNOMED CT,268651002,Psychogenic diarrhea
+SNOMED CT,268850004,Neonatal diarrhea
+SNOMED CT,274081004,Bacillary dysentery
+SNOMED CT,275297005,"Diarrhea and vomiting, symptom"
+SNOMED CT,276524004,Neonatal chloridorrhea
+SNOMED CT,288199005,Diarrhea and vomiting after gastrointestinal tract surgery
+SNOMED CT,301469002,Antibiotic-associated diarrhea
+SNOMED CT,312109000,Bacterial dysentery
+SNOMED CT,387754006,Amebic dysentery
+SNOMED CT,398570005,Diarrhea due to staphylococcus
+SNOMED CT,409587002,Severe diarrhea
+SNOMED CT,409966000,Acute diarrhea
+SNOMED CT,425739008,Brainerd diarrhea
+SNOMED CT,428867008,Diarrhea due to drug
+SNOMED CT,703406006,Trichohepatoenteric syndrome
+SNOMED CT,716277000,Chronic diarrhea due to glucoamylase deficiency
+SNOMED CT,720009004,Intractable diarrhea with choanal atresia and eye anomaly syndrome
+SNOMED CT,721615009,Non-infective neonatal diarrhea
+SNOMED CT,69980003,Non-infective diarrhea
+SNOMED CT,82047000,Diarrhea due to alcohol intake
+SNOMED CT,83134002,Dietetic diarrhea
+SNOMED CT,86615009,Epidemic diarrhea
+SNOMED CT,95544006,Inflammatory diarrhea
+SNOMED CT,95545007,Hemorrhagic diarrhea
+SNOMED CT,95879001,Diarrheic shellfish poisoning
+SNOMED CT,111911008,Chronic intestinal amebiasis without abscess
+SNOMED CT,111912001,Acute amebic dysentery without abscess
+SNOMED CT,186116005,Acute amebic dysentery
+SNOMED CT,197125005,Irritable bowel syndrome with diarrhea
+SNOMED CT,197132001,Diarrhea after gastrointestinal tract surgery
+SNOMED CT,235839006,Irritable bowel syndrome variant of childhood with diarrhea
+SNOMED CT,236066002,Prototheca diarrhea
+SNOMED CT,236071009,Chronic diarrhea
+SNOMED CT,236074001,Diarrhea due to laxative abuse
+SNOMED CT,236075000,Diarrhea due to ingestion of unabsorbable substances
+SNOMED CT,236077008,Protracted diarrhea
+SNOMED CT,236078003,Post-vagotomy diarrhea
+SNOMED CT,249517009,Constipation alternates with diarrhea
+SNOMED CT,249519007,Diarrhea and vomiting
+SNOMED CT,2919008,"Nausea, vomiting and diarrhea"
+SNOMED CT,2946003,Osmotic diarrhea
+SNOMED CT,11003002,Nervous diarrhea
+SNOMED CT,14384003,Postprandial diarrhea
+SNOMED CT,15699003,Secretory diarrhea
+SNOMED CT,17551007,Chronic diarrhea of unknown origin
+SNOMED CT,18168004,Raw-milk associated diarrhea
+SNOMED CT,18425006,Passage of rice water stools
+SNOMED CT,18805001,"Congenital secretory diarrhea, sodium type"
+SNOMED CT,19213003,Infectious diarrheal disease
+SNOMED CT,23874000,Chronic amebiasis
+SNOMED CT,24412005,"Congenital secretory diarrhea, chloride type"
+SNOMED CT,25319005,Chronic diarrhea of infants AND/OR young children
+SNOMED CT,25898005,Congenital secretory diarrhea
+SNOMED CT,31499008,Chronic constipation with overflow
+SNOMED CT,36188001,Shigellosis
+SNOMED CT,38205001,Diarrhea due to diabetes mellitus
+SNOMED CT,39963006,Toddler diarrhea
+SNOMED CT,43240000,Diarrhea of presumed infectious origin
+SNOMED CT,46799006,Dysenteric diarrhea
+SNOMED CT,49237006,Allergic diarrhea
+SNOMED CT,53156005,Postcholecystectomy diarrhea
+SNOMED CT,57725006,Balantidiasis
+SNOMED CT,722392003,Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells
+SNOMED CT,734019006,Chronic diarrhea with villous atrophy syndrome
+SNOMED CT,734884008,Carcinoid syndrome diarrhea
+SNOMED CT,773579007,Congenital chronic diarrhea with protein-losing enteropathy
+SNOMED CT,785727000,Chronic infantile diarrhea due to guanylate cyclase 2C overactivity
+SNOMED CT,5891000119102,Clostridium difficile diarrhea
+SNOMED CT,11718971000119100,Diarrhea in pregnancy
+SNOMED CT,11840006,Traveler's diarrhoea
+SNOMED CT,128333008,Diarrhoeal disorder
+Truveta,1215942,Diarrhea due to COVID-19
+SNOMED CT,1222709003,Syndromic congenital sodium diarrhea

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='576.00pt' viewBox='0 0 576.00 576.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='576.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTQ4Ljk3fDU3MC41Mnw0OS4yM3w1MzcuNTU='>
+    <rect x='148.97' y='49.23' width='421.55' height='488.31' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTQ4Ljk3fDU3MC41Mnw0OS4yM3w1MzcuNTU=)'>
+<polyline points='196.74,537.55 196.74,49.23 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='275.54,537.55 275.54,49.23 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='354.35,537.55 354.35,49.23 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='433.15,537.55 433.15,49.23 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='511.96,537.55 511.96,49.23 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='148.97,404.37 570.52,404.37 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='148.97,182.41 570.52,182.41 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='157.34,537.55 157.34,49.23 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='236.14,537.55 236.14,49.23 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='314.95,537.55 314.95,49.23 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='393.75,537.55 393.75,49.23 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='472.56,537.55 472.56,49.23 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='551.36,537.55 551.36,49.23 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<line x1='551.36' y1='537.55' x2='551.36' y2='49.23' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<line x1='168.13' y1='404.37' x2='326.05' y2='404.37' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<line x1='314.10' y1='182.41' x2='546.61' y2='182.41' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<circle cx='245.99' cy='404.37' r='2.84' style='stroke-width: 1.42; fill: #000000;' />
+<circle cx='428.13' cy='182.41' r='2.84' style='stroke-width: 1.42; fill: #000000;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+<text x='83.16' y='408.75' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='121.77px' lengthAdjust='spacingAndGlyphs'>vaccinated_at_covid</text>
+<text x='83.16' y='186.78' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='104.36px' lengthAdjust='spacingAndGlyphs'>boosted_at_covid</text>
+<text x='157.34' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>0.875</text>
+<text x='236.14' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>0.900</text>
+<text x='314.95' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>0.925</text>
+<text x='393.75' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>0.950</text>
+<text x='472.56' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>0.975</text>
+<text x='551.36' y='551.23' text-anchor='middle' style='font-size: 12.00px; font-family: "DejaVu Sans";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>1.000</text>
+<text x='359.75' y='567.40' text-anchor='middle' style='font-size: 15.00px; font-family: "DejaVu Sans";' textLength='96.20px' lengthAdjust='spacingAndGlyphs'>Hazard Ratio</text>
+<text transform='translate(16.42,293.39) rotate(-90)' text-anchor='middle' style='font-size: 15.00px; font-family: "DejaVu Sans";' textLength='72.34px' lengthAdjust='spacingAndGlyphs'>Covariate</text>
+<text x='148.97' y='40.64' style='font-size: 15.00px; font-family: "DejaVu Sans";' textLength='337.84px' lengthAdjust='spacingAndGlyphs'>Vaccination status at time of COVID infection</text>
+<text x='148.97' y='20.06' style='font-size: 20.00px;fill: #3237B4; font-family: "DejaVu Sans";' textLength='577.88px' lengthAdjust='spacingAndGlyphs'>Hazard ratio for risk of developing Long COVID symptoms</text>
+</g>
+</svg>

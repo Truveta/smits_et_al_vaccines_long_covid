@@ -1,0 +1,79 @@
+CodeSystem,ConceptCode,ConceptName
+CVX,207,"SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose"
+CVX,208,"SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose"
+CVX,212,"SARS-COV-2 (COVID-19) vaccine, vector non-replicating, recombinant spike protein-Ad26, preservative free, 0.5 mL"
+CVX,217,"SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3 mL dose, tris-sucrose formulation"
+CVX,218,"SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 10 mcg/0.2 mL dose, tris-sucrose formulation"
+CVX,219,"SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 3 mcg/0.2 mL dose, tris-sucrose formulation"
+CVX,300,"SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent booster, preservative free, 30 mcg/0.3mL dose, tris-sucrose formulation"
+CVX,301,"SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, bivalent booster, preservative free, 10 mcg/0.2 mL dose, tris-sucrose formulation"
+CVX,221,"COVID-19, mRNA, LNP-S, PF, 50 mcg/0.5 mL dose"
+CVX,228,"COVID-19, mRNA, LNP-S, PF, pediatric 25 mcg/0.25 mL dose"
+RxNorm,2470234,"SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 0.2 MG/ML Injectable Suspension"
+RxNorm,2468235,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+RxNorm,2479835,"SARS-COV-2 (COVID-19) vaccine, vector - Ad26 100000000000 UNT/ML Injectable Suspension"
+RxNorm,2583743,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.05 MG/ML Injectable Suspension"
+RxNorm,2606078,"SARS-CoV-2 (COVID-19) vaccine, protein NVX-CoV2373 0.01 MG/ML Injectable Suspension"
+RxNorm,2598700,"SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 0.1 MG/ML Injectable Suspension"
+RxNorm,2593847,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension [Comirnaty]"
+RxNorm,2601552,"SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 0.2 MG/ML Injectable Suspension [Spikevax]"
+NDC,59267007801,"PFIZER-BIONTECH COVID-19 VACCINE - bnt162b2 injection, suspension"
+NDC,59267007804,"bnt162b2 3ug/.2mL INTRAMUSCULAR INJECTION, SUSPENSION"
+NDC,59267100001,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+NDC,59267100002,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+NDC,59267100003,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+NDC,59267102501,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+NDC,59267102502,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+NDC,59267102503,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+NDC,59267102504,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension"
+NDC,59267105501,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.05 MG/ML Injectable Suspension"
+NDC,59267105502,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.05 MG/ML Injectable Suspension"
+NDC,59267105504,"SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.05 MG/ML Injectable Suspension"
+NDC,59676058005,"Janssen COVID-19 vaccine, DNA, spike protein, adenovirus type 26 (Ad26) vector, preservative free, 5x1010 viral particles/0.5mL dosage, for intramuscular use"
+NDC,59676058015,"SARS-COV-2 (COVID-19) vaccine, vector - Ad26 100000000000 UNT/ML Injectable Suspension"
+NDC,80777027310,"SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 0.2 MG/ML Injectable Suspension"
+NDC,80777027315,"SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 0.2 MG/ML Injectable Suspension"
+NDC,80777027398,"SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 0.2 MG/ML Injectable Suspension"
+NDC,80777027399,"SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 0.2 MG/ML Injectable Suspension"
+CPT,0094A,"Administration of coronavirus vaccine 10, reserved"
+CPT,0093A,"Administration of coronavirus vaccine 10, booster"
+CPT,0091A,"Administration of coronavirus vaccine 10, dose 1"
+CPT,0002A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3 mL dosage, diluent reconstituted; second dose"
+CPT,0011A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5 mL dosage; first dose"
+CPT,0022A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, DNA, spike protein, chimpanzee adenovirus Oxford 1 (ChAdOx1) vector, preservative free, 5x1010 viral particles/0.5 mL dosage; second dose"
+CPT,0021A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, DNA, spike protein, chimpanzee adenovirus Oxford 1 (ChAdOx1) vector, preservative free, 5x1010 viral particles/0.5 mL dosage; first dose"
+CPT,0034A,"Administration of coronavirus vaccine 4, reserved"
+CPT,0042A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5 mL dosage; second dose"
+CPT,0041A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5 mL dosage; first dose"
+CPT,0072A,Pfizer-BioNTech Covid-19 Pediatric Vaccine - Administration - Second dose
+CPT,0064A,Moderna Covid-19 Vaccine (Low Dose) Administration - Booster
+CPT,0054A,Pfizer-BioNTech Covid-19 Vaccine (Ready to Use) Administration - Booster
+CPT,0071A,Pfizer-BioNTech Covid-19 Pediatric Vaccine - Administration - First dose
+CPT,0012A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5 mL dosage; second dose"
+CPT,0031A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, DNA, spike protein, adenovirus type 26 (Ad26) vector, preservative free, 5x1010 viral particles/0.5 mL dosage, single dose"
+CPT,0001A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3 mL dosage, diluent reconstituted; first dose"
+CPT,91302,"Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, DNA, spike protein, chimpanzee adenovirus Oxford 1 (ChAdOx1) vector, preservative free, 5x1010 viral particles/0.5 mL dosage, for intramuscular use"
+CPT,91303,"Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, DNA, spike protein, adenovirus type 26 (Ad26) vector, preservative free, 5x1010 viral particles/0.5 mL dosage, for intramuscular use"
+CPT,91300,"Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3 mL dosage, diluent reconstituted, for intramuscular use"
+CPT,91301,"Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5 mL dosage, for intramuscular use"
+CPT,0081A,"Administration of coronavirus vaccine 9, dose 1"
+CPT,0003A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 30 mcg/0.3 mL dosage, diluent reconstituted; third dose"
+CPT,0051A,Pfizer-BioNTech Covid-19 Vaccine (Ready to Use) Administration - First dose
+CPT,0053A,Pfizer-BioNTech Covid-19 Vaccine (Ready to Use) Administration - Third dose
+CPT,0083A,"Administration of coronavirus vaccine 9, booster"
+CPT,0052A,Pfizer-BioNTech Covid-19 Vaccine (Ready to Use) Administration - Second dose
+CPT,0073A,"Administration of coronavirus vaccine 8, booster"
+CPT,0104A,"Administration of coronavirus vaccine 11, reserved"
+CPT,0004A,Pfizer-BioNTech Covid-19 Vaccine Administration - Booster
+CPT,0074A,"Administration of coronavirus vaccine 8, reserved"
+CPT,0013A,"Immunization administration by intramuscular injection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, mRNA-LNP, spike protein, preservative free, 100 mcg/0.5 mL dosage; third dose"
+CPT,0092A,"Administration of coronavirus vaccine 10, dose 2"
+CPT,0082A,"Administration of coronavirus vaccine 9, dose 2"
+CPT,91305,Pfizer-BioNTech Covid-19 Vaccine (Ready to Use)
+CPT,M0201,Covid-19 vaccine administration inside a patient's home; reported only once per individual home per date of service when only covid-19 vaccine administration is performed at the patient's home
+CPT,91306,Moderna Covid-19 Vaccine (Low Dose)
+CPT,91307,Pfizer-BioNTech Covid-19 Pediatric Vaccine
+CPT,91308,Coronavirus vaccine 9
+CPT,91309,Coronavirus vaccine 10
+CPT,91310,Coronavirus vaccine 11
+CPT,91304,"Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (coronavirus disease [COVID-19]) vaccine, recombinant spike protein nanoparticle, saponin-based adjuvant, preservative free, 5 mcg/0.5 mL dosage, for intramuscular use"
